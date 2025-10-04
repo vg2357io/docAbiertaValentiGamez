@@ -26,7 +26,7 @@ Adquirirlos puede ser difícil y perderlos muy fácil, pero son los que marcan l
     - Rota tus toallas cada mes: compra una nueva y dona la más antigua.
 
 - **Introduce hábitos de forma gradual**:
-    - No intentes añadir varios hábitos a la vez. Máximo uno cada dos semanas.
+    - No intentes añadir varios hábitos a la vez. Uno cada dos semanas es bueno.
     - Evita hábitos demasiado complejos desde el inicio.
     - Establece recompensas a largo plazo: un capricho, un plan especial, un día libre para ti.
 
@@ -34,7 +34,7 @@ Adquirirlos puede ser difícil y perderlos muy fácil, pero son los que marcan l
 
 ## Regla de oro
 
-**Empieza siempre poco a poco.**  
+**Empieza poco a poco.**  
 Algunos ejemplos:
 
 - Si nunca lees, comienza con resúmenes cortos antes de informes largos.

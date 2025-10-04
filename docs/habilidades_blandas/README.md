@@ -1,6 +1,6 @@
 # Habilidades Blandas
 
-Conjunto de principios y prácticas esenciales para el desarrollo profesional integral. Se enfatiza la importancia de construir bases sólidas antes de especializarse, ya que lo específico da velocidad pero lo básico proporciona solidez y capacidad de adaptación a largo plazo.
+Un conjunto de principios y prácticas esenciales para el desarrollo profesional integral. Se enfatiza la importancia de construir bases sólidas antes de especializarse, ya que lo específico da velocidad pero lo básico proporciona solidez y capacidad de adaptación a largo plazo.
 
 El contenido aborda la definición de objetivos personales profundos que guíen la motivación, la implementación de hábitos sostenibles mediante asociación con rutinas existentes y recompensas graduales, y la aplicación de técnicas de trabajo probadas como Pomodoro, Feynman y GTD para mejorar la productividad.
 

@@ -1,7 +1,7 @@
 # IA como Secretario
 
 La inteligencia artificial es una herramienta poderosa, pero como toda herramienta, **requiere supervisión y criterio humano**.  
-La entrega de cualquier trabajo profesional siempre se hace a nombre de una persona. Si, como ilustrador(a) o project manager, entregas una creatividad o una tarea sin la debida revisión, corres el riesgo de **devaluar tu trabajo y tu reputación profesional**.
+La entrega de cualquier trabajo profesional siempre se hace a nombre de una persona. Si, como ilustrador o project manager, entregas una creatividad o una tarea sin la debida revisión, corres el riesgo de **devaluar tu trabajo y tu reputación profesional**.
 
 ---
 
