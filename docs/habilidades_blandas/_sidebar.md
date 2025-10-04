@@ -1,6 +1,6 @@
 * [Web Valentí Gàmez](https://valentigamez.com)
 
-* [Ir al inicio](/)
+* [Ver otros temas](/)
 
 * [Objetivos personales](habilidades_blandas/objetivos_personales.md)
 
