@@ -20,6 +20,7 @@ La licencia para su uso es CC0.
 * [Web Valentí Gàmez](https://valentigamez.com)
 
 * Formación
+    * [Habilidades Blandas](/habilidades_blandas/)
     * [Agentes IA](/agentes_ia/)
 
 * Desarrollo de software
