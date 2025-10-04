@@ -1,29 +1,52 @@
 # Objetivos personales
 
-Para cualquier persona que quiera aprender lo que sea, un empleado, un estudiante o incluso un aficionado, es importante marcarse objetivos personales para mantener la motivación.
+Para cualquier persona —ya sea empleado, estudiante o aficionado— es fundamental marcarse **objetivos personales**.  
+Son los que mantienen la motivación y guían el aprendizaje en el tiempo.
+
+---
 
 ## Motivo
 
-Define el por qué estás siguiendo tu camino, aunque sea un desvío temporal.
+El primer paso es definir **el porqué** de tu camino, incluso si se trata de un desvío temporal.
 
-¿Quieres aprender japonés? ¿Por qué lo estás haciendo? Porqué me gusta el anime, la cultura japonesa y quiero vivir una temporada con la mejor inmersión que pueda. Este es un objetivo vital y potente.
+- **Ejemplo 1**:  
+  Quiero aprender japonés.  
+  **Por qué:** me gusta el anime, la cultura japonesa y deseo vivir una temporada en Japón con la mejor inmersión posible.  
+  👉 Este es un objetivo vital y potente.
 
-¿Quieres publicar un video a la semana sobre maquillaje? ¿Por qué lo estás haciendo? Quiero ganar dinero. Puede que no sea suficiente, las finanzas solo son uno de los cuatro pilares de la humanidad: cuerpo, mente, relaciones y finanzas. Quiero ganar dinero cuidando mi cuerpo, creando una comunidad y explorar los límites de mi belleza. Ese si es un objetivo potente.
+- **Ejemplo 2**:  
+  Quiero publicar un vídeo semanal sobre maquillaje.  
+  **Por qué:** quiero ganar dinero.  
+  Ese motivo puede ser insuficiente. El dinero solo es uno de los cuatro pilares: **cuerpo, mente, relaciones y finanzas**.  
+  Una formulación más sólida sería: “Quiero generar ingresos cuidando mi cuerpo, construyendo una comunidad y explorando mi creatividad en la belleza”.  
+  👉 Este sí es un objetivo potente.
 
-No hay prisa por definirlos, pero es importante tenerlos y no paralizarte por sobrepensarlo.
+No tengas prisa en definir tus motivos, pero tampoco te paralices por sobrepensarlos. Lo importante es tenerlos claros.
+
+---
 
 ## Objetivos a corto plazo
 
-Tan importante es el por qué general como el diario o semanal. Sin uno es muy difícil conseguir el otro.
+Tan importante como el **por qué general** son los objetivos **diarios o semanales**.  
+Sin los pequeños pasos, es difícil alcanzar las metas mayores.
 
-¿Quieres crear un videojuego de cartas? Esta semana voy a aprender definitivamente qué son las máquinas de estado. Hoy voy a crear mi plan de 4 días de estudio, una hora y media al día.
+- **Ejemplo:**  
+  Objetivo principal: crear un videojuego de cartas.  
+  Objetivo semanal: aprender definitivamente qué son las máquinas de estado.  
+  Objetivo diario: diseñar un plan de estudio de 4 días, con sesiones de 1,5 horas cada una.
 
-## El fallo no es el fracaso
+---
 
-Si no consigues lo que quieres, no te preocupes, no te desanimes, no te pierdas.
+## El fallo no es fracaso
 
-Dáte el márgen de fallar un objetivo a corto plazo, pero no dos. Si hace falta replantea ésos objetivos.
+Fallar un objetivo no significa fracasar. La clave está en **cómo respondes al error**.
 
-Si fallas un objetivo truncal piensa en cómo vas a pitovar, no tienes que tirar todo por la borda. Utiliza tu aprendizaje para buscar el siguiente objetivo principal.
+- Date el margen de fallar un objetivo a corto plazo, pero evita fallar dos seguidos.
+- Si un objetivo importante se trunca, no tires todo por la borda: **pivota y ajusta**. Usa lo aprendido para reformular tu siguiente meta.
+- No acumules más de **2 a 4 objetivos principales** sin tener los recursos adecuados. Quienes gestionan decenas de metas suelen contar con palancas de poder: documentación, dinero, contactos, influencia, etc.
+- Construye como una hormiga: paso a paso, consolidando cada avance.
 
-No tengas más de 2-4 objetivos principales sin las palancas adecuadas. Las personas que tienen decenas o centenares de objetivos ambiciosos suelen tener recursos: documentación, dinero, contactos, belleza. Hay muchas fuentes de poder que te permiten ampliar objetivos personales. Contruye como una hormiga, paso a paso.
+---
+
+**En resumen:**  
+Los objetivos personales dan dirección y energía a tu vida. Define un **motivo profundo**, establece metas **a corto plazo**, y recuerda que **el error forma parte del proceso**. Lo importante es avanzar con constancia.

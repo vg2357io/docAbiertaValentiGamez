@@ -1,53 +1,97 @@
 # Técnicas de trabajo
 
+Existen distintas técnicas que ayudan a ser más productivo, constante y organizado. Integrarlas en tu día a día refuerza tu profesionalidad y mejora el rendimiento individual y en equipo.
+
+---
+
 ## Pomodoro
 
-Cada 20-25 minutos descansa 5 minutos, al repetir el proceso 3-4 veces descansa 15-20 minutos. Esto ayuda a que seas más productivo, constante, fiable y predecible. Puntales básicos de todo profesional.
+Trabaja en bloques de **20–25 minutos** y descansa **5 minutos**.  
+Tras 3–4 ciclos, toma un descanso más largo de **15–20 minutos**.
+
+Esta técnica mejora tu **productividad, constancia, fiabilidad y previsibilidad**, pilares básicos de todo profesional.
+
+---
 
 ## Feynman
 
-Explica a un compañero, a Krillin, a un patito de goma, a tu yo del futuro o a tu amigo imaginario cómo funciona algo.
+Explica lo que has aprendido a otra persona (un compañero, un muñeco, tu “yo del futuro” o incluso un objeto como un patito de goma).
 
-Una técnica clave que refuerza mucho la consolidación de un trabajo, un aprendizaje o una técnica es documentar. Escribe un proceso de automatización, una decisión que has tomado argumentando las opciones y contexto o escribe cómo se hace una tarea. Un segundo refuerzo es pasar ése escrito por una IA, releerte el documento y hacer tus retoques finales.
+La clave es **simplificar y expresar con tus palabras**.
+- Documenta procesos: una automatización, una decisión tomada (con opciones y contexto) o una tarea.
+- Refuerza el aprendizaje revisando tu documento con ayuda de una IA y luego haciendo tus propios ajustes.
+
+---
 
 ## Pair Programming
 
-Siéntate con un compañero de trabajo, define quién es el piloto y quién el copiloto y que la carrera empiece. Es una de las mejores experiencias que tiene el oficio del desarrollo de software.
+Siéntate con un compañero, define quién es el **piloto** (escribe el código) y quién es el **copiloto** (revisa, sugiere y valida).  
+Es una de las prácticas más enriquecedoras en el desarrollo de software, ya que fomenta la colaboración, la revisión continua y el aprendizaje compartido.
 
-## Flashcards o Anki
+---
 
-Si necesitas consolidar algún concepto, aunque sea información o documentación para realizar un trabajo, puedes crearte una baraja de cartas en https://ankiweb.net/decks y repasar cuando tengas 5 minutos. Es una aplicación gratuita disponible en web y móviles donde podrás practicar haciendo preguntas propias de forma aleatoria.
+## Flashcards (Anki)
 
-## Trabajo intenso
+Ideal para **memorizar conceptos, información o documentación**.  
+Puedes crear tus propias barajas de preguntas y respuestas en [Anki](https://ankiweb.net/decks) y repasarlas en cualquier momento.  
+Es gratuito, disponible en web y móvil, y te permite practicar con recordatorios aleatorios.
 
-Si requieres de mucha concentración para realizar un trabajo establece unos rituales y asegúrate de eliminar distracciones.
+---
 
-Puedes poner un cartel encima de tu monitor con una llamativa palabra en verde cuando estés disponible para interrupciones. Voltea ése mismo cartel con una palabra llamativa en rojo que indique que estás concentrado, solo disponible para urgencias.
+## Trabajo intenso (Deep Work)
+
+Cuando requieras máxima concentración:
+- Crea rituales previos que te preparen mentalmente.
+- Elimina distracciones.
+- Usa señales claras para tu equipo: por ejemplo, coloca un cartel verde (“disponible”) o rojo (“concentrado, solo urgencias”) sobre tu monitor.
+
+Esto ayuda a proteger tu tiempo de enfoque sin romper la comunicación.
+
+---
 
 ## Método Cornell
 
-El método Cornell es una técnica de estudio que se basa en tomar apuntes, y hacer resúmenes y construir esquemas de referencia mientras se estudia para, así, poder tenerlos organizados y facilitar que nuestro cerebro sea capaz de recordarlos con mayor rapidez y eficacia.
+Técnica de estudio basada en **tomar apuntes estructurados**:
+- Columna izquierda: ideas clave y contexto.
+- Columna derecha: ejemplos, imágenes, notas y referencias.
+- Parte inferior: resumen del tema.
 
-Ideas clave / Contexto ------ Ejemplo / Imagen / Notas / Referencias
+Este formato organiza la información y facilita la memoria a largo plazo.
 
------------ Resumen ---------------
+---
 
 ## Documentar tu trabajo
 
-La idea única de transmitir conocimiento sobre tus proyectos es útil.
+Transmitir conocimiento es tan importante como producir.  
+Deja constancia clara de procesos, decisiones y resultados: tu equipo y tu “yo del futuro” lo agradecerán.
 
-## RTFM
+---
 
-Son las siglas de "Read The Fucking Manual". Acredita todas las fuentes de información necesarias. Quizá a ti no te haga falta, peró a tus compañeros o tu yo del futuro te lo agradecerán.
+## RTFM (“Read The Fucking Manual”)
 
-La documentación oficial, el BOE y el manual de fábrica son la cúspide de las referencias.
+Consulta y acredita siempre tus fuentes:
+1. **Documentación oficial** (manuales, BOE, fabricantes).
+2. **Libros y cursos estructurados**.
+3. **Foros y blogs reputados**.  
+   ⚠️ Herramientas como ChatGPT, Gemini o Llama son útiles para explorar ideas, pero **no deben ser referencias principales**.
 
-Un libro o un curso estructurado son buenas alternativas.
+---
 
-Los foros y blogs reputados son el siguiente escalón.
+## GTD (Get Things Done)
 
-ChatGPT, Gemini o Llama no son buenas referencias.
+Método para liberar tu mente de cargas innecesarias:
+- Guarda en un sistema externo (documento, notas) lo que ya está hecho o no es relevante ahora.
+- Revisa esas notas cuando sea necesario.
 
-## GTD
+Nuestra mente funciona como un sistema informático:
+- **RAM** → información inmediata.
+- **ROM** → fundamentos y aprendizajes previos.
+- **Procesador** → ejecución de tareas.
+- **Placa base y carcasa** → conexión y soporte del conjunto.
 
-Son las siglas de "Get Things Done". Si algo ya está hecho o no es relevante en tu día a día déjalo en un documento o unas notas que revises cuando sea necesario. Libera tu mente de cargas innecesarias mientras no las usas. No dejamos de ser similares a las máquinas, tenemos un RAM para información necesaria para ahora, una ROM con nuestros fundamentos, un procesador que nos permite ejecutar tareas cada X ciclos, una placa base que envía cada señal a cada parte del cuerpo y una carcasa que aguanta nuestro esqueleto.
+Organizar bien la “memoria” evita saturación y mejora el rendimiento.
+
+---
+
+**En resumen:**  
+Estas técnicas te ayudan a **aprender mejor, trabajar con más enfoque y colaborar de forma más efectiva**. Integra las que mejor se adapten a tu estilo y conviértelas en parte de tu rutina profesional.

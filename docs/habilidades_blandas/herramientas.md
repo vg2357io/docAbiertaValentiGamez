@@ -1,125 +1,111 @@
 # Herramientas
 
-## Visual Stdio Code - IDE de desarrollo
+A continuación se listan las principales herramientas recomendadas para el trabajo en la empresa, junto con sus alternativas comerciales. Todas cuentan con comunidades activas y, en la mayoría de casos, APIs disponibles para integraciones con IA.
 
-https://code.visualstudio.com/
+---
 
-Entorno de desarollo integrado (IDE) para desarrollo de software.
+## Visual Studio Code — IDE de desarrollo
+🔗 https://code.visualstudio.com/
 
-### Jetbrains (Alternativa comercial)
+Entorno de desarrollo integrado (IDE) gratuito, ligero y altamente extensible, ideal para la mayoría de lenguajes y frameworks.
 
-https://www.jetbrains.com/
+**Alternativa comercial:**
+- **JetBrains** → https://www.jetbrains.com/  
+  Licencias desde ~50 a 400 USD por persona al año, con versiones específicas para distintos lenguajes.
 
-Licencias por persona anuales desde 50 a 400 USD.
+---
 
-## Github - Controlador de versiones
+## GitHub — Control de versiones
+🔗 http://github.com/
 
-http://github.com/
+Plataforma líder para control de versiones y trabajo colaborativo. Permite historial recuperable de tu trabajo y cuenta con API para integraciones avanzadas.
 
-Historial recuperable de tu trabajo. API disponible para integraciones con IA.
+**Alternativa comercial:**
+- **Bitbucket** → https://bitbucket.org/
+    - Standard: ~7,75 USD/usuario/mes.
+    - Premium/Enterprise: funciones avanzadas y soporte ampliado.
 
-### Bitbucket (Alternativa comercial)
+---
 
-https://bitbucket.org/
+## Taiga — Gestión de tareas
+🔗 https://taiga.io/
 
-Standard: ~7,75 USD/usuario/mes.
+Gestión de proyectos con metodologías ágiles (Scrum, Kanban). API disponible para integraciones con IA.
 
-Premium/Enterprise: funciones avanzadas y soporte ampliado.
+**Alternativa comercial:**
+- **Jira** → https://www.atlassian.com/es/software/jira
+    - Standard: ~7,75 USD/usuario/mes.
+    - Premium/Enterprise: con soporte y funciones avanzadas.
 
-## Taiga - Gestión de tareas
+---
 
-https://taiga.io/
+## BookStack — Documentación
+🔗 https://www.bookstackapp.com/
 
-Gestión de proyectos con metodologías ágiles. API disponible para integraciones con IA.
+Plataforma open source para gestión de documentación interna, procesos o manuales comunitarios. Incluye API para integraciones.
 
-### Jira (Alternativa comercial)
+**Alternativas comerciales:**
+- **Confluence** → https://www.atlassian.com/es/software/confluence
+- **Notion** → https://www.notion.com/  
+  Desde 5–10 USD/usuario/mes. Planes superiores con mayor almacenamiento, automatización y soporte 24/7.
 
-https://www.atlassian.com/es/software/jira
+---
 
-Standard: ~7,75 USD/usuario/mes.
+## Keycloak — Seguridad y accesos
+🔗 https://www.keycloak.org/
 
-Premium/Enterprise: funciones avanzadas y soporte ampliado.
+Gestión de identidades y accesos: roles, SSO, autenticación multifactor.
 
-## BookStack - Documentación
+**Alternativa comercial:**
+- **Okta** → https://www.okta.com/  
+  Planes desde ~2–4 USD/usuario/mes (autenticación básica) hasta 10+ USD/usuario/mes (MFA, administración avanzada).
 
-https://www.bookstackapp.com/
+---
 
-Gestión de documentación interna, procesos o comunitaria. API disponible para integraciones con IA.
+## Metabase — BI / Analítica de datos
+🔗 https://www.metabase.com/
 
-### Confluence / Notion (Alternativa comercial)
+Herramienta open source para cuadros de mando y análisis de datos. API disponible para IA.
 
-https://www.atlassian.com/es/software/confluence / https://www.notion.com/
+**Alternativas comerciales:**
+- **Tableau** → https://www.tableau.com/es-es (~70 USD/usuario/mes).
+- **Power BI** → https://www.microsoft.com/es-es/power-platform/products/power-bi (~9,99 USD/usuario/mes).
 
-Desde 5-10 USD/usuario/mes.
+---
 
-Planes Premium/Enterprise con automatización, soporte 24/7, mayor almacenamiento.
+## Mattermost o Rocket.Chat — Comunicación interna
+🔗 https://mattermost.com/ / https://www.rocket.chat/
 
-## Keycloak - Seguridad y Accesos
+Alternativas open source a Slack o Discord, con canales de equipo, bots e integraciones IA.
 
-https://www.keycloak.org/
+**Alternativa comercial:**
+- **Slack** → https://slack.com/intl/es-es
+    - Plan Standard: ~6,67 USD/usuario/mes (facturación anual).
+    - Planes superiores: mayor seguridad y administración avanzada.
 
-Gestión de identidades, roles, SSO y autenticación multifactor.
+---
 
-### Okta (Alternativa comercial)
+## Nextcloud — Archivos y colaboración
+🔗 https://nextcloud.com/
 
-https://www.okta.com/
+Plataforma de almacenamiento, colaboración y edición online (con OnlyOffice/Collabora). Incluye calendarios, contactos y API para integraciones IA.
 
-Precios variables según uso.
+**Alternativas comerciales:**
+- **Microsoft 365** → https://www.microsoft.com/es-es/microsoft-365  
+  Ejemplo: Plan Business Standard (~12,50 USD/usuario/mes) con OneDrive, Teams, SharePoint y Office apps.
+- **Google Workspace** → https://workspace.google.com/  
+  Desde ~20 USD/usuario/mes (empresas) o ~25–50 USD/año (particulares).
 
-Planes desde ~2–4 USD/usuario/mes (autenticación básica) hasta ~10+ USD/usuario/mes (MFA, administración avanzada).
+---
 
-## Metabase - BI / Analítica de Datos
+## Zammad — Soporte y tickets
+🔗 https://zammad.org/
 
-https://www.metabase.com/
+Sistema de ticketing y helpdesk multicanal. Dispone de API para integraciones con IA.
 
-Cuadros de mando y analítica de datos. API disponible para integraciones con IA.
+**Alternativa comercial:**
+- **Zendesk** → https://www.zendesk.es/
+    - Plan básico: ~19 USD/agente/mes.
+    - Planes avanzados incluyen omnicanalidad, SLA, IA y analíticas.
 
-### Tableau / Power BI (Alternativas comerciales)
-
-https://www.tableau.com/es-es / https://www.microsoft.com/es-es/power-platform/products/power-bi
-
-Tableau Creator: ~70 USD/usuario/mes.
-
-Power BI Pro: ~9,99 USD/usuario/mes.
-
-## Mattermost o Rocket.Chat - Comunicación Interna
-
-https://mattermost.com/ / https://www.rocket.chat/
-Alternativas open source a Slack/Discord, con canales de equipo, bots e integraciones IA.
-
-### Slack (Alternativa comercial)
-
-https://slack.com/intl/es-es
-
-Plan Standard: ~6,67 USD/usuario/mes (facturación anual).
-
-Planes superiores con seguridad y administración avanzadas.
-
-## Nextcloud - Archivos y Colaboración
-
-https://nextcloud.com/
-Almacenamiento de archivos, colaboración, calendarios, edición online (OnlyOffice/Collabora). API disponible para integraciones con IA.
-
-### Microsoft 365 / Google Drive (Alternativa comercial)
-
-https://www.microsoft.com/es-es/microsoft-365 (OneDrive / SharePoint / Teams)
-
-Ejemplo: Plan Business Standard: ~12,50 USD/usuario/mes.
-Incluye OneDrive, Teams, SharePoint y Office apps.
-
-https://workspace.google.com/ (Docs / Sheets)
-
-Unos 20 USD/usuario/mes para empresas. Una cuota anual de 25-50 USD para particulares.
-
-## Zammad - Soporte / Tickets
-
-https://zammad.org/
-Sistema de ticketing y helpdesk multicanal. API disponible para integraciones con IA.
-
-### Zendesk (Alternativa comercial)
-
-https://www.zendesk.es/
-
-Plan básico: ~19 USD/agente/mes.
-
-Planes avanzados incluyen omnicanal, SLA, AI y analíticas.
+---

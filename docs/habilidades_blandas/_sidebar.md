@@ -2,16 +2,20 @@
 
 * [Ir al inicio](/)
 
-* Academia
-    * [Subir imágenes](es/academia/subirImagenes.md)
+* [Objetivos personales](habilidades_blandas/objetivos_personales.md)
 
-* WhitePaper
-    * [Resumen Ejecutivo](es/whitepaper/resumenEjecutivo.md)
-    * [Descripción del Producto](es/whitepaper/descripcionDelProducto.md)
+* [De base a específico](habilidades_blandas/de_base_a_especifico.md)
 
-* WEL Token
-    * [Datos Generales](es/wel_token/datosGenerales.md)
-    * [Genesis Del Token](es/wel_token/genesisDelToken.md)
-        * [INO De La Comunidad](es/wel_token/inoDeLaComunidad.md)
-        * [Airdrops Para La Comunidad](es/wel_token/airdropsParaLaComunidad.md)
-    * [Distribución Del Token](es/wel_token/distribucionDelToken.md)
+* [La práctica hace al maestro](habilidades_blandas/la_practica_hace_al_maestro.md)
+
+* [Hábitos](habilidades_blandas/habitos.md)
+
+* [Técnicas de trabajo](habilidades_blandas/tecnicas_de_trabajo.md)
+
+* [Medita sobre tus herramientas diarias](habilidades_blandas/medita_sobre_tus_herramientas_diarias.md)
+
+* [IA como secretario](habilidades_blandas/ia_como_secretario.md)
+
+* [Habilidades complementarias](habilidades_blandas/habilidades_complementarias.md)
+
+* [Herramientas](habilidades_blandas/herramientas.md)

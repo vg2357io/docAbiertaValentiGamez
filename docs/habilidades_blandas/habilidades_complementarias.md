@@ -2,34 +2,49 @@
 
 ## Inglés
 
-Muchas veces no es imprescindible saber hablarlo, aunque es preferible. En la mayoría de posiciones, y cada vez más, lo realmente necesario es saber leer sobre tu campo y escribir de forma básica.
+El inglés no siempre es imprescindible, pero sí altamente recomendable.  
+En la mayoría de posiciones —y cada vez más— lo realmente necesario es:
 
-Entender cuando lo hablan, almenos cuando lo hacen profesionales de tu sector, es una ventaja muy interesante.
+- **Leer** documentación y recursos en tu campo.
+- **Escribir** de forma básica para comunicarte en entornos profesionales.
+- **Comprender conversaciones** cuando hablan profesionales de tu sector.
 
-Lo último que debe preocuparte es saber hablarlo bien. Es evidente que te va a dar valor pero es algo que puedes hacer poco a poco.
+Hablarlo con fluidez aporta un valor extra, pero no debe ser tu primera preocupación: puedes mejorar poco a poco con la práctica y la experiencia.
+
+---
 
 ## Comunicación
 
-Hablar con los demás y que se sientan a gusto trabajando a tu lado es vital. Hay un mínimo para el trabajo en equipo y no llegar a él solo puede ser algo temporal que requiere de atención inmediata.
+La comunicación es fundamental para generar confianza y facilitar el trabajo en equipo.  
+Algunos puntos clave:
 
-Los absolutismos suelen ser contraproducentes, las palabras "siempre", "nunca" y sus sinónimos debes ponerlas en cuarentena. No te martirices si se te escapan pero si es habitual es interesante que anotes un palito en una nota cuando te des cuenta de que las has usado y cuál.
+- **Evita los absolutismos**: palabras como “siempre” o “nunca” suelen ser contraproducentes. Si detectas que las usas con frecuencia, haz un pequeño registro para tomar conciencia y reducir su uso.
+- **Propón sin imponer**: si tienes la “solución ideal”, en lugar de presentarla directamente, haz preguntas que lleven al equipo a considerar esa opción. Podrás validar si realmente es la mejor alternativa o si existen otras más adecuadas.
+- **Gestiona las emociones**: las personas productivas pueden reaccionar de forma impulsiva. Si algo te resulta negativo, evalúa si conviene responder en el momento o posponerlo. Hablarlo en frío suele mejorar los resultados.
+- **Usa figuras de mediación**: si un tema te afecta directamente, busca apoyo en una persona mediadora de tu equipo. La transparencia y la comunicación clara fortalecen la confianza mutua.
 
-Si tienes la "solución ideal" para un problema o tarea de tu equipo hay una práctica que mitiga un posible rechazo. Hacer preguntas y que otro compañero llegue a la conclusión en voz alta sobre su uso. Quizá descubras que hay "mejores" opciones, aunque técnicamente no sean "tan perfectas".
+---
 
-Medita sobre tus líneas rojas. Las personas más productivas pueden llegar a ser explosivas. Si una decisión o comentario es relevantemente negativo quizá sea bueno decirlo mañana, o la semana que viene. No te guardes algo que te perjudique, si hace falta habla con una figura mediadora de tu equipo. Cualquier miembro valioso de tu equipo te lo agradecerá.
+## Manejo del tiempo
 
-## Manejo de tiempo
+La gestión eficaz del tiempo multiplica tu impacto profesional.  
+Algunas prácticas útiles:
 
-Si te surge una tarea que debas hacer tu y que puedas hacer en 2 minutos hazla cuanto antes mejor, si puede ser ya no esperes a terminar de leer el siguiente punto.
+- **La regla de los 2 minutos**: si una tarea te lleva menos de 2 minutos, hazla de inmediato.
+- **Automatiza tareas repetitivas**: aunque tu responsable no lo pida, si inviertes 5 horas en automatizar un proceso que te consume 2 horas semanales, en pocas semanas habrás ganado productividad.
+- **Agrupa tareas similares**: identifica categorías de tareas y ejecútalas en bloques de tiempo concretos. Reserva esos espacios en tu calendario y compártelo con el equipo para evitar interrupciones.
+- **Usa herramientas externas**: utiliza sistemas de calendario compartido (Google Calendar, Calendly u otros) para gestionar tu disponibilidad de manera profesional.
 
-Intenta automatizar tus pequeñas tareas. Siempre que sea posible. Aunque tu responsable no te lo haya pedido. Si puedes automatizar algo que te cuesta 2 horas semanales y gastas 5 horas en total en automatizarlo aumentarás tu valor como profesional. Puedes dividir ésas 5 horas en 10 ratos perdidos de 30 minutos.
-
-Suele haber categorías de tareas que puedes acumular y hacerlas a la vez. Determina el tiempo semanal medio que te toma hacerlo y fíja en tu calendario el día o los días, en las horas concretas, que lo harás. Intenta bloquearte esos espacios de tiempo para que tu equipo lo tenga en cuenta y no te pongan reuniones esporádicas, deja huecos en tu calendario para ello. Asegúrate de que tus compañeros tengan un calendario accesible para agendarte reuniones. Si trabajas con personas externas a tu empresa existen herramientas de Google o otras empresas para crear calendarios que gestionan la reserva de tu tiempo disponible.
+---
 
 ## Portafolio
 
-Si estás estudiando o practicando asegúrate de documentar y publicar tus mejores trabajos. Ya sea en github, en tu web, en tu behance o en linkedin.
+Un buen portafolio es una herramienta estratégica para tu crecimiento profesional.
 
-También tómate tu tiempo en documentar los proyectos en los que has participado. Es de mucho valor que crees espacios en tu currículum ampliado sobre proyectos exitosos y fracasos. Cualquier reclutador o responsable que decida si colaboras en un proyecto sabe que todos fallamos, sobretodo cuando hacemos algo que depende de más de una persona.
+- **Muestra tus mejores trabajos**: utiliza plataformas como GitHub, Behance, LinkedIn o tu propia web para dar visibilidad a lo que haces.
+- **Documenta proyectos**: tanto los éxitos como los fracasos son valiosos. A los responsables les interesa conocer tu experiencia real en entornos colaborativos.
+- **Cuida los derechos de publicación**: asegúrate de no compartir información protegida por cláusulas de confidencialidad. Si tienes dudas, consulta siempre con tu responsable antes de publicar. A menudo agradecerán que lo comuniques, incluso si legalmente ya tienes el derecho de hacerlo.
 
-Asegúrate de tener los derechos necesarios sobre cualquier cosa que publiques, incluso si la has hecho tú. Puede que en tu contrato de trabajo hayas firmado alguna cláusula de confidencialidad que te impida dar parte o incluso un mínimo de información pública sobre tu trabajo. Puedes perjudicar los intereses de alguien con ello. Siempre puedes pedir el consentimiento del administrador que firmó tu contrato, te suelen agradecer que los informes aunque tengas los derechos para hacerlo. A veces simplemente te piden que esperes a un lanzamiento.
+---
+
+**En resumen:** estas habilidades complementarias no solo fortalecen tu perfil profesional, sino que te hacen más adaptable, confiable y valioso dentro de cualquier equipo.
