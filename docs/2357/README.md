@@ -1,10 +1,10 @@
 # 2357 — El Código de lo Oculto
 
-El coordinador actual de **2357** es el Fénix **Valentí**, *vg2357io* en redes.  
+El coordinador actual de **2357** es el Fénix **Valentí**, *vg2357io* en redes.
 
-Es el Fénix de los humanos y su profesión es la de **nominador**.  
+Es el Fénix de los humanos y su profesión es la de **nominador**.
 
-Este proyecto está programáticamente configurado para legarse al siguiente Fénix humano cuando su actual coordinador llegue a sus últimas ruinas incandescentes, sus últimas cenizas.
+Este proyecto está programáticamente configurado para legarse al siguiente Fénix humano cuando su actual coordinador llegue a sus últimas ruinas incandescentes, sus últimas cenizas. Toda información personal que puedas encontrar aquí tiene el debido consentimiento por escrito.
 
 ## Biblioteca Criptográfica
 
@@ -14,9 +14,9 @@ Los valores que transmite cualquier reto que puedas encontrar son de **constanci
 El crecimiento personal más fundamental es el objetivo que persigue cada medio que puedas encontrar aquí.
 
 > No está permitido bajo ninguna circunstancia revelar los secretos de la biblioteca, aunque sí puedes ayudar a otros a encontrarlos.
-> 
-> No está permitido compartir con nadie ninguna captura de pantalla, código, foto ni ningún tipo de reproducción.
-> 
+>
+> No está permitido compartir con nadie ninguna captura de pantalla, código, foto ni ningún tipo de reproducción. Todos los derechos reservados.
+>
 > Los portales de acceso que sí puedes compartir son públicos en las redes del Fénix.
 
 Todos los contenidos están sujetos estrictamente a la **legalidad española** y a la mayoría de leyes de cualquier país.
