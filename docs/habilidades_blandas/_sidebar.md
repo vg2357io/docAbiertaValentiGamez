@@ -1,6 +1,6 @@
 * [Web Valentí Gàmez](https://valentigamez.com)
 
-* [Ver otros temas](/)
+* [Ir a inicio](/)
 
 * [Descargar PDF](https://contenido.valentigamez.com/formacion/habilidades_blandas/EbookHabilidadesBlandas.pdf)
 
