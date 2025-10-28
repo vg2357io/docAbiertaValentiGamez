@@ -1,5 +1,7 @@
 * [Web Valentí Gàmez](https://valentigamez.com)
 
+* [2357 - Web pública Valentí Gàmez](https://2357.io)
+
 * Formación
     * [Habilidades Blandas](/habilidades_blandas/)
     * [Agentes IA](/agentes_ia/)

@@ -17,7 +17,9 @@ Advertencias:
 
 La licencia para su uso es CC0.
 
-* [Web Valentí Gàmez](https://valentigamez.com)
+* [Web profesional Valentí Gàmez](https://valentigamez.com)
+
+* [2357 - Web pública Valentí Gàmez](https://2357.io)
 
 * Formación
     * [Habilidades Blandas](/habilidades_blandas/)
