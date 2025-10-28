@@ -6,3 +6,6 @@
 
 * Desarrollo de software
     * [Arquitectura de software](/arquitectura_software/)
+
+* Ariadna - Login único (Extensión de navegador con apps de empresa)
+    * [Documento de diseño](/ariadna/documento_diseno_de_software)
