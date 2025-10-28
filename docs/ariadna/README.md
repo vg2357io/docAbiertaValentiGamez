@@ -14,7 +14,7 @@
 2) **Red privada** para proteger y controlar los dispositivos que tienen acceso a toda la parte tecnológica de la empresa,  
 3) **Conexión con terceros** controlar qué datos de la empresa tienen las organizaciones que ofrecen programas, servicios y productos tecnológicos para mi empresa,
 4) **Escalabilidad** poder adaptarse al volumen de clientes de la empresa sin invertir en desarrollo adicional,
-5) **Atención focalizada** que una servicio técnico como el que ofrece CicloTIC se encargue de configurar, mantener y dar soporte a la empresa para poder poner foco al negacio de la misma. 
+5) **Atención focalizada** que una servicio técnico como el que ofrece CicloTIC se encargue de configurar, mantener y dar soporte a la empresa para poder poner foco al negocio de la misma. 
 
 **Resultado:** un botón de inicio de sesión Ariadna similar al de Google o Meta en los software de CicloTIC y una extensión de navegador que permite acceder a todos los servicios tecnológicos de la empresa.
 
