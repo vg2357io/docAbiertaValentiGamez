@@ -2,7 +2,7 @@
 
 **Tagline:** *Un único login, extensión de navegador con apps de empresa. Un CMS como núcleo, una VPN como perímetro, y SSO para enlazar cada pieza.*
 
-![Arquitectura de proyectos](/_media/ariadna/arquitectura-proyectos.png)
+![Arquitectura de proyectos](/_media/arquitectura-proyectos.png)
 
 > **Nombre del proyecto:** **ARIADNA** (Ariadne). En la mitología griega, Ariadna entrega a Teseo el «hilo» que le permite recorrer e interconectar pasajes del laberinto sin perderse. Simboliza **orientación, interconexión y salida segura**.
 > 
