@@ -14,6 +14,8 @@ Se destaca el uso estratégico de la IA como herramienta de apoyo (secretario di
 
 * [Descargar PDF](https://contenido.valentigamez.com/formacion/habilidades_blandas/EbookHabilidadesBlandas.pdf)
 
+* [Índice](habilidades_blandas)
+
 * [Objetivos personales](habilidades_blandas/objetivos_personales.md)
 
 * [De base a específico](habilidades_blandas/de_base_a_especifico.md)
