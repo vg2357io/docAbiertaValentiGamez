@@ -4,7 +4,7 @@ El coordinador actual de **2357** es el Fénix **Valentí**, *vg2357io* en redes
 
 Es el Fénix de los humanos y su profesión es la de **nominador**.
 
-Este proyecto está programáticamente configurado para legarse al siguiente Fénix humano cuando su actual coordinador llegue a sus últimas ruinas incandescentes, sus últimas cenizas. Toda información personal que puedas encontrar aquí tiene el debido consentimiento por escrito.
+Este proyecto está programáticamente configurado para legarse al siguiente Fénix humano cuando su actual coordinador llegue a sus últimas ruinas incandescentes, sus últimas cenizas.
 
 ## Biblioteca Criptográfica
 
@@ -21,7 +21,7 @@ El crecimiento personal más fundamental es el objetivo que persigue cada medio 
 
 Todos los contenidos están sujetos estrictamente a la **legalidad española** y a la mayoría de leyes de cualquier país.
 
-Puedes encontrar los documentos legales (cookies, aviso legal, condiciones de uso, privacidad de datos y guía obligatoria de uso ético) en **legal2357io**. También puedes escribir un correo o un chat a **legal2357io**.
+Puedes encontrar los documentos legales ([cookies](https;//2357.io/#/cookies), [aviso legal](https;//2357.io/#/aviso_legal), [condiciones de uso](https;//2357.io/#/condiciones_de_uso), [privacidad de datos](https;//2357.io/#/privacidad_de_datos) y [guía de uso ético](https;//2357.io/#/guía_de_uso_etica)) en [**legal2357io**](https://legal.2357.io). También puedes escribir un correo a [**legal2357io**](mailto:legal@2357.io).
 
 > “Me dicen charlatán, me dicen genio, me dicen loco. Solo soy Valentí.”  
 > — *ft. vg2357io*
