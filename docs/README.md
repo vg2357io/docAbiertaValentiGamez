@@ -32,4 +32,5 @@ La licencia para su uso es CC0.
 * Productos en propiedad
     * [Blendi](https://blendi.es)
     * [#ariadna - Conecta tecnología](/ariadna/)
+    * [#sindri - Constructor web, app, doc y pdf](/sindri/)
     * [#weLore - Gamifica tus clientes](https://welore.io)
