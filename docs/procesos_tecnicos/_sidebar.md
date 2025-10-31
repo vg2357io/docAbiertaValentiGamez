@@ -9,3 +9,5 @@
 * [Configurar acceso exe global](procesos_tecnicos/configurar_acceso_exe_global.md)
 
 * [Integración Cashkeeper en Blendi](procesos_tecnicos/cashkeeper/blendi.md)
+
+* [Integración Cashkeeper en Node + electron](procesos_tecnicos/cashkeeper/node.md)
