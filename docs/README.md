@@ -29,6 +29,9 @@ La licencia para su uso es CC0.
 * Desarrollo de software
     * [Arquitectura de software](/arquitectura_software/)
 
+* Procesos técnicos
+    * [Índice](/procesos_tecnicos/)
+
 * Productos en propiedad
     * [Blendi](https://blendi.es)
     * [#ariadna - Conecta tecnología](/ariadna/)
