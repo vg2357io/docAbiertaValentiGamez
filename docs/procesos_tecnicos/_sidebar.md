@@ -7,3 +7,5 @@
 * [Índice](/procesos_tecnicos/)
 
 * [Configurar acceso exe global](procesos_tecnicos/configurar_acceso_exe_global.md)
+
+* [Integración Cashkeeper en Blendi](procesos_tecnicos/cashkeeper/blendi.md)
