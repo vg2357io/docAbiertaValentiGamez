@@ -1,22 +1,16 @@
-# Instalar Cashkeeper en Blendi
+# Instalar Cashkeeper en Cliente Final
 
-Para instalar Cashkeeper en Blendi se debe contactar con CicloTIC S.L.
+Para instalar Cashkeeper en Cliente Final se debe contactar con CicloTIC S.L.
 
 ## Instalación técnica
 
-1. Ejecutar `./install/setupActiveXV2.exe`
+1. Ejecutar `/install/setupActiveXV2.exe`
 
-2. Ejecutar `./install/register_ckeasyv2.bat`
+2. Ejecutar `/install/register_ckeasyv2.bat`
 
-3. Instalar nodejs en Windows: https://nodejs.org/en/download/ Si se necesitan diferentes versiones se instala nvm: https://nvmnode.com/
+3. Se habilita Cashkeeper en cuenta del cliente. Contactar con CicloTIC S.L.
 
-4. Si es necesario configurar el PATH para poder usar node en todo el PC: https://docs.valentigamez.com/#/procesos_tecnicos/configurar_acceso_exe_global
-
-5. Instalar comando de node: En el buscador de Windows introducir cmd y en la terminal `npm i -g C:\ruta\@blendi-cashkeeper-cmd-0.1.0.tgz` Se pide el fichero `.tgz` que proporciona el departamento de IT de CicloTIC S.L. Contacto: valenti@ciclotic.com para obtenerlo.
-
-6. Se habilita Cashkeeper en Blendi. Contactar con CicloTIC S.L. 
-
-7. En el apartado `Configuraciones` de `TPV` indicar la `IP` del dispositivo Cashkeeper. Una vez guardado, reiniciar Blendi.
+4. En el apartado `Configuraciones` de `Software` indicar la `IP` del dispositivo Cashkeeper. Una vez guardado, reiniciar Software.
 
 ## Autor del documento y la integración
 

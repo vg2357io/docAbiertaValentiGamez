@@ -2,7 +2,11 @@
 
 Integrate node package to Cashkeeper devices.
 
-This is a library owned by Valentí Gàmez and the company CicloTIC S.L. If you want to use it, you must contact either of the two parts to obtain permission.
+This is a library owned by Valentí Gàmez and the company CicloTIC S.L. If you want to use it, you must contact either of the two parts to get permission.
+
+## Install Final Client
+
+[Follow to document](https://docs.valentigamez.com/#/procesos_tecnicos/cashkeeper/blendi.md)
 
 ## Install
 
@@ -21,7 +25,7 @@ Install package to your project and it's peer dependencies:
   "dependencies": {
     ...
     "winax": "^3.6.2",
-    "@vg2357io/cashkeeper": "git+https://vgrdominik@bitbucket.org/vgrdominik/cashkeeper.git#v0.1.0"
+    "@vg2357io/cashkeeper": "git+https://vgrdominik@bitbucket.org/vgrdominik/cashkeeper.git#v0.1.5"
   },
   ...
 }
@@ -29,9 +33,9 @@ Install package to your project and it's peer dependencies:
 npm install
 ```
 
-### Electron integration x86
+## Electron integration x86
 
-https://docs.valentigamez.com/#/procesos_tecnicos/cashkeeper/electron/x86.
+[Follow to README](https://docs.valentigamez.com/#/procesos_tecnicos/cashkeeper/electron/x86.md)
 
 ## Install x64
 
@@ -41,13 +45,17 @@ Install nodejs to Windows: https://nodejs.org/en/download/ If you need multiple 
 
 If needed configure PATH to use node: https://docs.valentigamez.com/#/procesos_tecnicos/configurar_acceso_exe_global
 
-Install node command: `npm i -g https://vgrdominik@bitbucket.org/vgrdominik/cashkeeper-cmd.git#v0.1.0`
+Install node command: `npm i -g C:\ruta\@blendi-cashkeeper-cmd-0.1.0.tgz`. Download from https://vgrdominik@bitbucket.org/vgrdominik/cashkeeper-cmd.git#v0.1.0, uncompress and recompress to tgz.
 
 Use x86 command to comunicate with Cashkeeper devices: https://docs.valentigamez.com/#/procesos_tecnicos/cashkeeper/node_comando_x86.
 
-### Electron integration x64
+## Electron integration x64
 
-https://docs.valentigamez.com/#/procesos_tecnicos/cashkeeper/electron/x64.
+[Follow to README](https://docs.valentigamez.com/#/procesos_tecnicos/cashkeeper/electron/x64.md)
+
+## Electron integration x64 with exe
+
+[Follow to README](https://docs.valentigamez.com/#/procesos_tecnicos/cashkeeper/electron/x64_exe.md)
 
 ## Author
 
