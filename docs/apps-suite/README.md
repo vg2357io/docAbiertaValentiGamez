@@ -10,6 +10,8 @@
 
 ## English
 
+Apps Suite is a suite of applications that allows you to create, publish, and manage content on the web.
+
 Ariadna is a private network of apps, similar to those of Google, Meta, or Apple, but with open access.
 
 Sindri is a text format that extends Markdown and allows the creation of websites, apps, PDFs, and presentations from style templates.
@@ -24,6 +26,8 @@ Documentation licensed for use is released under CC0.
 
 ## Spanish
 
+Apps Suite es una suite de aplicaciones que permite crear, publicar y gestionar contenido en la web.
+
 Ariadna es una red privada de apps como la de Google, Meta o Apple de libre acceso.
 
 Sindri es un formato de texto que extiende markdown y permite crear webs, apps, pdfs y presentaciones a partir de templates de estilos.
@@ -37,6 +41,8 @@ Documentación con licencia para su uso [CC0 1.0](https://docs.valentigamez.com/
 * [Ir al whitepaper](./es/README.md)
 
 ## Catalan
+
+Apps Suite és una suite d'aplicacions que permet crear, publicar i gestionar contingut a la web.
 
 Ariadna és una xarxa privada d’aplicacions, com les de Google, Meta o Apple, però d’accés lliure.
 
