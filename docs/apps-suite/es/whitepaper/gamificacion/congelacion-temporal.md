@@ -13,6 +13,7 @@ Establecer un mecanismo de «congelación» para pausar cambios o despliegues cu
 ## Qué implica
 
 - Bloqueo temporal de merges a ramas protegidas salvo hotfixes.
+- Bloqueo temporal de transferencias/obtención de moneda y logros.
 - Ventana de cambios definida (inicio/fin) y responsables designados.
 - Comunicación clara a equipos y actualización del estado público.
 
