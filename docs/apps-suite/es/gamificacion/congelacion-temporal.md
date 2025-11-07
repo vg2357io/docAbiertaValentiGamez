@@ -1,1 +1,0 @@
-# Congelación temporal

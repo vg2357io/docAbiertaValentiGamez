@@ -61,14 +61,14 @@ Descentralización opcional.
 
 Descentralización opcional.
 
-* [Datos Generales](./mecenas/token/datos-generales.md)
-* [Génesis del Token](./mecenas/token/genesis-token.md)
+* [Datos Generales](./whitepaper/mecenas/tiers-utilitarios/datos-generales.md)
+* [Génesis del Token](./whitepaper/mecenas/tiers-utilitarios/genesis-token.md)
 
-    * [INO de la Comunidad](./mecenas/token/ino-comunidad.md)
-    * [Airdrops para la Comunidad](./mecenas/token/airdrops-comunidad.md)
-* [Distribución del Token](./mecenas/token/distribucion-token.md)
-* [Pool de liquidez y market cap inicial](./mecenas/token/pool-liquidez-market-cap-inicial.md)
-* [Recompras del Token](./mecenas/token/recompras-token.md)
+    * [INO de la Comunidad](./whitepaper/mecenas/tiers-utilitarios/ino-comunidad.md)
+    * [Airdrops para la Comunidad](./whitepaper/mecenas/tiers-utilitarios/airdrops-comunidad.md)
+* [Distribución del Token](./whitepaper/mecenas/tiers-utilitarios/distribucion-token.md)
+* [Pool de liquidez y market cap inicial](./whitepaper/mecenas/tiers-utilitarios/pool-liquidez-market-cap-inicial.md)
+* [Recompras del Token](./whitepaper/mecenas/tiers-utilitarios/recompras-token.md)
 
 ## Documentación legal
 
@@ -81,11 +81,11 @@ Requerido leer para colaborar.
 
 ## Gamificación del proyecto
 
-* [Herramienta Open Source #weLore](./gamificacion/herramienta-open-source.md)
-* [Custodia propiedad digital](./gamificacion/custodia-propiedad-digital.md)
-* [Protocolos de seguridad](./gamificacion/protocolos-seguridad.md)
-* [Descentralización](./gamificacion/descentralizacion.md)
-* [Congelación temporal](./gamificacion/congelacion-temporal.md)
+* [Herramienta Open Source #weLore](./whitepaper/gamificacion/herramienta-open-source.md)
+* [Custodia propiedad digital](./whitepaper/gamificacion/custodia-propiedad-digital.md)
+* [Protocolos de seguridad](./whitepaper/gamificacion/protocolos-seguridad.md)
+* [Descentralización](./whitepaper/gamificacion/descentralizacion.md)
+* [Congelación temporal](./whitepaper/gamificacion/congelacion-temporal.md)
 
 ## Para colaboradores embajador
 

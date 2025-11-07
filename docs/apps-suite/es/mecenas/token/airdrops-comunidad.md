@@ -1,1 +1,0 @@
-# Airdrops para la Comunidad
