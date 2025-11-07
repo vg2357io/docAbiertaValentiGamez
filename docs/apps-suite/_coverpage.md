@@ -1,4 +1,4 @@
-![logo](/_media/LogoTextoAgenciaIA.png)
+![logo](_media/LogoTextoAgenciaIA.png)
 
 # Whitepaper Apps Suite <small>1.0</small>
 
