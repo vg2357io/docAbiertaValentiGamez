@@ -20,7 +20,7 @@ Documentación con licencia para su uso es CC0.
 
 ## Para cualquier colaborador
 
-![Esquema de presentación de Ariadna](https://docs.valentigamez.com/apps-suite/es/whitepaper/_media/presentacion-esquema.png)
+![Esquema de presentación de Ariadna](https://docs.valentigamez.com/apps-suite/es/whitepaper/_media/ariadna-presentacion-esquema.png)
 
 ![Esquema de presentación de Sindri](https://docs.valentigamez.com/apps-suite/es/whitepaper/_media/sindri-presentacion.png)
 
