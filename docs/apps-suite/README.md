@@ -8,7 +8,7 @@
 
 [To Index](#index)
 
-## Ariadne's presentation outline
+## Ariadna presentation outline
 
 ![Esquema de presentación de Ariadna](https://docs.valentigamez.com/apps-suite/es/whitepaper/_media/ariadna-presentacion-esquema.png)
 
