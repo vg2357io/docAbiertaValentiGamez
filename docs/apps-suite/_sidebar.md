@@ -4,8 +4,8 @@
 
 * [Ir al inicio](/)
 
-* [English whitepaper](./en/README.md)
+* [English](./en/README.md)
 
-* [Español whitepaper](./es/README.md)
+* [Español](./es/README.md)
 
-* [Català whitepaper](./cat/README.md)
+* [Català](./cat/README.md)
