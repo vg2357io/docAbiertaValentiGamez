@@ -1,0 +1,1 @@
+# Uso ético - Entrenamiento automatizado

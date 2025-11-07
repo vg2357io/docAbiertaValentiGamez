@@ -1,0 +1,1 @@
+# Horizontalidad automatizada

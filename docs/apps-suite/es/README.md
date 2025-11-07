@@ -20,6 +20,10 @@ Documentación con licencia para su uso es CC0.
 
 ## Para cualquier colaborador
 
+![Esquema de presentación de Ariadna](./_media/presentacion-esquema.png)
+
+![Esquema de presentación de Sindri](./_media/sindri-presentacion.png)
+
 * [Resumen Ejecutivo](./whitepaper/resumen-ejecutivo.md)
 * [Descripción del Producto](./whitepaper/descripcion-producto.md)
 * [Caso de Uso](./whitepaper/caso-uso.md)
@@ -70,7 +74,7 @@ Requerido leer para colaborar
 ## Gamificación del proyecto
 
 * [Herramienta Open Source #weLore](./gamificacion/herramienta-open-source.md)
-* [Custodio propiedad digital](./gamificacion/custodio-propiedad-digital.md)
+* [Custodia propiedad digital](./gamificacion/custodia-propiedad-digital.md)
 * [Protocolos de seguridad](./gamificacion/protocolos-seguridad.md)
 * [Descentralización](./gamificacion/descentralizacion.md)
 * [Congelación temporal](./gamificacion/congelacion-temporal.md)
@@ -149,6 +153,9 @@ Requerido leer para colaborar
 
 ## Para colaboradores técnico (contenido técnico.md)
 
+![Arquitectura de proyectos](./mecenas/tecnico/_media/ariadna-arquitectura-proyectos.png)
+
+* [Índice del documento de diseño](./whitepaper/mecenas/tecnico/README.md)
 * [Resumen ejecutivo](./whitepaper/mecenas/tecnico/resumen-ejecutivo.md)
 * [Alcance (MVP → V1.md)](./whitepaper/mecenas/tecnico/alcance.md)
 * [Requisitos](./whitepaper/mecenas/tecnico/requisitos.md)

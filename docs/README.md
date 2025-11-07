@@ -81,7 +81,7 @@ Només està disponible en castellà. És possible que es tradueixi parcialment 
 
 La llicència per al seu ús és CC0.
 
-[Anar al índix](#index)
+[Anar al índex](#index)
 
 ---
 

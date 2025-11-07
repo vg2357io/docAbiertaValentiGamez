@@ -1,0 +1,1 @@
+# Pool de liquidez y market cap inicial
