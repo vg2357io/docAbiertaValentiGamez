@@ -50,7 +50,9 @@ Descentralización opcional.
 * [Pool de liquidez y market cap inicial](es/mecenas/token/pool-liquidez-market-cap-inicial)
 * [Recompras del Token](es/mecenas/token/recompras-token)
 
-## Documentación legal (Requerido leer para colaborar)
+## Documentación legal
+
+Requerido leer para colaborar
 
 * [Uso ético de no inversión por equity](es/whitepaper/legal/uso-etico-no-inversion-equity)
 * [Uso ético de no especulación](es/whitepaper/legal/uso-etico-no-especulacion)
