@@ -14,4 +14,4 @@ La documentació amb llicència per al seu ús és CC0.
 
 * [Ver otros temas](/)
 
-* [Índex](/suite/cat)
+* [Índex](README)

@@ -4,4 +4,4 @@
 
 * [Anar al inici](/)
 
-* [Índex](/suite/cat/)
+* [Índex](README)

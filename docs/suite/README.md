@@ -41,8 +41,8 @@ La documentació amb llicència per al seu ús és CC0.
 
 * [Ver otros temas](/)
 
-* [Index](/suite/en/)
+* [Index](en/)
 
-* [Índice](/suite/es/)
+* [Índice](es/)
 
-* [Índex](/suite/cat/)
+* [Índex](cat/)

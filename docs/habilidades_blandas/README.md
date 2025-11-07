@@ -12,24 +12,24 @@ Se destaca el uso estratégico de la IA como herramienta de apoyo (secretario di
 
 * [Ver otros temas](/)
 
-* [Descargar PDF](https://contenido.valentigamez.com/formacion/habilidades_blandas/EbookHabilidadesBlandas.pdf)
+* [Descargar PDF](https://contenido.valentigamez.com/formacion/EbookHabilidadesBlandas.pdf)
 
-* [Índice](habilidades_blandas)
+* [Índice](README)
 
-* [Objetivos personales](habilidades_blandas/objetivos_personales.md)
+* [Objetivos personales](objetivos_personales.md)
 
-* [De base a específico](habilidades_blandas/de_base_a_especifico.md)
+* [De base a específico](de_base_a_especifico.md)
 
-* [La práctica hace al maestro](habilidades_blandas/la_practica_hace_al_maestro.md)
+* [La práctica hace al maestro](la_practica_hace_al_maestro.md)
 
-* [Hábitos](habilidades_blandas/habitos.md)
+* [Hábitos](habitos.md)
 
-* [Técnicas de trabajo](habilidades_blandas/tecnicas_de_trabajo.md)
+* [Técnicas de trabajo](tecnicas_de_trabajo.md)
 
-* [Medita sobre tus herramientas diarias](habilidades_blandas/medita_sobre_tus_herramientas_diarias.md)
+* [Medita sobre tus herramientas diarias](medita_sobre_tus_herramientas_diarias.md)
 
-* [IA como secretario](habilidades_blandas/ia_como_secretario.md)
+* [IA como secretario](ia_como_secretario.md)
 
-* [Habilidades complementarias](habilidades_blandas/habilidades_complementarias.md)
+* [Habilidades complementarias](habilidades_complementarias.md)
 
-* [Herramientas](habilidades_blandas/herramientas.md)
+* [Herramientas](herramientas.md)

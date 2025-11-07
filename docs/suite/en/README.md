@@ -16,4 +16,4 @@ Documentation licensed for use is released under CC0.
 
 * [Go Home](/)
 
-* [Index](/suite/en/)
+* [Index](README)

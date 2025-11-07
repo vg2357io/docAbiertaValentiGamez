@@ -4,4 +4,4 @@
 
 * [Go Home](/)
 
-* [Index](/suite/en/)
+* [Index](README)

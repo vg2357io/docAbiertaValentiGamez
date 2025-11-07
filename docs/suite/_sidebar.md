@@ -4,8 +4,8 @@
 
 * [Ir al inicio](/)
 
-* [Index](/suite/en/)
+* [Index](en/)
 
-* [Índice](/suite/es/)
+* [Índice](es/)
 
-* [Índex](/suite/cat/)
+* [Índex](cat/)

@@ -4,12 +4,12 @@
 
 * [Ir al inicio](/)
 
-* [Índice](/procesos_tecnicos/)
+* [Índice](README)
 
-* [Configurar acceso exe global](procesos_tecnicos/configurar_acceso_exe_global.md)
+* [Configurar acceso exe global](configurar_acceso_exe_global)
 
-* [Configurar ejecutable bat registro](procesos_tecnicos/configurar_ejecutable_bat_registro.md)
+* [Configurar ejecutable bat registro](configurar_ejecutable_bat_registro)
 
-* [Instalar Cashkeeper en Blendi](procesos_tecnicos/cashkeeper/blendi.md)
+* [Instalar Cashkeeper en Blendi](cashkeeper/blendi)
 
-* [Integración Cashkeeper en Node + electron](procesos_tecnicos/cashkeeper/node.md)
+* [Integración Cashkeeper en Node + electron](cashkeeper/node)
