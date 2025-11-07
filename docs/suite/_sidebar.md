@@ -4,8 +4,8 @@
 
 * [Ir al inicio](/)
 
-* [Index](en/)
+* [English whitepaper](en/)
 
-* [Índice](es/)
+* [Español whitepaper](es/)
 
-* [Índex](cat/)
+* [Català whitepaper](cat/)

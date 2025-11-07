@@ -41,8 +41,8 @@ La documentació amb llicència per al seu ús és CC0.
 
 * [Ver otros temas](/)
 
-* [Index](en/)
+* [English whitepaper](en/)
 
-* [Índice](es/)
+* [Español whitepaper](es/)
 
-* [Índex](cat/)
+* [Català whitepaper](cat/)
