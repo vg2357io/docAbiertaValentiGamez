@@ -140,7 +140,7 @@ Requerido leer para colaborar
 * [Onboarding y checklist](./whitepaper/colaboradormanager/onboarding-checklist.md)
 * [Plantillas operativas](./whitepaper/colaboradormanager/plantillas-operativas.md)
 
-## Para colaboradores técnico (visión de rol como mecenas fundador.md)
+## Para colaboradores técnico (profesión CTO mecenas fundador)
 
 * [Resumen del rol](./whitepaper/colaboradortecnico/resumen-rol.md)
 * [Responsabilidades y alcance](./whitepaper/colaboradortecnico/responsabilidades-alcance.md)
@@ -149,7 +149,7 @@ Requerido leer para colaborar
 * [Guías de calidad y seguridad](./whitepaper/colaboradortecnico/guias-calidad-seguridad.md)
 * [Onboarding y checklist](./whitepaper/colaboradortecnico/onboarding-checklist.md)
 
-## Licencias de Socio (con identificación descentralizada opcional.md)
+## Licencias de Socio (descentralizada opcional)
 
 * [Licencia Socio — Básica](./whitepaper/licencias-socio/licencia-socio-basica.md)
 * [Licencia Socio — Pro](./whitepaper/licencias-socio/licencia-socio-pro.md)
@@ -159,7 +159,7 @@ Requerido leer para colaborar
 
 ---
 
-## Para colaboradores técnico (contenido técnico.md)
+## Para colaboradores técnico (contenido técnico)
 
 * [Índice del documento de diseño](./whitepaper/mecenas/tecnico/README.md)
 * [Resumen ejecutivo](./whitepaper/mecenas/tecnico/resumen-ejecutivo.md)
