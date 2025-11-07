@@ -33,14 +33,14 @@
 
 ### Motor de crecimiento en Tokenomics
 
-* [Datos Generales](./whitepaper/mecenas/tiers-utilitarios/datos-generales.md)
-* [Génesis del Token](./whitepaper/mecenas/tiers-utilitarios/genesis-token.md)
+* [Datos Generales](./whitepaper/mecenas/tiers-utilitarios/token/datos-generales.md)
+* [Génesis del Token](./whitepaper/mecenas/tiers-utilitarios/token/genesis-token.md)
 
-    * [INO de la Comunidad](./whitepaper/mecenas/tiers-utilitarios/ino-comunidad.md)
-    * [Airdrops para la Comunidad](./whitepaper/mecenas/tiers-utilitarios/airdrops-comunidad.md)
-* [Distribución del Token](./whitepaper/mecenas/tiers-utilitarios/distribucion-token.md)
-* [Pool de liquidez y market cap inicial](./whitepaper/mecenas/tiers-utilitarios/pool-liquidez-market-cap-inicial.md)
-* [Recompras del Token](./whitepaper/mecenas/tiers-utilitarios/recompras-token.md)
+    * [INO de la Comunidad](./whitepaper/mecenas/tiers-utilitarios/token/ino-comunidad.md)
+    * [Airdrops para la Comunidad](./whitepaper/mecenas/tiers-utilitarios/token/airdrops-comunidad.md)
+* [Distribución del Token](./whitepaper/mecenas/tiers-utilitarios/token/distribucion-token.md)
+* [Pool de liquidez y market cap inicial](./whitepaper/mecenas/tiers-utilitarios/token/pool-liquidez-market-cap-inicial.md)
+* [Recompras del Token](./whitepaper/mecenas/tiers-utilitarios/token/recompras-token.md)
 
 ## Documentación legal
 

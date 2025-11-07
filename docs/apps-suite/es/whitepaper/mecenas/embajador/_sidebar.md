@@ -35,13 +35,13 @@
 
 ### Motor de crecimiento en Tokenomics
 
-* [Datos Generales](../../mecenas/tiers-utilitarios/datos-generales.md)
-* [Génesis del Token](../../mecenas/tiers-utilitarios/genesis-token.md)
-    * [INO de la Comunidad](../../mecenas/tiers-utilitarios/ino-comunidad.md)
-    * [Airdrops para la Comunidad](../../mecenas/tiers-utilitarios/airdrops-comunidad.md)
-* [Distribución del Token](../../mecenas/tiers-utilitarios/distribucion-token.md)
-* [Pool de liquidez y market cap inicial](../../mecenas/tiers-utilitarios/pool-liquidez-market-cap-inicial.md)
-* [Recompras del Token](../../mecenas/tiers-utilitarios/recompras-token.md)
+* [Datos Generales](../../mecenas/tiers-utilitarios/token/datos-generales.md)
+* [Génesis del Token](../../mecenas/tiers-utilitarios/token/genesis-token.md)
+    * [INO de la Comunidad](../../mecenas/tiers-utilitarios/token/ino-comunidad.md)
+    * [Airdrops para la Comunidad](../../mecenas/tiers-utilitarios/token/airdrops-comunidad.md)
+* [Distribución del Token](../../mecenas/tiers-utilitarios/token/distribucion-token.md)
+* [Pool de liquidez y market cap inicial](../../mecenas/tiers-utilitarios/token/pool-liquidez-market-cap-inicial.md)
+* [Recompras del Token](../../mecenas/tiers-utilitarios/token/recompras-token.md)
 
 ## Documentación legal
 
