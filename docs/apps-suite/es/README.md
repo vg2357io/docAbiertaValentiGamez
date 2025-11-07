@@ -1,4 +1,6 @@
-# WhitePaper Ariadna + Sindri
+# WhitePaper Apps Suite - Ariadna and Sindri
+
+Apps Suite es una suite de aplicaciones que permite crear, publicar y gestionar contenido en la web.
 
 Ariadna es una red privada de apps como la de Google, Meta o Apple de libre acceso.
 
@@ -8,7 +10,7 @@ El ámbito de este whitepaper es ofrecer todas las claves para tener un MVP en e
 
 Ariadna y Sindri se dirigen a estudiantes, marcas, empresas y creadores de contenido. Una versión open source para uso personal. La misma puede ser usada comercialmente con licencia MIT por empresas que tengan un servicio técnico con una graduación profesional superior no universitaria, una persona con intervenciones puntuales debe ser suficiente. Para empresas de digitalización de pymes se busca que puedan implementar su propia suite mediante estos dos productos.
 
-Documentación con licencia para su uso es CC0.
+Documentación con licencia para su uso [CC0 1.0](https://docs.valentigamez.com/#/LICENSE).
 
 ---
 
