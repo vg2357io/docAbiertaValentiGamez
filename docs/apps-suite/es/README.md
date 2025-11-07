@@ -20,9 +20,15 @@ Documentación con licencia para su uso es CC0.
 
 ## Para cualquier colaborador
 
+### Esquema de presentación Ariadna
+
 ![Esquema de presentación de Ariadna](https://docs.valentigamez.com/apps-suite/es/whitepaper/_media/ariadna-presentacion-esquema.png)
 
+### Esquema de presentación Sindri
+
 ![Esquema de presentación de Sindri](https://docs.valentigamez.com/apps-suite/es/whitepaper/_media/sindri-presentacion.png)
+
+### Más información para colaboradores
 
 * [Resumen Ejecutivo](./whitepaper/resumen-ejecutivo.md)
 * [Descripción del Producto](./whitepaper/descripcion-producto.md)
@@ -152,8 +158,6 @@ Requerido leer para colaborar
 ---
 
 ## Para colaboradores técnico (contenido técnico.md)
-
-![Arquitectura de proyectos](./mecenas/tecnico/_media/ariadna-arquitectura-proyectos.png)
 
 * [Índice del documento de diseño](./whitepaper/mecenas/tecnico/README.md)
 * [Resumen ejecutivo](./whitepaper/mecenas/tecnico/resumen-ejecutivo.md)
