@@ -8,6 +8,8 @@ El ámbito de este whitepaper es ofrecer todas las claves para tener un MVP en e
 
 Ariadna y Sindri se dirigen a estudiantes, marcas, empresas y creadores de contenido. Una versión open source para uso personal. La misma puede ser usada comercialmente con licencia MIT por empresas que tengan un servicio técnico con una graduación profesional superior no universitaria, una persona con intervenciones puntuales debe ser suficiente. Para empresas de digitalización de pymes se busca que puedan implementar su propia suite mediante estos dos productos.
 
+Documentación con licencia para su uso es CC0.
+
 ---
 
 ## Para cualquier colaborador
@@ -120,7 +122,7 @@ Requerido leer para colaborar
 * [Onboarding y checklist](es/whitepaper/colaboradores/manager/onboarding-checklist)
 * [Plantillas operativas](es/whitepaper/colaboradores/manager/plantillas-operativas)
 
-## Para colaboradores técnico (visión de rol)
+## Para colaboradores técnico (visión de rol como mecenas fundador)
 
 * [Resumen del rol](es/whitepaper/colaboradores/tecnico/resumen-rol)
 * [Responsabilidades y alcance](es/whitepaper/colaboradores/tecnico/responsabilidades-alcance)
