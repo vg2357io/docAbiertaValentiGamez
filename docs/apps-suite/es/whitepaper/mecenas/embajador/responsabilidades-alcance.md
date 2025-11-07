@@ -1,0 +1,1 @@
+# Responsabilidades y alcance
