@@ -1,4 +1,4 @@
-# WhitePaper Apps Suite Ariadna and Sindri
+# WhitePaper Apps Suite with Ariadna and Sindri
 
 [To English](#english)
 
