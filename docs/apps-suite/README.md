@@ -4,7 +4,7 @@
 
 [Ir a español](#spanish)
 
-[Anal al català](#catalan)
+[Anar al català](#catalan)
 
 [To Index](#index)
 
