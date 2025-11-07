@@ -6,6 +6,6 @@
 
 * [English](../en/README.md)
 
-* [Español](./README.md)
-
 * [Català](../cat/README.md)
+
+* [Español](./README.md)
