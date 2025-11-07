@@ -1,21 +1,37 @@
-# Recompras de Token
+# Recompras del Token
 
-## Objetivo
+Desde weLore hemos diseñado un sistema de recompra y distribución del token $WEL que combina sostenibilidad económica con recompensas para quienes apoyan activamente el ecosistema.
 
-Estabilizar el ecosistema priorizando el uso. Las recompras (si existieran) se realizarán con criterios transparentes y anticíclicos.
+### 💼 Recompras con ingresos reales
 
-## Fuentes y condiciones
+-   **30 % de las comisiones del SaaS de weLore** se destinarán a recomprar tokens $WEL en el mercado secundario.
 
-- Origen de fondos: ingresos operativos o partidas explícitas de tesorería.
-- Criterio: activar cuando métricas de uso se mantengan y el precio se desvía por factores externos.
-- Transparencia: anuncios previos y reportes posteriores.
+-   Esta estrategia vincula directamente el crecimiento del negocio con la demanda del token.
 
-## Mecanismo
 
-- Compras en tramos pequeños para no distorsionar mercado.
-- Posible quema o reasignación a programas de contribución.
+### ♻️ Distribución tras la recompra
 
-## Salvaguardas
+Una vez realizada la recompra, los tokens se dividen así:
 
-- Sin promesas de precios objetivos.
-- Gobernanza ligera para autorizar montos máximos por periodo.
+-   **30 % se queman** permanentemente → Esto reduce el supply en circulación.
+
+-   **70 % se reparten vía airdrop** entre quienes poseen roles clave en el ecosistema:
+
+
+#### 🐉 ¿Quién recibe los airdrops?
+
+-   **Dragones Custodio (normales):** multiplicador x1
+
+-   **Dragones Custodio especiales (solo 6 existen):** multiplicador x10
+
+-   **Cronistas:** multiplicador x1
+
+
+Esta asignación se realizará **mensualmente**, y busca recompensar a quienes sostienen y enriquecen el universo weLore.
+
+* * *
+
+### ⚠️ Disclaimer
+
+La recompra de tokens $WEL está sujeta al rendimiento del SaaS. Ni weLore ni ningún miembro del equipo garantiza la evolución futura del precio del token ni la frecuencia o cantidad exacta de los airdrops.  
+El valor de mercado sigue estando determinado por la oferta y la demanda.
