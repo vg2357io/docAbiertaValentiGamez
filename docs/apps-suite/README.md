@@ -1,4 +1,12 @@
-# WhitePaper Suite Ariadna + Sindri
+# WhitePaper Suite Ariadna and Sindri
+
+[To English](#english)
+
+[Ir a español](#spanish)
+
+[Anal al català](#catalan)
+
+[To Index](#index)
 
 ## English
 
@@ -12,7 +20,9 @@ Ariadna and Sindri are aimed at students, brands, companies, and content creator
 
 Documentation licensed for use is released under CC0.
 
-## Español
+* [To whitepaper](#index)
+
+## Spanish
 
 Ariadna es una red privada de apps como la de Google, Meta o Apple de libre acceso.
 
@@ -24,7 +34,9 @@ Ariadna y Sindri se dirigen a estudiantes, marcas, empresas y creadores de conte
 
 Documentación con licencia para su uso es CC0.
 
-## Català
+* [Ir al whitepaper](./es/README.md)
+
+## Catalan
 
 Ariadna és una xarxa privada d’aplicacions, com les de Google, Meta o Apple, però d’accés lliure.
 
@@ -36,13 +48,18 @@ Ariadna i Sindri van dirigits a estudiants, marques, empreses i creadors de cont
 
 La documentació amb llicència per al seu ús és CC0.
 
+* [Anar al whitepaper](./cat/README.md)
+
+---
+
+## Index
 
 * [Web Valentí Gàmez](https://valentigamez.com)
 
 * [Ver otros temas](/)
 
-* [English whitepaper](en/)
+* [English whitepaper](./en/README.md)
 
-* [Español whitepaper](es/)
+* [Español whitepaper](./es/README.md)
 
-* [Català whitepaper](cat/)
+* [Català whitepaper](./cat/README.md)

@@ -15,23 +15,32 @@
             margin: 0 auto;
             max-width: 800px;
         }
+        .app-nav a {
+            margin-right: 15px;
+        }
     </style>
 </head>
 <body>
-<nav>
+<!--<nav>
     <a href="#/">Inicio</a>
     <a href="#/habilidades_blandas/">Habilidades blandas</a>
-    <a href="#/suite/">Ariadna y Sindri</a>
-</nav>
-<div data-app id="main">Please wait...</div>
+    <a href="#/suite/">Suite Apps</a>
+</nav>-->
+<div data-app id="app">Please wait...</div>
 <script>
     window.$docsify = {
-        el: '#main',
         logo: '/_media/LogoTextoAgenciaIA.png',
+        relativePath: true,
+        loadNavbar: true,
         themeColor: '#6A42B4',
-        name: 'Documentación profesional Valentí Gàmez',
+        name: 'valentigamez',
         subMaxLevel: 2,
         loadSidebar: true,
+        auto2top: true,
+        executeScript: true,
+        fallbackLanguages: ['es', 'cat'],
+        coverpage: ['/', '/apps-suite/'],
+        notFoundPage: true,
     };
 </script>
 <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>

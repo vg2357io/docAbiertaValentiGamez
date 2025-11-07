@@ -2,10 +2,6 @@
 
 * [2357 - Web pública Valentí Gàmez](https://2357.io)
 
-* [Ir al inicio](/)
+* [Anar al inici](/)
 
-* [English whitepaper](en/)
-
-* [Español whitepaper](es/)
-
-* [Català whitepaper](cat/)
+* [Índex](./README.md)

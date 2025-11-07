@@ -6,7 +6,7 @@ This is a library owned by Valentí Gàmez and the company CicloTIC S.L. If you 
 
 ## Install Final Client
 
-[Follow to document](https://docs.valentigamez.com/#/procesos_tecnicos/cashkeeper/blendi.md)
+[Follow to document](./https://docs.valentigamez.com/#/procesos_tecnicos/cashkeeper/blendi.md)
 
 ## Install
 
@@ -35,7 +35,7 @@ npm install
 
 ## Electron integration x86
 
-[Follow to README](https://docs.valentigamez.com/#/procesos_tecnicos/cashkeeper/electron/x86.md)
+[Follow to README](./https://docs.valentigamez.com/#/procesos_tecnicos/cashkeeper/electron/x86.md)
 
 ## Install x64
 
@@ -51,11 +51,11 @@ Use x86 command to comunicate with Cashkeeper devices: https://docs.valentigamez
 
 ## Electron integration x64
 
-[Follow to README](https://docs.valentigamez.com/#/procesos_tecnicos/cashkeeper/electron/x64.md)
+[Follow to README](./https://docs.valentigamez.com/#/procesos_tecnicos/cashkeeper/electron/x64.md)
 
 ## Electron integration x64 with exe
 
-[Follow to README](https://docs.valentigamez.com/#/procesos_tecnicos/cashkeeper/electron/x64_exe.md)
+[Follow to README](./https://docs.valentigamez.com/#/procesos_tecnicos/cashkeeper/electron/x64_exe.md)
 
 ## Author
 

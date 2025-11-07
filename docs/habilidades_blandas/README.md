@@ -8,28 +8,30 @@ También se incluyen habilidades complementarias clave como comunicación efecti
 
 Se destaca el uso estratégico de la IA como herramienta de apoyo (secretario digital) siempre bajo supervisión humana, la revisión periódica de las herramientas diarias de trabajo, y se proporciona un listado de software open source recomendado con sus alternativas comerciales para facilitar la elección tecnológica consciente y profesional.
 
+---
+
 * [Web Valentí Gàmez](https://valentigamez.com)
 
 * [Ver otros temas](/)
 
 * [Descargar PDF](https://contenido.valentigamez.com/formacion/EbookHabilidadesBlandas.pdf)
 
-* [Índice](README)
+* [Índice](./README.md)
 
-* [Objetivos personales](objetivos_personales.md)
+* [Objetivos personales](./objetivos_personales.md)
 
-* [De base a específico](de_base_a_especifico.md)
+* [De base a específico](./de_base_a_especifico.md)
 
-* [La práctica hace al maestro](la_practica_hace_al_maestro.md)
+* [La práctica hace al maestro](./la_practica_hace_al_maestro.md)
 
-* [Hábitos](habitos.md)
+* [Hábitos](./habitos.md)
 
-* [Técnicas de trabajo](tecnicas_de_trabajo.md)
+* [Técnicas de trabajo](./tecnicas_de_trabajo.md)
 
-* [Medita sobre tus herramientas diarias](medita_sobre_tus_herramientas_diarias.md)
+* [Medita sobre tus herramientas diarias](./medita_sobre_tus_herramientas_diarias.md)
 
-* [IA como secretario](ia_como_secretario.md)
+* [IA como secretario](./ia_como_secretario.md)
 
-* [Habilidades complementarias](habilidades_complementarias.md)
+* [Habilidades complementarias](./habilidades_complementarias.md)
 
-* [Herramientas](herramientas.md)
+* [Herramientas](./herramientas.md)

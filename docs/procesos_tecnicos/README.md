@@ -2,14 +2,16 @@
 
 Documentación relacionada con procesos técnicos.
 
+---
+
 * [Web Valentí Gàmez](https://valentigamez.com)
 
 * [Ir al inicio](/)
 
-* [Configurar acceso exe global](configurar_acceso_exe_global)
+* [Configurar acceso exe global](./configurar_acceso_exe_global.md)
 
-* [Configurar ejecutable bat registro](configurar_ejecutable_bat_registro)
+* [Configurar ejecutable bat registro](./configurar_ejecutable_bat_registro.md)
 
-* [Instalar Cashkeeper en Blendi](cashkeeper/blendi)
+* [Instalar Cashkeeper en Blendi](./cashkeeper/blendi.md)
 
-* [Integración Cashkeeper en Node + electron](cashkeeper/node)
+* [Integración Cashkeeper en Node + electron](./cashkeeper/node.md)

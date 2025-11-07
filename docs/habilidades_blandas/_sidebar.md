@@ -6,22 +6,22 @@
 
 * [Descargar PDF](https://contenido.valentigamez.com/formacion/habilidades_blandas/EbookHabilidadesBlandas.pdf)
 
-* [Índice](README)
+* [Índice](./README.md)
 
-* [Objetivos personales](objetivos_personales.md)
+* [Objetivos personales](./objetivos_personales.md)
 
-* [De base a específico](de_base_a_especifico.md)
+* [De base a específico](./de_base_a_especifico.md)
 
-* [La práctica hace al maestro](la_practica_hace_al_maestro.md)
+* [La práctica hace al maestro](./la_practica_hace_al_maestro.md)
 
-* [Hábitos](habitos.md)
+* [Hábitos](./habitos.md)
 
-* [Técnicas de trabajo](tecnicas_de_trabajo.md)
+* [Técnicas de trabajo](./tecnicas_de_trabajo.md)
 
-* [Medita sobre tus herramientas diarias](medita_sobre_tus_herramientas_diarias.md)
+* [Medita sobre tus herramientas diarias](./medita_sobre_tus_herramientas_diarias.md)
 
-* [IA como secretario](ia_como_secretario.md)
+* [IA como secretario](./ia_como_secretario.md)
 
-* [Habilidades complementarias](habilidades_complementarias.md)
+* [Habilidades complementarias](./habilidades_complementarias.md)
 
-* [Herramientas](herramientas.md)
+* [Herramientas](./herramientas.md)
