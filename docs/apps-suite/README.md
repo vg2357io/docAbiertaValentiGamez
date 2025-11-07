@@ -8,6 +8,14 @@
 
 [To Index](#index)
 
+## Ariadne's presentation outline
+
+![Esquema de presentación de Ariadna](https://docs.valentigamez.com/apps-suite/es/whitepaper/_media/ariadna-presentacion-esquema.png)
+
+## Sindri presentation outline
+
+![Esquema de presentación de Sindri](https://docs.valentigamez.com/apps-suite/es/whitepaper/_media/sindri-presentacion.png)
+
 ## English
 
 Apps Suite is a suite of applications that allows you to create, publish, and manage content on the web.
