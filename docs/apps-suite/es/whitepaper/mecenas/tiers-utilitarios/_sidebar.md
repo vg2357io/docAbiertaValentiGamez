@@ -6,7 +6,7 @@
 
 * [Índice](../../../README.md)
 
-* [English](../../../../en/README.md)
+* [English](../../../../README.md)
 
 * [Català](../../../../cat/README.md)
 

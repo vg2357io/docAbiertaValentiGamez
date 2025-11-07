@@ -4,7 +4,7 @@
 
 * [Ir al inicio](/)
 
-* [English](../en/README.md)
+* [English](../README.md)
 
 * [Català](../cat/README.md)
 
