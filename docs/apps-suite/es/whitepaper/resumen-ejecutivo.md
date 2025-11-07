@@ -4,7 +4,7 @@
 
 *Un login como el de Google o Meta y una extensión de navegador con las apps de empresa. Ariadna como núcleo de datos, cuentas para empleados y permisos basados en roles. Con una red privada como perímetro de seguridad.*
 
-![Esquema de presentación de Ariadna](/_media/presentacion-esquema.png)
+![Esquema de presentación de Ariadna](https://docsvalentigamez.com/apps-suite/es/whitepaper/mecenas/tecnico/_media/ariadna-arquitectura-proyectos.png)
 
 > **Nombre del proyecto:** **ARIADNA** (Ariadne). En la mitología griega, Ariadna entrega a Teseo el «hilo» que le permite recorrer e interconectar pasajes del laberinto sin perderse. Simboliza **orientación, interconexión y salida segura**.
 >
