@@ -4,9 +4,11 @@ Desde Apps Suite hemos diseñado un sistema de recompra y distribución de moned
 
 ### Recompras con ingresos reales
 
--   **Porcentaje determinado por CTO de las beneficios de Apps Suite** se destinarán a recomprar monedas $CAS en el mercado secundario. Muy imortante: el CTO es quien determina qué cantidad se recompra mediante un algoritmo público que tiene una fluctuación del 40% al 100% de forma randomizada. Este mecanismo puede cambiar para luchar contra la especulación y la mala praxis de miembros de la comuidad con intereses no alineados con Apps Suite.
+-   **Porcentaje, determinado por el CTO, de los beneficios de Apps Suite** se destinarán a recomprar monedas $CAS en el mercado secundario. Muy imortante: el CTO es quien determina qué cantidad se recompra mediante un algoritmo público que tiene una fluctuación del 40% al 100% de forma randomizada. Este mecanismo puede cambiar para luchar contra la especulación y la mala praxis de miembros de la comuidad con intereses no alineados con Apps Suite.
 
 -   Esta estrategia vincula directamente el crecimiento del negocio con la demanda de la moneda por parte de la comunidad.
+
+- Apps Suite va luchar activamente para que no se trate la moneda con un fin financiero/especulativo.
 
 
 ### Distribución tras la recompra
