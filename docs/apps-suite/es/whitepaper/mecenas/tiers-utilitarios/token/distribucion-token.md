@@ -129,7 +129,7 @@ El suministro de $CAS se asignará a **siete áreas clave**, cada una con un pro
 
 La descentralización estará congelada hasta 2027 para evitar la especulación.
 
-En 2026 se activará la transferencia de forma cetralizada en Apps Suite.
+En 2026 se activará la transferencia de forma centralizada en Apps Suite.
 
 En 2027 se descongelará de descentralización, se modificarán las claves disponibles para las cuentas gestoras (Solo supply y metadata) y se habilitará el mercado secundario.
 
