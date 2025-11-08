@@ -1,44 +1,68 @@
 # INO de la Comunidad
 
-**Lanzamiento Inicial de NFTs de weLore**
+**Lanzamiento Inicial de tickets de Apps Suite**
 
-weLore lanza su **Initial NFT Offering (INO)** para la comunidad con la puesta en venta de 38**0 NFTs weLore INO**.
-
-* * *
-
-### Información del NFT weLore INO
-
--   **Token ID oficial:** 0.0.xxxx
-
--   **Nombre del NFT:** weLore INO
-
+Apps Suite lanza sus **Apps Suite ticket INO** para la comunidad con la distribución de **1080 tickets**.
 
 * * *
 
-### ¿Qué ofrece el NFT weLore INO?
+## Fecha prevista del evento INO
 
-Adquirir un NFT weLore INO no solo te identifica como miembro fundador, sino que además te permite:
+Marzo de 2026
 
--   **Reclamar una vez 30.000 tokens $WEL**, como recompensa directa.
+* * *
+
+## Precio de un Apps Suite ticket INO
+
+Los tickets gratuitos canjeables tendrán un costo de 0$. Máximo 80 unidades.
+Los tickets anticipados canjeables tendrán un coste de 100$. Máximo 350 unidades.
+Los tickets públicos canjeables tendrán un coste de 120$. Hasta 1000 unidades, si se canjean 300 tickets anticipados habrá un máximo de 700 unidades públicas.
+
+* * *
+
+## Información del ticket INO
+
+-   **ID moneda oficial:** 0.0.xxxx
+
+-   **Nombre del ticket:** Apps Suite ticket INO
 
 
-weLore también **destinará 20 NFTs weLore INO** a campañas promocionales y recompensas especiales para la comunidad.
+* * *
 
-> ⚠️ Importante: **Solo los NFTs weLore INO obtenidos durante la INO** darán acceso al reclamo único de 30.000 $WEL. Las ediciones posteriores no incluirán estos beneficios.
+### ¿Qué ofrece el Apps Suite ticket INO?
+
+Adquirir un Apps Suite ticket INO no solo te identifica como miembro fundador, sino que además te permite:
+
+-   **Reclamar una vez 13.888 monedas $CAS**, como recompensa directa.
+
+
+Apps Suite también **destinará 80 tickets canjeables gratuitos** a campañas promocionales y recompensas especiales para la comunidad.
+
+> ⚠️ Importante: **Solo los tickets obtenidos durante el evento INO** darán acceso al reclamo único de 13.888 $CAS. Si obtienes un ticket canjeable deberás participar en la INO para reclamarlo gratis. Tendrás un mínimo de 6 horas para hacerlo tú o un representate tuyo.
 
 * * *
 
 ### Lanzamiento por Etapas: Accesos y Disponibilidad
 
-La distribución de los NFTs weLore INO se realizará mediante el **Launchpad de Kabila Market**, que estará dividido en **dos fases secuenciales**:
+La distribución de los Apps Suite ticket INO se realizará mediante la tienda de Apps Suite, estará dividido en **dos fases secuenciales**:
 
-1.  **Fase 1:** Exclusiva para los primeros miembros de weLore que ya posean NFTs habilitantes.
+1.  **Fase 1:** De 9:00 UTC +1 a 15:00 UTC +1 Exclusiva para los primeros fundadores de Apps Suite que ya posean tickets canjeables gratuitos o anticipados.
 
-2.  **Fase 2:** Etapa final abierta al público general, sin necesidad de tener NFT previo.
+2.  **Fase 2:** De 15:01 UTC +1 a 23:59 UTC +1 Etapa final abierta al público general, sin necesidad de tener ticket previo. Se cierra al terminar stock.
 
 
-Los NFTs podrán adquirirse en **$HBAR**, con un precio **indexado al dólar**. La disponibilidad será diferente en cada fase:
+Los tickets podrán adquirirse en **Euros**, **Dólares** o **$HBAR**, con un precio **indexado al dólar**. Se habilitará el reclamo de factura.
 
--   En la **fase 1**, cada usuario contará con una **asignación garantizada**.
+La disponibilidad será diferente en cada fase:
+
+-   En la **fase 1**, cada usuario contará con una **asignación garantizada**. Tu tícket canjeable gratuito o anticipado te asegura, durante la primera fase, reclamar un Apps Suite ticket INO.
 
 -   En la **fase pública**, **no se garantiza disponibilidad**, ya que dependerá de la demanda acumulada en las etapas anteriores.
+
+### ¿Qué pasa si no se venden todos?
+
+El proyecto tiene hasta 2027 para distribuir la INO ya que la descentralización estará congelada hasta entonces y no habrá posibilidad de operar en el mercado secundario.
+
+Nuestro objetivo es vender todo en Marzo de 2026 pero si no fuera así se podría hacer una segunda venta en el Q3 de 2026.
+
+En cualquier caso si en la descongelación de 2027 no se hubiera vendido todo se repartirán los tokens asignados en la INO entre los propietarios de ese momento de los Apps Suite ticket INO.
