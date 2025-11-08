@@ -67,4 +67,4 @@ El proyecto tiene hasta 2027 para distribuir la INO ya que la descentralización
 
 Nuestro objetivo es vender todo en Marzo de 2026 pero si no fuera así se podría hacer una segunda venta en el Q3 de 2026.
 
-En cualquier caso si en la descongelación de 2027 no se hubiera vendido todo se repartirán los tokens asignados en la INO entre los propietarios de ese momento de los Apps Suite ticket INO.
+En cualquier caso si en la descongelación de 2027 no se hubiera vendido todo se repartirán las monedas asignadas en la INO entre los propietarios de ese momento de los Apps Suite ticket INO.
