@@ -15,7 +15,9 @@ Marzo de 2026
 ## Precio de un Apps Suite ticket INO
 
 Los tickets gratuitos canjeables tendrán un costo de 0$. Máximo 80 unidades.
+
 Los tickets anticipados canjeables tendrán un coste de 100$. Máximo 350 unidades.
+
 Los tickets públicos canjeables tendrán un coste de 120$. Hasta 1000 unidades, si se canjean 300 tickets anticipados habrá un máximo de 700 unidades públicas.
 
 * * *
