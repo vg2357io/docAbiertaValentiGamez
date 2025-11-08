@@ -32,7 +32,9 @@ Monedas $CAS/mes por licencia
 | Embajador | 3 | 7× | 51,975 | 17,325 |
 | **Total** | **35** | — | **250,000** | — |
 
-El total máximo de licencias básicas y pro que se distribuirán con los años es de 2160. El máximo de licencias enterprise con 5x es de 101. El máximo de licencias de embajador con 7x es de 101. El porcentaje de los 250,000 $CAS/mes distribuidos que tocan a las licencias en activo se puede actualizar una vez por trimestre.
+El total máximo de licencias básicas y pro que se distribuirán con los años es de 2160. El máximo de licencias enterprise con 5x es de 101. El máximo de licencias de embajador con 7x es de 101.
+
+El total de los 250,000 $CAS/mes distribuidos que tocan a las licencias en activo se puede actualizar una vez por trimestre. Cuantas más licencias se distribuyan más crecerá el número de socios y menos moneda tocará por socio.
 
 📌 **Ejemplo práctico:**  
 Si en tu cuenta hay **2 licencias pro** y **3 licencias básicas**, podrás reclamar **4,950 x 3 + 7,425 x 2 = 29.700 $CAS al mes**.
