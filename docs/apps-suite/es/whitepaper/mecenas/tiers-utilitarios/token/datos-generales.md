@@ -25,7 +25,7 @@ Lanzado en la red Hedera inicialmente y emitido directamente por Apps Suite junt
 
 -   **Claves en 2027:** Supply, Metadata
 
--   **Modelo de distribución:** 20 % entregado en el evento Génesis y el 80 % restante repartido progresivamente durante un período de 5 años.
+-   **Modelo de distribución:** 20 % entregado en el evento Génesis de 2027 y el 80 % restante repartido progresivamente durante un período de 5 años.
 
 
 Tanto las cuentas del Tesoro como las claves de la moneda están protegidas mediante un sistema de multifirma 6/10, asegurado por la gobernanza interna de Apps Suite.
