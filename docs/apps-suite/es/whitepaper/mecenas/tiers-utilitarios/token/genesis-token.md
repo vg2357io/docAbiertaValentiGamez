@@ -3,7 +3,7 @@
 Con el lanzamiento de la moneda durante el evento Génesis, se liberará un total de **20 millones de monedas CAS**, lo que representa el **20 % del suministro total**. Esta distribución se reparte en tres áreas clave que impulsan los primeros pasos del ecosistema:
 
 
-| Categoría | Monedas asignados | % del desbloqueo inicial | % del total del suministro |
+| Categoría | Monedas asignadas | % del desbloqueo inicial | % del total del suministro |
 | --- | --- | --- | --- |
 | Comunidad | 15,000,000 | 75 % | 15 % |
 | Liquidez 2027 | 3,000,000 | 15 % | 3 % |
