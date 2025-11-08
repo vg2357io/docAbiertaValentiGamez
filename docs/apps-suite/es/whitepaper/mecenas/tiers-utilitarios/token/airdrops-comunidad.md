@@ -2,42 +2,42 @@
 
 **Un reconocimiento a quienes siempre han estado ahí**
 
-Para agradecer el compromiso de los miembros más leales de weLore, se ha diseñado un programa de **airdrop anticipado** que repartirá **3.000.000 de tokens $WEL** a lo largo de **12 meses**, mediante **reclamos diarios**. Este airdrop se prolongará 4 años más con 12.000.000 de tokens $WEL.
+Para agradecer el compromiso de los miembros más leales de Apps Suite, se ha diseñado un programa de **airdrop anticipado** que repartirá **3.000.000 de monedas $CAS** a lo largo de **12 meses**, mediante **reclamos diarios**. Este airdrop se prolongará 4 años más con 12.000.000 de monedas $CAS.
 
-La distribución comenzará **una vez finalizado el Evento de Generación del Token (TGE)**, cuya fecha marcará el inicio oficial del airdrop. A partir de ese momento, se realizará un **snapshot diario** del contenido de cada wallet, y los usuarios podrán reclamar sus tokens en función de los **NFTs de weLore** que tengan en su posesión.
+La distribución comenzará **una vez finalizado el Evento de Generación de la moneda (TGE)**, cuya fecha marcará el inicio oficial del airdrop. A partir de ese momento, se realizará una **captura diaria** del contenido de cada cuenta, y los usuarios podrán reclamar sus monedas en función de las **licencias utilitarias de CicloTIC** que tengan en su posesión.
 
-Para hacerlo, será necesario **conectar la wallet al perfil de weLore y reclamar las recompensas manualmente** desde la plataforma.
+Para hacerlo, será necesario **conectar CicloTIC al perfil de Apps Suite y reclamar las recompensas manualmente** desde la plataforma.
 
 * * *
 
 ### ¿Cómo funcionan las recompensas?
 
-Cada tipo de NFT está vinculado a una cantidad fija de $WEL mensual. **Cuantos más NFTs tengas, mayor será tu recompensa**, ya que los montos se **acumulan automáticamente** según la cantidad total que poseas al momento de cada snapshot.
+Cada tipo de licencia está vinculada a una cantidad fija de $CAS mensual. **Cuantas más licencias tengas, mayor será tu recompensa**, ya que los montos se **acumulan automáticamente** según la cantidad total que poseas al momento de cada captura diraria.
 
-Tipo de NFT
+Tipo de licencia
 
-Cantidad de NFTs
+Cantidad de licencias
 
 Multiplicador
 
-Tokens $WEL/mes (total por grupo)
+Monedas $CAS/mes (total por grupo)
 
-Tokens $WEL/mes por NFT
+Monedas $CAS/mes por licencia
 
-| Tipo de NFT | Cantidad de NFTs activos | Multiplicador | Tokens $WEL/mes (total por grupo) | Tokens $WEL/mes por NFT |
+| Tipo de licencia | Cantidad de licencias activas | Multiplicador | Monedas $CAS/mes (total por grupo) | Monedas $CAS/mes por licencia |
 | --- | --- | --- | --- | --- |
-| DRAGONES CUSTODIO y CRONISTAS | 220 | 1× | 220,000 | 1,000 |
-| DRAGONES CUSTODIO REY | 3 | 10× | 30,000 | 10,000 |
+| Básica y Pro | 220 | 1× | 220,000 | 1,000 |
+| Enterprise | 3 | 10× | 30,000 | 10,000 |
 | **Total** | **223** | — | **250,000** | — |
 
-El total máximo de dragones custodio y cronistas que se distribuirán con los años es de 2006. El máximo de dragones custodio especiales con 10x es de 6. El porcentaje de los 250,000 $WEL/mes distribuidos que tocan a los NFTs en activo se puede actualizar una vez por trimestre.
+El total máximo de licencias básicas y pro que se distribuirán con los años es de 2006. El máximo de licencias enterprise con 10x es de 6. El porcentaje de los 250,000 $CAS/mes distribuidos que tocan a las licencias en activo se puede actualizar una vez por trimestre.
 
 📌 **Ejemplo práctico:**  
-Si en tu wallet hay **2 NFTs DRAGONES CUSTODIO** y **3 NFTs CRONISTA**, podrás reclamar **1000 x 5 = 5.000 $WEL al mes**.
+Si en tu cuenta hay **2 licencias pro** y **3 licencias básicas**, podrás reclamar **1000 x 5 = 5.000 $CAS al mes**.
 
 * * *
 
 ### 🕒 Hasta cuándo se pueden reclamar
 
 > ⚠️ Podrás reclamar tus recompensas **cada día hasta 30 días después del último airdrop diario**.  
-> Después de esa fecha, **todos los tokens no reclamados se transferirán al Tesoro para el Crecimiento del Ecosistema**.
+> Después de esa fecha, **todas las monedas no reclamadas se transferirán al Tesoro para el Crecimiento del Ecosistema**.
