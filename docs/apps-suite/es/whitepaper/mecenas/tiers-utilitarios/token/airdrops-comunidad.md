@@ -26,14 +26,16 @@ Monedas $CAS/mes por licencia
 
 | Tipo de licencia | Cantidad de licencias activas | Multiplicador | Monedas $CAS/mes (total por grupo) | Monedas $CAS/mes por licencia |
 | --- | --- | --- | --- | --- |
-| Básica y Pro | 220 | 1× | 220,000 | 1,000 |
-| Enterprise | 3 | 10× | 30,000 | 10,000 |
-| **Total** | **223** | — | **250,000** | — |
+| Básica | 20 | 2× | 99,000 | 4,950 |
+| Pro | 10 | 3× | 74,250 | 7,425 |
+| Enterprise | 2 | 5× | 24,750 | 12,375 |
+| Embajador | 3 | 7× | 51,975 | 17,325 |
+| **Total** | **35** | — | **250,000** | — |
 
-El total máximo de licencias básicas y pro que se distribuirán con los años es de 2006. El máximo de licencias enterprise con 10x es de 6. El porcentaje de los 250,000 $CAS/mes distribuidos que tocan a las licencias en activo se puede actualizar una vez por trimestre.
+El total máximo de licencias básicas y pro que se distribuirán con los años es de 2006. El máximo de licencias enterprise con 5x es de 101. El máximo de licencias de embajador con 7x es de 101. El porcentaje de los 250,000 $CAS/mes distribuidos que tocan a las licencias en activo se puede actualizar una vez por trimestre.
 
 📌 **Ejemplo práctico:**  
-Si en tu cuenta hay **2 licencias pro** y **3 licencias básicas**, podrás reclamar **1000 x 5 = 5.000 $CAS al mes**.
+Si en tu cuenta hay **2 licencias pro** y **3 licencias básicas**, podrás reclamar **4,950 x 3 + 7,425 x 2 = 29.700 $CAS al mes**.
 
 * * *
 
