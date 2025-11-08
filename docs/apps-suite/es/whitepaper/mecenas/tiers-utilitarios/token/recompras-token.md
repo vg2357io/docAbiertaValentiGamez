@@ -27,9 +27,7 @@ Una vez realizada la recompra, la moneda se divide así:
 
 -   **Enterprise:** multiplicador x5
 
-### Embajadores
-
-- multiplicador x7
+-   **Embajador:** multiplicador x7
 
 ### Logros
 
