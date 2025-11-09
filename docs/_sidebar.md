@@ -15,5 +15,5 @@
 
 * Productos en propiedad
   * [Blendi](https://blendi.es)
-  * [Apps Suite #ariadna y #sindri - Conecta tecnología](/apps-suite/)
+  * [Apps Suite - Conecta tecnología](/apps-suite/)
   * [#weLore - Gamifica tus clientes](https://welore.io)
