@@ -1,5 +1,14 @@
 # WhitePaper Apps Suite - Ariadna and Sindri
 
+Inglés:
+ATTENTION: A large part of the Whitepaper’s content has been reviewed by Valentí Gàmez. Some sections still need to be verified and updated. It is NOT yet in the draft phase.
+
+Español:
+ATENCIÓN: Gran parte del contenido del Whitepaper ha estado revisado por Valentí Gàmez. Aún quedan partes por verificar y actualizar. Aún NO está en fase borrado.
+
+Catalán:
+ATENCIÓ: Una gran part del contingut del Whitepaper ha estat revisada per Valentí Gàmez. Encara hi ha parts per verificar i actualitzar. Encara NO està en fase d’esborrany.
+
 [To English](#english)
 
 [Ir a español](#spanish)
