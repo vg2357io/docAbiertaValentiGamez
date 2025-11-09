@@ -57,18 +57,17 @@ Descentralización opcional.
 * [Colaborador moderador](./whitepaper/mecenas/tiers-utilitarios/colaborador-moderador.md)
 * [Licencia de Socios](./whitepaper/mecenas/tiers-utilitarios/licencia-socios.md)
 
-### Motor de crecimiento en Tokenomics
+### Motor de crecimiento gamificado
 
 Descentralización opcional.
 
-* [Datos Generales](./whitepaper/mecenas/tiers-utilitarios/token/datos-generales.md)
-* [Génesis del Token](./whitepaper/mecenas/tiers-utilitarios/token/genesis-token.md)
-
-    * [INO de la Comunidad](./whitepaper/mecenas/tiers-utilitarios/token/ino-comunidad.md)
-    * [Airdrops para la Comunidad](./whitepaper/mecenas/tiers-utilitarios/token/airdrops-comunidad.md)
-* [Distribución del Token](./whitepaper/mecenas/tiers-utilitarios/token/distribucion-token.md)
-* [Pool de liquidez y market cap inicial](./whitepaper/mecenas/tiers-utilitarios/token/pool-liquidez-market-cap-inicial.md)
-* [Recompras del Token](./whitepaper/mecenas/tiers-utilitarios/token/recompras-token.md)
+* [Datos Generales](./whitepaper/mecenas/tiers-utilitarios/moneda/datos-generales.md)
+* [Génesis del Token](./whitepaper/mecenas/tiers-utilitarios/moneda/genesis-moneda.md)
+    * [INO de la Comunidad](./whitepaper/mecenas/tiers-utilitarios/moneda/ino-comunidad.md)
+    * [Airdrops para la Comunidad](./whitepaper/mecenas/tiers-utilitarios/moneda/airdrops-comunidad.md)
+* [Distribución del Token](./whitepaper/mecenas/tiers-utilitarios/moneda/distribucion-moneda.md)
+* [Pool de liquidez y market cap inicial](./whitepaper/mecenas/tiers-utilitarios/moneda/pool-liquidez-market-cap-inicial.md)
+* [Recompras del Token](./whitepaper/mecenas/tiers-utilitarios/moneda/recompras-moneda.md)
 
 ## Documentación legal
 

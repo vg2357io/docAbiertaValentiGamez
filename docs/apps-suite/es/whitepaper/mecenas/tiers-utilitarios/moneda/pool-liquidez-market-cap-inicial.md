@@ -42,5 +42,5 @@ Si se recauda menos, se ajusta la cantidad de monedas en la pool para mantener e
 
 ### ⚠️ Disclaimer
 
-El valor del token $CAS en el mercado lo determina la oferta y la demanda en los CEX o DEX.  
+El valor del moneda $CAS en el mercado lo determina la oferta y la demanda en los CEX o DEX.  
 Desde Apps Suite no controlamos la compraventa de moneda ni su evolución de precio, por lo que **no podemos garantizar que su valor suba o se mantenga**, ni tampoco evitar que baje.

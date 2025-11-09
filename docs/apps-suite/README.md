@@ -101,16 +101,16 @@ TODO: Add English whitepaper Index, pages and translations.
 * [Colaborador moderador](./es/whitepaper/mecenas/tiers-utilitarios/colaborador-moderador.md)
 * [Licencia de Socios](./es/whitepaper/mecenas/tiers-utilitarios/licencia-socios.md)
 
-### Motor de crecimiento en Tokenomics
+### Motor de crecimiento gamificado
 
 * [Datos Generales](./es/whitepaper/mecenas/tiers-utilitarios/datos-generales.md)
-* [Génesis del Token](./es/whitepaper/mecenas/tiers-utilitarios/genesis-token.md)
+* [Génesis del Token](./es/whitepaper/mecenas/tiers-utilitarios/genesis-moneda.md)
 
     * [INO de la Comunidad](./es/whitepaper/mecenas/tiers-utilitarios/ino-comunidad.md)
     * [Airdrops para la Comunidad](./es/whitepaper/mecenas/tiers-utilitarios/airdrops-comunidad.md)
-* [Distribución del Token](./es/whitepaper/mecenas/tiers-utilitarios/distribucion-token.md)
+* [Distribución del Token](./es/whitepaper/mecenas/tiers-utilitarios/distribucion-moneda.md)
 * [Pool de liquidez y market cap inicial](./es/whitepaper/mecenas/tiers-utilitarios/pool-liquidez-market-cap-inicial.md)
-* [Recompras del Token](./es/whitepaper/mecenas/tiers-utilitarios/recompras-token.md)
+* [Recompras del Token](./es/whitepaper/mecenas/tiers-utilitarios/recompras-moneda.md)
 
 ## Documentación legal
 
