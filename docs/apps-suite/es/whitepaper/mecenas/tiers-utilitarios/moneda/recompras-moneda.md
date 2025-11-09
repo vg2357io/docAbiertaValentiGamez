@@ -29,7 +29,7 @@ Una vez realizada la recompra, la moneda se divide así:
 
 -   **Embajador:** multiplicador x7
 
-### Logros
+Logros
 
 - **Fácil** x2
 

@@ -8,7 +8,7 @@
 
 * [Català](../cat/README.md)
 
-## Más información para colaboradores
+**Más información para colaboradores**
 
 * [Resumen Ejecutivo](./whitepaper/resumen-ejecutivo.md)
 * [Descripción del Producto](./whitepaper/descripcion-producto.md)
@@ -17,7 +17,7 @@
 * [Plan Financiero](./whitepaper/plan-financiero.md)
 * [Roadmap](./whitepaper/roadmap.md)
 
-### Logros
+Logros
 
 * [Quién es el Mecenas Fundador](./whitepaper/mecenas/tiers-utilitarios/quien-es-mecenas-fundador.md)
 * [Horizontalidad automatizada](./whitepaper/mecenas/tiers-utilitarios/horizontalidad-automatizada.md)
@@ -31,7 +31,7 @@
 * [Colaborador moderador](./whitepaper/mecenas/tiers-utilitarios/colaborador-moderador.md)
 * [Licencia de Socios](./whitepaper/mecenas/tiers-utilitarios/licencia-socios.md)
 
-### Motor de crecimiento gamificado
+Motor de crecimiento gamificado
 
 * [Datos Generales](./whitepaper/mecenas/tiers-utilitarios/moneda/datos-generales.md)
 * [Génesis del Token](./whitepaper/mecenas/tiers-utilitarios/moneda/genesis-moneda.md)
@@ -41,7 +41,7 @@
 * [Pool de liquidez y market cap inicial](./whitepaper/mecenas/tiers-utilitarios/moneda/pool-liquidez-market-cap-inicial.md)
 * [Recompras del Token](./whitepaper/mecenas/tiers-utilitarios/moneda/recompras-moneda.md)
 
-## Documentación legal
+**Documentación legal**
 
 Requerido leer para colaborar.
 
@@ -50,7 +50,7 @@ Requerido leer para colaborar.
 * [Respeto a profesionales y sus licencias](./whitepaper/legal/respeto-profesionales-licencias.md)
 * [Uso ético para entrenamiento automatizado o IA](./whitepaper/legal/uso-etico-entrenamiento-automatizado-ia.md)
 
-## Gamificación del proyecto
+**Gamificación del proyecto**
 
 * [Herramienta Open Source #weLore](./whitepaper/gamificacion/herramienta-open-source.md)
 * [Custodia propiedad digital](./whitepaper/gamificacion/custodia-propiedad-digital.md)
@@ -58,7 +58,7 @@ Requerido leer para colaborar.
 * [Descentralización](./whitepaper/gamificacion/descentralizacion.md)
 * [Congelación temporal](./whitepaper/gamificacion/congelacion-temporal.md)
 
-## Para colaboradores embajador
+**Para colaboradores embajador**
 
 * [Resumen del rol](./whitepaper/mecenas/embajador/resumen-rol.md)
 * [Responsabilidades y alcance](./whitepaper/mecenas/embajador/responsabilidades-alcance.md)
@@ -69,7 +69,7 @@ Requerido leer para colaborar.
 * [Plantillas de propuestas a partners](./whitepaper/mecenas/embajador/plantillas-propuestas-partners.md)
 * [Compliance y riesgos](./whitepaper/mecenas/embajador/compliance-riesgos.md)
 
-## Para colaboradores periodista
+**Para colaboradores periodista**
 
 * [Resumen del rol](./whitepaper/mecenas/periodista/resumen-rol.md)
 * [Estándares editoriales](./whitepaper/mecenas/periodista/estandares-editoriales.md)
@@ -80,7 +80,7 @@ Requerido leer para colaborar.
 * [Políticas de conflictos de interés](./whitepaper/mecenas/periodista/politicas-conflictos-interes.md)
 * [Onboarding y checklist](./whitepaper/mecenas/periodista/onboarding-checklist.md)
 
-## Para colaboradores creador de contenido
+**Para colaboradores creador de contenido**
 
 * [Resumen del rol](./whitepaper/mecenas/creador-contenido/resumen-rol.md)
 * [Líneas creativas y tono](./whitepaper/mecenas/creador-contenido/lineas-creativas-tono.md)
@@ -91,7 +91,7 @@ Requerido leer para colaborar.
 * [Derechos de uso y licencias](./whitepaper/mecenas/creador-contenido/derechos-uso-licencias.md)
 * [Onboarding y checklist](./whitepaper/mecenas/creador-contenido/onboarding-checklist.md)
 
-## Para colaboradores legal
+**Para colaboradores legal**
 
 * [Resumen del rol](./whitepaper/mecenas/legal/resumen-rol.md)
 * [Marco contractual](./whitepaper/mecenas/legal/marco-contractual.md)
@@ -101,7 +101,7 @@ Requerido leer para colaborar.
 * [Guías para mediaciones y disputas](./whitepaper/mecenas/legal/guias-mediaciones-disputas.md)
 * [Onboarding y checklist](./whitepaper/mecenas/legal/onboarding-checklist.md)
 
-## Para colaboradores manager
+**Para colaboradores manager**
 
 * [Resumen del rol](./whitepaper/mecenas/manager/resumen-rol.md)
 * [RACI y gobernanza](./whitepaper/mecenas/manager/raci-gobernanza.md)
@@ -111,7 +111,7 @@ Requerido leer para colaborar.
 * [Onboarding y checklist](./whitepaper/mecenas/manager/onboarding-checklist.md)
 * [Plantillas operativas](./whitepaper/mecenas/manager/plantillas-operativas.md)
 
-## Para colaboradores técnico
+**Para colaboradores técnico**
 
 * [Resumen del rol](./whitepaper/mecenas/tecnico/resumen-rol.md)
 * [Responsabilidades y alcance](./whitepaper/mecenas/tecnico/responsabilidades-alcance.md)
@@ -120,7 +120,7 @@ Requerido leer para colaborar.
 * [Guías de calidad y seguridad](./whitepaper/mecenas/tecnico/guias-calidad-seguridad.md)
 * [Onboarding y checklist](./whitepaper/mecenas/tecnico/onboarding-checklist.md)
 
-## Para colaboradores moderador
+**Para colaboradores moderador**
 
 * [Resumen del rol](./whitepaper/mecenas/moderador/resumen-rol.md)
 * [Código de conducta y normas](./whitepaper/mecenas/moderador/codigo-conducta-normas.md)
@@ -129,7 +129,7 @@ Requerido leer para colaborar.
 * [KPIs e incentivos](./whitepaper/mecenas/moderador/kpis-incentivos.md)
 * [Onboarding y checklist](./whitepaper/mecenas/moderador/onboarding-checklist.md)
 
-## Licencias de Socio
+**Licencias de Socio**
 
 * [Licencia Socio — Básica](./whitepaper/licencias-socio/licencia-socio-basica.md)
 * [Licencia Socio — Pro](./whitepaper/licencias-socio/licencia-socio-pro.md)
@@ -139,7 +139,7 @@ Requerido leer para colaborar.
 
 ---
 
-## Para colaboradores técnico (contenido técnico)
+**Para colaboradores técnico** (contenido técnico)
 
 * [Índice del documento de diseño](./whitepaper/tecnico/documento-diseno/README.md)
 * [Resumen ejecutivo](./whitepaper/tecnico/documento-diseno/resumen-ejecutivo.md)

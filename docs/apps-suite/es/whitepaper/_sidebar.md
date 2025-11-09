@@ -10,7 +10,7 @@
 
 * [Català](../../cat/README.md)
 
-## Más información para colaboradores
+**Más información para colaboradores**
 
 * [Resumen Ejecutivo](./resumen-ejecutivo.md)
 * [Descripción del Producto](./descripcion-producto.md)
@@ -19,7 +19,7 @@
 * [Plan Financiero](./plan-financiero.md)
 * [Roadmap](./roadmap.md)
 
-### Logros
+Logros
 
 * [Quién es el Mecenas Fundador](./mecenas/tiers-utilitarios/quien-es-mecenas-fundador.md)
 * [Horizontalidad automatizada](./mecenas/tiers-utilitarios/horizontalidad-automatizada.md)
@@ -33,7 +33,7 @@
 * [Colaborador moderador](./mecenas/tiers-utilitarios/colaborador-moderador.md)
 * [Licencia de Socios](./mecenas/tiers-utilitarios/licencia-socios.md)
 
-### Motor de crecimiento gamificado
+Motor de crecimiento gamificado
 
 * [Datos Generales](./whitepaper/mecenas/tiers-utilitarios/moneda/datos-generales.md)
 * [Génesis del Token](./whitepaper/mecenas/tiers-utilitarios/moneda/genesis-moneda.md)
@@ -43,14 +43,14 @@
 * [Pool de liquidez y market cap inicial](./whitepaper/mecenas/tiers-utilitarios/moneda/pool-liquidez-market-cap-inicial.md)
 * [Recompras del Token](./whitepaper/mecenas/tiers-utilitarios/moneda/recompras-moneda.md)
 
-## Documentación legal
+**Documentación legal**
 
 * [Uso ético de no inversión por equity](./legal/uso-etico-no-inversion-equity.md)
 * [Uso ético de no especulación](./legal/uso-etico-no-especulacion.md)
 * [Respeto a profesionales y sus licencias](./legal/respeto-profesionales-licencias.md)
 * [Uso ético para entrenamiento automatizado o IA](./legal/uso-etico-entrenamiento-automatizado-ia.md)
 
-## Gamificación del proyecto
+**Gamificación del proyecto**
 
 * [Herramienta Open Source #weLore](./whitepaper/gamificacion/herramienta-open-source.md)
 * [Custodia propiedad digital](./whitepaper/gamificacion/custodia-propiedad-digital.md)
@@ -58,7 +58,7 @@
 * [Descentralización](./whitepaper/gamificacion/descentralizacion.md)
 * [Congelación temporal](./whitepaper/gamificacion/congelacion-temporal.md)
 
-## Para colaboradores embajador
+**Para colaboradores embajador**
 
 * [Resumen del rol](./mecenas/embajador/resumen-rol.md)
 * [Responsabilidades y alcance](./mecenas/embajador/responsabilidades-alcance.md)
@@ -69,7 +69,7 @@
 * [Plantillas de propuestas a partners](./mecenas/embajador/plantillas-propuestas-partners.md)
 * [Compliance y riesgos](./mecenas/embajador/compliance-riesgos.md)
 
-## Para colaboradores periodista
+**Para colaboradores periodista**
 
 * [Resumen del rol](./mecenas/periodista/resumen-rol.md)
 * [Estándares editoriales](./mecenas/periodista/estandares-editoriales.md)
@@ -80,7 +80,7 @@
 * [Políticas de conflictos de interés](./mecenas/periodista/politicas-conflictos-interes.md)
 * [Onboarding y checklist](./mecenas/periodista/onboarding-checklist.md)
 
-## Para colaboradores creador de contenido
+**Para colaboradores creador de contenido**
 
 * [Resumen del rol](./mecenas/creador-contenido/resumen-rol.md)
 * [Líneas creativas y tono](./mecenas/creador-contenido/lineas-creativas-tono.md)
@@ -91,7 +91,7 @@
 * [Derechos de uso y licencias](./mecenas/creador-contenido/derechos-uso-licencias.md)
 * [Onboarding y checklist](./mecenas/creador-contenido/onboarding-checklist.md)
 
-## Para colaboradores legal
+**Para colaboradores legal**
 
 * [Resumen del rol](./mecenas/legal/resumen-rol.md)
 * [Marco contractual](./mecenas/legal/marco-contractual.md)
@@ -101,7 +101,7 @@
 * [Guías para mediaciones y disputas](./mecenas/legal/guias-mediaciones-disputas.md)
 * [Onboarding y checklist](./mecenas/legal/onboarding-checklist.md)
 
-## Para colaboradores manager
+**Para colaboradores manager**
 
 * [Resumen del rol](./mecenas/manager/resumen-rol.md)
 * [RACI y gobernanza](./mecenas/manager/raci-gobernanza.md)
@@ -111,7 +111,7 @@
 * [Onboarding y checklist](./mecenas/manager/onboarding-checklist.md)
 * [Plantillas operativas](./mecenas/manager/plantillas-operativas.md)
 
-## Para colaboradores técnico
+**Para colaboradores técnico**
 
 * [Resumen del rol](./mecenas/tecnico/resumen-rol.md)
 * [Responsabilidades y alcance](./mecenas/tecnico/responsabilidades-alcance.md)
@@ -120,7 +120,7 @@
 * [Guías de calidad y seguridad](./mecenas/tecnico/guias-calidad-seguridad.md)
 * [Onboarding y checklist](./mecenas/tecnico/onboarding-checklist.md)
 
-## Para colaboradores moderador
+**Para colaboradores moderador**
 
 * [Resumen del rol](./mecenas/moderador/resumen-rol.md)
 * [Código de conducta y normas](./mecenas/moderador/codigo-conducta-normas.md)
@@ -129,7 +129,7 @@
 * [KPIs e incentivos](./mecenas/moderador/kpis-incentivos.md)
 * [Onboarding y checklist](./mecenas/moderador/onboarding-checklist.md)
 
-## Licencias de Socio
+**Licencias de Socio**
 
 * [Licencia Socio — Básica](./licencias-socio/licencia-socio-basica.md)
 * [Licencia Socio — Pro](./licencias-socio/licencia-socio-pro.md)
@@ -139,7 +139,7 @@
 
 ---
 
-## Para colaboradores técnico (contenido técnico)
+**Para colaboradores técnico** (contenido técnico)
 
 * [Índice del documento de diseño](./tecnico/documento-diseno/README.md)
 * [Resumen ejecutivo](./tecnico/documento-diseno/resumen-ejecutivo.md)
