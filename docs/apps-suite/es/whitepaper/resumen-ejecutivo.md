@@ -1,10 +1,10 @@
 # Resumen ejecutivo
 
-## ARIADNA — el hilo que conecta tu tecnología de empresa
+## #ariadna — el hilo que conecta tu tecnología de empresa
 
 *Un login como el de Google o Meta y una extensión de navegador con las apps de empresa. Ariadna como núcleo de datos, cuentas para empleados y permisos basados en roles. Con una red privada como perímetro de seguridad.*
 
-![Esquema de presentación de Ariadna](https://docs.valentigamez.com/apps-suite/es/whitepaper/mecenas/tecnico/_media/ariadna-arquitectura-proyectos.png)
+![Esquema de presentación de Ariadna](/_media/ariadna-presentacion-esquema.png)
 
 > **Nombre del proyecto:** **ARIADNA** (Ariadne). En la mitología griega, Ariadna entrega a Teseo el «hilo» que le permite recorrer e interconectar pasajes del laberinto sin perderse. Simboliza **orientación, interconexión y salida segura**.
 >
@@ -21,7 +21,7 @@
 
 **Resultado:** un botón de inicio de sesión Ariadna similar al de Google o Meta en los software de CicloTIC y una extensión de navegador que permite acceder a todos los servicios tecnológicos de la empresa.
 
-## # SINDRI — el forjador que conecta tu tecnología con tu información
+## #sindri — el forjador que conecta tu tecnología con tu información
 
 **Tagline:** *Constructor web, app, doc y pdf. Una extensión del formato de texto md con un conector que construye un sitio web, un pdf o un doc ligado con el software de empresa*
 
