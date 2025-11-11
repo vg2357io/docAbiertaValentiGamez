@@ -27,7 +27,7 @@ ATENCIÓ: Una gran part del contingut del Whitepaper ha estat revisada per Valen
 
 ## English
 
-Apps Suite is a suite of applications that allows you to create, publish, and manage content on the web.
+Apps Suite is a set of applications that allows to create, publish, and manage content on the web within a private network. The system enables to create and maintain websites, online stores, PDFs, presentations, mobile apps, and other content using a simple text document. Through a role-based system, the owner or their employees can securely and efficiently manage content and the private data of users or clients.
 
 Ariadna is a private network of apps, similar to those of Google, Meta, or Apple, but with open access.
 
@@ -43,7 +43,7 @@ Documentation licensed for use is released under CC0.
 
 ## Spanish
 
-Apps Suite es una suite de aplicaciones que permite crear, publicar y gestionar contenido en la web.
+Apps Suite es un conjunto de aplicaciones que permite crear, publicar y gestionar contenido en la web con una red privada. El sistema permite, con un simple documento de texto, crear y mantener webs, tiendas virtuales, pdfs, presentaciones, apps móbiles y contenido. Mediante un sistema de roles el propietario o sus empleados podrán gestionar el contenido y los datos privados de los usuarios o clientes de manera segura y eficiente.
 
 Ariadna es una red privada de apps como la de Google, Meta o Apple de libre acceso.
 
@@ -59,7 +59,7 @@ Documentación con licencia para su uso [CC0 1.0](https://docs.valentigamez.com/
 
 ## Catalan
 
-Apps Suite és una suite d'aplicacions que permet crear, publicar i gestionar contingut a la web.
+Apps Suite és un conjunt d’aplicacions que permet crear, publicar i gestionar contingut a la web dins d’una xarxa privada. El sistema permet, amb un simple document de text, crear i mantenir webs, botigues virtuals, PDFs, presentacions, aplicacions mòbils i contingut. Mitjançant un sistema de rols, el propietari o els seus empleats poden gestionar el contingut i les dades privades dels usuaris o clients de manera segura i eficient.
 
 Ariadna és una xarxa privada d’aplicacions, com les de Google, Meta o Apple, però d’accés lliure.
 

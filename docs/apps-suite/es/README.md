@@ -1,6 +1,6 @@
 # WhitePaper Apps Suite - Ariadna and Sindri
 
-Apps Suite es una suite de aplicaciones que permite crear, publicar y gestionar contenido en la web.
+Apps Suite es un conjunto de aplicaciones que permite crear, publicar y gestionar contenido en la web con una red privada. El sistema permite, con un simple documento de texto, crear y mantener webs, tiendas virtuales, pdfs, presentaciones, apps móbiles y contenido. Mediante un sistema de roles el propietario o sus empleados podrán gestionar el contenido y los datos privados de los usuarios o clientes de manera segura y eficiente.
 
 Ariadna es una red privada de apps como la de Google, Meta o Apple de libre acceso.
 
