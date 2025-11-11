@@ -9,7 +9,7 @@ Definir una dinámica de reconocimiento abierta (#weLore) que convierta contribu
 - Contribuciones elegibles: código, documentación, QA, soporte, diseño, difusión verificada.
 - Evidencia: PRs, issues, enlaces públicos o validación por pares.
 - Revisión: mínimo 2 validaciones cruzadas por parte de colaboradores verificados o con automatismo.
-- Registro: tablero público con hitos, niveles de reconocimiento y roles en discord.
+- Registro: tablero público con hitos, niveles de reconocimiento y roles en Discord.
 
 ## Niveles y logros
 
@@ -24,7 +24,7 @@ Definir una dinámica de reconocimiento abierta (#weLore) que convierta contribu
 
 - Menciones públicas, priorización de propuestas, acceso temprano a betas.
 - Invitación a sesiones técnicas y workshops cerrados.
-- Moneda.
+- Moneda utilitaria `$CAS` con finalidad de utilidad (no especulativa); verificación según `../licencias-socio/verificacion-descentralizada.md`.
 - Invitación a eventos.
 - Descuentos o promociones en productos/servicios del proyecto o colaboradores.
 
@@ -32,3 +32,4 @@ Definir una dinámica de reconocimiento abierta (#weLore) que convierta contribu
 
 - Sin canje por valor monetario; foco en aprendizaje y reputación.
 - Registro transparente de criterios y resultados.
+ - Cumplimiento de `../legal/uso-etico-no-especulacion.md`.
