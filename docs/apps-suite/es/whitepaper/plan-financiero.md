@@ -9,6 +9,11 @@
   - Soporte mensual (SLA básico): 350–900.
   - Plantilla premium Sindri: 90–290 por unidad.
 
+Notas y alcance:
+- Cifras orientativas sujetas a revisión por segmento, país e impuestos.
+- No incluye desarrollos a medida ni integraciones fuera del MVP.
+- El proyecto no acepta inversión por equity. Ver `./legal/uso-etico-no-inversion-equity.md`.
+
 ## Estructura de costes
 
 - Infraestructura (clientes): dominios/TLS, VPS/Cloud, backups.
@@ -28,14 +33,18 @@
   - 16 paquetes MVP + 14 soportes + 240 plantillas.
   - Ingresos aprox.: 16×5.000 + 12×14×550 + 240×150 = 80.000 + 92.400 + 36.000 = 208.400.
 
+Aviso: estos escenarios no constituyen proyección financiera ni promesa de resultados. Se ofrecen para dimensionar capacidades y prioridades.
+
 ## Inversiones prioritarias
 
 - Seguridad y cumplimiento (RBAC, hardening, auditorías).
 - Observabilidad y testing automatizado.
 - Biblioteca de plantillas Sindri y conectores de alto impacto.
+ - Documentación y DX (developer experience) para acelerar adopción.
 
 ## Indicadores financieros
 
 - Margen bruto por paquete y por soporte.
 - Ingresos recurrentes mensuales (MRR) de soporte.
 - Payback medio de captación por segmento.
+ - Retención trimestral de clientes con soporte activo.

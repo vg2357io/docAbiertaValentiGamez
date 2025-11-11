@@ -4,6 +4,12 @@
 
 Una empresa de servicios con 25 empleados necesita centralizar su operación digital: control de accesos, publicación de contenidos y conexión con herramientas de terceros sin perder seguridad ni tiempo.
 
+## Supuestos
+
+- Dispone de dominio propio y servicios básicos (correo, DNS, hosting/VPS).
+- No requiere desarrollos a medida fuera del MVP descrito en `./descripcion-producto.md`.
+- Hay disposición para adoptar plantillas estandarizadas y conectores prioritarios.
+
 ## Actores principales
 
 - Empleado/a con rol operativo (ventas, soporte, contenidos).
@@ -36,3 +42,9 @@ Una empresa de servicios con 25 empleados necesita centralizar su operación dig
 - Inicio de sesión funcional en 3 aplicaciones internas con Ariadna.
 - 2 plantillas Sindri publicadas (web informativa y PDF de propuesta).
 - Conector operativo con al menos 1 SaaS crítico (ej.: reservas o CRM).
+
+## Métricas y comprobaciones
+
+- Tasa de adopción: % de usuarios activos vía Ariadna tras 30 días.
+- Tiempo medio de publicación con Sindri: desde borrador a web/PDF (< 2 h en plantilla estándar).
+- Incidencias de acceso resueltas en < 24 h hábiles.

@@ -1,4 +1,4 @@
-# Descripción de producto
+# Descripción del producto
 
 ## Introducción
 
@@ -30,8 +30,10 @@ Este documento describe, de forma clara y accionable, los dos pilares de Apps Su
 
 ## Límites del MVP
 
-- Alcance centrado en login, red privada, 2–3 conectores terceros y render básico de Sindri (web y PDF).
+- Alcance centrado en login, red privada, 2–3 conectores con terceros y render básico de Sindri (web y PDF).
 - Sin personalizaciones a medida fuera de las plantillas definidas.
+  
+Notas de exclusión: no se incluyen desarrollos a medida, integraciones no priorizadas ni funcionalidades fuera del roadmap.
 
 ## Métricas iniciales
 

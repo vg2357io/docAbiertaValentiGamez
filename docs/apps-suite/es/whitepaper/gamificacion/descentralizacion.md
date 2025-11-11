@@ -22,7 +22,7 @@ La descentralización es opcional y progresiva. Se introduce donde aporta resili
 - Roles y quórums mínimos para cambios que afecten a terceros.
 - Votaciones con participaciones por moneda y accesibilidad por logros.
 
-## Fecha de apertura del mercado secudario
+## Fecha de apertura del mercado secundario
 
-- Desde el inicio se repartirán de forma centralizada, con informe de transparencia cotejable, moneda y logros.
-- 2027 como fecha de aspertura.
+- Desde el inicio, moneda y logros se gestionarán de forma centralizada, con informe de transparencia cotejable.
+- 2027 como fecha de apertura para habilitar plenamente el mercado secundario y la transferencia sin restricciones, conforme al calendario descrito en `../licencias-socio/verificacion-descentralizada.md`.
