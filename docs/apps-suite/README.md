@@ -55,6 +55,8 @@ Ariadna y Sindri se dirigen a estudiantes, marcas, empresas y creadores de conte
 
 Documentación con licencia para su uso [CC0 1.0](https://docs.valentigamez.com/#/LICENSE).
 
+[Descarga aquí el borrador del WhitePaper en español](./_media/whitepaper_es.pdf)
+
 * [Ir al whitepaper](./es/README.md)
 
 ## Catalan
