@@ -1,5 +1,7 @@
 # Documento de Diseño de Producto — **SINDRI**
 
+Documento no revisado
+
 **Sindri:** Bloc de notas avanzado que convierte documentos de texto en **webs**, **PDFs**, **apps** y **presentaciones**, integrándose con **Ariadna** y extendiendo **Docsify** mediante módulos empresariales configurables.
 
 > **Concepto:** Sindri es un editor híbrido (Quill + Markdown) empaquetado en Electron. Su propósito es transformar un simple documento de texto en artefactos multiplataforma. Cada proyecto genera una carpeta `.sindri` con un entorno Docsify autónomo, ampliado mediante módulos configurables escritos en YAML.
