@@ -1,0 +1,16 @@
+// ...
+
+import { setupOpenFilesIpc } from './openFiles'
+
+// ...
+
+// Inicialización de la app
+app.whenReady().then(() => {
+  // ...
+
+    setupOpenFilesIpc()
+
+  // ...
+})
+
+// ...
