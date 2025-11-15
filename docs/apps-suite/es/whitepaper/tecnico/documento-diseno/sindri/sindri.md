@@ -241,6 +241,14 @@ img: "https://imgs.eleuterios.org/150.png"
 
 ---
 
-## 16. Licencia y propiedad
+## 16. Templates con Ariadna
+
+* [UI con Shadcn](https://ui.shadcn.com/)
+* [UI Vue con Shadcn](https://www.shadcn-vue.com/)
+* [Componentes visuales](https://21st.dev/community/components)
+
+---
+
+## 17. Licencia y propiedad
 
 * Código fuente bajo **MIT**.
