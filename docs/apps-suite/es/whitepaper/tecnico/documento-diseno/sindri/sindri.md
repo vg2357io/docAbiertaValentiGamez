@@ -1,7 +1,5 @@
 # Documento de Diseño de Producto — **SINDRI**
 
-Documento no revisado
-
 **Sindri:** Bloc de notas avanzado que convierte documentos de texto en **webs**, **PDFs**, **apps** y **presentaciones**, integrándose con **Ariadna** y extendiendo **Docsify** mediante módulos empresariales configurables.
 
 > **Concepto:** Sindri es un editor híbrido (Quill + Markdown) empaquetado en Electron. Su propósito es transformar un simple documento de texto en artefactos multiplataforma. Cada proyecto genera una carpeta `.sindri` con un entorno Docsify autónomo, ampliado mediante módulos configurables escritos en YAML.
@@ -57,7 +55,7 @@ Documento no revisado
 * Conversión robusta y reversible entre HTML y Markdown.
 * Estructura portable: el proyecto `.sindri/` debe funcionar en cualquier sistema.
 * Extensibilidad: nuevos módulos Ariadna y nuevos exportadores.
-* Seguridad local: metadatos privados separados del md principal.
+* Seguridad local: metadatos en cabeceras del md. Convertibles al cargar fichero a electron.
 
 ---
 
@@ -65,15 +63,13 @@ Documento no revisado
 
 * **Electron** como runtime (main process + renderer).
 * **Editor**: Quill.js con extensiones personalizadas.
-* **Conversión**: turndown.js (HTML → MD) y Quill Delta → HTML.
+* **Conversión**: (HTML → MD) y Quill Delta → HTML.
 * **Motor Docsify**: plantilla base + plugins Sindri.
 * **Módulos Ariadna**:
-
     * Definidos por bloques YAML en el `.md`.
-    * Mapean a componentes Docsify personalizados.
+    * Mapean a templates personalizados. Todos los templates deben ser compatibles con los themes generados.
 * **Previsualización**: WebView/BrowserView sirviendo la carpeta `.sindri/`.
 * **Gestión de archivos**: lectura/escritura desde path usuario.
-* **Metadatos**: guardados en `.sindri/meta.json`.
 
 ---
 
@@ -81,7 +77,6 @@ Documento no revisado
 
 * **Electron** 31+
 * **Quill.js** 2.x
-* **Turndown** 7+
 * **Docsify** 4.x (standalone)
 * **Marked** o **markdown-it** para parse local
 * **YAML** parser: js-yaml
@@ -96,7 +91,7 @@ Documento no revisado
 * `content.md` → generado desde el HTML del editor.
 * Inserciones YAML marcadas por `yaml ... `.
 
-### Metadatos (`meta.json`)
+### Metadatos
 
 ```
 {
@@ -114,44 +109,46 @@ Documento no revisado
 ```
 .sindri/
   index.html
-  README.md
-  /assets
-  /modules
-  meta.json
-  sidebar.md
+  README.md <- generado desde notepad en electron
+  /_media
+  /logs
 ```
 
 ---
 
 ## 7. Flujos principales
 
-### 7.1 Crear nuevo documento
+Considerar hacer el guardado automático tras 2 segundos de inactividad del editor.
+
+### 7.1 Crear o cargar documento
 
 1. Usuario abre Sindri.
-2. Nuevo documento vacío en Quill.
+2. Nuevo documento vacío o cargar documento en Quill.
 3. Al guardar, se genera:
-
-    * `documento.md`
-    * carpeta `.sindri` con estructura Docsify.
-4. Vista previa activa.
+    * `README.md` en `.sindri`
+    * carpeta `.sindri` con template extendido Docsify.
+4. Vista previa actualizada al guardar.
 
 ### 7.2 Cargar documento existente
 
-1. Abrir `.md` o `.txt`.
+1. Abrir `.md` o `.txt` en el explorador al hacer click en `Abrir` en el menú.
 2. Convertir a HTML y cargar en Quill.
-3. Regenerar `.sindri` si no existe.
 
 ### 7.3 Añadir módulo Ariadna
 
-1. Usuario inserta bloque YAML desde menú.
-2. Docsify + plugin Sindri renderiza módulo en preview.
+1. Usuario inserta bloque YAML desde la línea con foco en el editor. Habrá un botón `+` a la izquierda de la línea con el foco.
+2. El botón `+` abre un popup con los módulos disponibles.
+3. La aplicación electron interpreta la estructura YAML del módulo para poner un formulario para el usuario.
+4. Al guardar la previsualización en HTML muestra el bloque cómo se ve finalmente.
 
 ### 7.4 Exportar
 
-* **Web:** carpeta `.sindri` lista.
-* **PDF:** render headless.
+* **PDF:** render headless. Se debe poder editar desde Canva o Adobe Express.
+* **Presentación:** transformar MD en slides png, jpg o pdf. El pdf se debe poder editar desde Canva o Adobe Express.
+* **Web generada con vue:**
+  * En página web desde ubicaciones disponibles para el usuario con el rol que tiene en Ariadna.
+  * En local con un fichero html, un css y un js.
 * **App/PWA:** empaquetado V1.
-* **Presentación:** transformar MD en slides.
 
 ---
 
@@ -160,14 +157,14 @@ Documento no revisado
 * Módulos definibles como:
 
 ````md
-```yaml module:hero
-text: "Bienvenido"
+```yaml ariadna:presentation:hero
+text: "Bienvenidx a mi marca"
 cta: "Empezar"
+img: "https://imgs.eleuterios.org/150.png"
 ```
 ````
 
-* Sindri interpreta el bloque, lo valida y lo inserta en Docsify mediante un plugin.
-* Roles de acceso del módulo y de la página validados por los metadatos del documento.
+* Sindri interpreta el bloque, lo valida y lo inserta en el template extendido de Docsify mediante un plugin.
 
 ---
 
@@ -175,26 +172,26 @@ cta: "Empezar"
 
 ### Zonas
 
-* **Izquierda:** panel de metadatos.
-* **Centro:** editor Quill.
-* **Derecha:** previsualización Docsify.
-* **Inferior:** inspector de módulos YAML (opcional).
+* **Izquierda 2/12w:** panel de metadatos.
+* **Izquierda Superior 5/12w 2/3h:** editor Quill.
+* **Izquierda Inferior 5/12w 1/3h:** inspector de módulos y configuraciones de Ariadna.
+* **Derecha 5/12w:** previsualización Docsify.
 
 ---
 
 ## 10. Seguridad
 
 * Archivos `.sindri` aislados por proyecto.
-* Metadatos críticos en `meta.json`, no mezclados con contenido.
+* Configuración crítica de usuario del notepad encriptada en `%APPDATA%/`, no mezclados con contenido.
 * Validación estricta de YAML.
-* Roles sincronizados con Ariadna cuando proceda.
+* Roles sincronizados con Ariadna cuando proceda. En el proceso de exportación se pasará por ariadna para publicar.
 
 ---
 
 ## 11. Observabilidad
 
 * Logs locales en `~/.sindri/logs`.
-* Informe de conversiones fallidas.
+* Informe de exportaciones o previsualizaciones fallidas.
 
 ---
 
@@ -212,7 +209,7 @@ cta: "Empezar"
 
 * Exportación app
 * Presentaciones
-* Plantillas temáticas
+* Temas
 * Snippets reutilizables
 
 ---
@@ -223,14 +220,14 @@ cta: "Empezar"
 * Renderizado de módulos YAML.
 * Carga de archivos grandes.
 * Validación de metadatos.
-* Exportación PDF.
+* Exportación Web, pdf, png y jpg.
 
 ---
 
 ## 14. Operación
 
 * Actualización vía auto-updater.
-* Revisión periódica de compatibilidad con Quill y Docsify.
+* Revisión periódica de compatibilidad con Quill y extensión de Docsify.
 * Limpieza automática de proyectos obsoletos.
 
 ---
@@ -240,11 +237,10 @@ cta: "Empezar"
 1. **Docsify** elegido por su naturaleza client-side y simplicidad.
 2. **Markdown como formato principal** por su universalidad.
 3. **YAML para módulos** para configuración clara y extensible.
-4. **Electron** para portabilidad sin backend.
+4. **Electron** para portabilidad sin backend. Para compatibilidad futura para una versión cloud.
 
 ---
 
 ## 16. Licencia y propiedad
 
 * Código fuente bajo **MIT**.
-* Proyectos generados (usuari
