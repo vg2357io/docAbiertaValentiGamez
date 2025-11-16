@@ -1,6 +1,7 @@
 // ...
 
 import { setupOpenFilesIpc } from './openFiles'
+import { setupSaveFilesIpc } from './saveAsFiles'
 
 // ...
 
@@ -9,6 +10,7 @@ app.whenReady().then(() => {
   // ...
 
     setupOpenFilesIpc()
+    setupSaveFilesIpc()
 
   // ...
 })
