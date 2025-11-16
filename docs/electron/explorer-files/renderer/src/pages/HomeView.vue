@@ -23,27 +23,40 @@ onMounted(() => {
   window.addEventListener('sindri-open-file', openHandler)
   window.addEventListener(
       'sindri-file-opened',
-      fileOpenedHandler(markdownContent, htmlContent) as EventListener
+      fileOpenedHandler(markdownContent, htmlContent, filePath) as EventListener
+  )
+
+  window.addEventListener(
+      'sindri-save-file',
+      saveHandler(filePath, markdownContent)
+  )
+  window.addEventListener(
+      'sindri-save-as-file',
+      saveAsHandler(markdownContent)
+  )
+  window.addEventListener(
+      'sindri-file-saved',
+      fileSavedHandler(fileSaved) as EventListener
   )
 })
 
 onUnmounted(() => {
   // ...
   window.removeEventListener('sindri-open-file', openHandler)
-  window.addEventListener(
+  window.removeEventListener(
       'sindri-file-opened',
-      fileOpenedHandler(markdownContent, htmlContent, filePath) as EventListener
+      fileOpenedHandler(markdownContent, htmlContent) as EventListener
   )
 
-  window.addEventListener(
+  window.removeEventListener(
       'sindri-save-file',
-      saveHandler(filePath.value, markdownContent.value)
+      saveHandler(filePath, markdownContent)
   )
-  window.addEventListener(
+  window.removeEventListener(
       'sindri-save-as-file',
-      saveAsHandler(markdownContent.value)
+      saveAsHandler(markdownContent)
   )
-  window.addEventListener(
+  window.removeEventListener(
       'sindri-file-saved',
       fileSavedHandler(fileSaved) as EventListener
   )
