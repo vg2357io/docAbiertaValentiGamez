@@ -17,21 +17,48 @@
             </div>
             <ul class="hidden sm:flex sm:ml-auto sm:mr-12 sm:items-center sm:w-auto sm:space-x-12">
               <li>
-                <a class="font-medium text-sm cursor-pointer" @click="openAriadna()">Ariadna</a>
-              </li>
+                <button
+                    type="button"
+                    class="font-medium text-sm cursor-pointer flex items-center gap-1"
+                    @click="archivoOpen = !archivoOpen"
+                >
+                  Archivo
+                  <svg
+                      class="w-3 h-3"
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 20 20"
+                      fill="currentColor"
+                  >
+                    <path
+                        fill-rule="evenodd"
+                        d="M5.23 7.21a.75.75 0 011.06.02L10 10.94l3.71-3.71a.75.75 0 111.06 1.06l-4.24 4.25a.75.75 0 01-1.06 0L5.21 8.29a.75.75 0 01.02-1.08z"
+                        clip-rule="evenodd"
+                    />
+                  </svg>
+                </button>
 
-              <li>
-                <OpenFile class="font-medium text-sm" />
-              </li>
-
-              <li>
-                <SaveAsFile class="font-medium text-sm" />
-              </li>
-
-              <li>
-                <RouterLink @click="openLink()" to="/" class="font-medium text-sm">
-                  Home
-                </RouterLink>
+                <div
+                    v-if="archivoOpen"
+                    class="absolute mt-2 w-40 bg-white border rounded shadow-lg z-50"
+                >
+                  <ul class="py-1 text-sm">
+                    <li>
+                      <OpenFile
+                          class="block w-full text-left px-4 py-2 hover:bg-gray-100 cursor-pointer"
+                      />
+                    </li>
+                    <li>
+                      <SaveFile
+                          class="block w-full text-left px-4 py-2 hover:bg-gray-100 cursor-pointer"
+                      />
+                    </li>
+                    <li>
+                      <SaveAsFile
+                          class="block w-full text-left px-4 py-2 hover:bg-gray-100 cursor-pointer"
+                      />
+                    </li>
+                  </ul>
+                </div>
               </li>
 
               <li>
@@ -39,10 +66,10 @@
                   Logout
                 </a>
                 <RouterLink
-                  @click="openLink()"
-                  v-if="!user"
-                  to="/login"
-                  class="font-medium text-sm"
+                    @click="openLink()"
+                    v-if="!user"
+                    to="/login"
+                    class="font-medium text-sm"
                 >
                   Login
                 </RouterLink>
@@ -52,12 +79,12 @@
         </nav>
       </div>
       <div
-        :class="{ block: mobileNavOpen, hidden: !mobileNavOpen }"
-        class="fixed top-0 left-0 bottom-0 w-5/6 max-w-sm z-50"
+          :class="{ block: mobileNavOpen, hidden: !mobileNavOpen }"
+          class="fixed top-0 left-0 bottom-0 w-5/6 max-w-sm z-50"
       >
         <div @click="switchNav()" class="fixed inset-0 bg-gray-800 opacity-25"></div>
         <nav
-          class="relative flex flex-col py-6 px-6 w-full h-full bg-white border-r overflow-y-auto scrollable"
+            class="relative flex flex-col py-6 px-6 w-full h-full bg-white border-r overflow-y-auto scrollable"
         >
           <div class="flex items-center mb-8">
             <a class="mr-auto text-2xl font-medium leading-none" href="#">
@@ -65,17 +92,17 @@
             </a>
             <button @click="switchNav()">
               <svg
-                class="h-6 w-6 text-gray-500 cursor-pointer hover:text-gray-500"
-                xmlns="http://www.w3.org/2000/svg"
-                fill="none"
-                viewbox="0 0 24 24"
-                stroke="currentColor"
+                  class="h-6 w-6 text-gray-500 cursor-pointer hover:text-gray-500"
+                  xmlns="http://www.w3.org/2000/svg"
+                  fill="none"
+                  viewbox="0 0 24 24"
+                  stroke="currentColor"
               >
                 <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M6 18L18 6M6 6l12 12"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M6 18L18 6M6 6l12 12"
                 ></path>
               </svg>
             </button>
@@ -83,44 +110,51 @@
           <div>
             <ul>
               <li class="mb-1">
-                <a
-                  class="block cursor-pointer p-4 text-sm font-medium text-gray-900 hover:bg-gray-50 rounded"
-                  @click="openAriadna()"
-                  >Ariadna</a
+                <button
+                    type="button"
+                    class="flex justify-between items-center w-full p-4 text-sm font-medium text-gray-900 hover:bg-gray-50 rounded"
+                    @click="archivoOpenMobile = !archivoOpenMobile"
                 >
-              </li>
-
-              <li class="mb-1">
-                <OpenFile class="block cursor-pointer p-4 text-sm font-medium text-gray-900 hover:bg-gray-50 rounded" />
-              </li>
-
-              <li class="mb-1">
-                <SaveAsFile class="block cursor-pointer p-4 text-sm font-medium text-gray-900 hover:bg-gray-50 rounded" />
-              </li>
-
-              <li class="mb-1">
-                <RouterLink
-                  @click="openLink()"
-                  to="/"
-                  class="block p-4 text-sm font-medium text-gray-900 hover:bg-gray-50 rounded"
-                >
-                  Home
-                </RouterLink>
+                  <span>Archivo</span>
+                  <svg
+                      class="w-4 h-4"
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 20 20"
+                      fill="currentColor"
+                  >
+                    <path
+                        fill-rule="evenodd"
+                        d="M5.23 7.21a.75.75 0 011.06.02L10 10.94l3.71-3.71a.75.75 0 111.06 1.06l-4.24 4.25a.75.75 0 01-1.06 0L5.21 8.29a.75.75 0 01.02-1.08z"
+                        clip-rule="evenodd"
+                    />
+                  </svg>
+                </button>
+                <div v-if="archivoOpenMobile" class="ml-4">
+                  <OpenFile
+                      class="block cursor-pointer p-3 text-sm font-medium text-gray-900 hover:bg-gray-50 rounded"
+                  />
+                  <SaveFile
+                      class="block cursor-pointer p-3 text-sm font-medium text-gray-900 hover:bg-gray-50 rounded"
+                  />
+                  <SaveAsFile
+                      class="block cursor-pointer p-3 text-sm font-medium text-gray-900 hover:bg-gray-50 rounded"
+                  />
+                </div>
               </li>
 
               <li class="mb-1">
                 <a
-                  v-if="user"
-                  @click="logout()"
-                  class="block cursor-pointer p-4 text-sm font-medium text-gray-900 hover:bg-gray-50 rounded"
+                    v-if="user"
+                    @click="logout()"
+                    class="block cursor-pointer p-4 text-sm font-medium text-gray-900 hover:bg-gray-50 rounded"
                 >
                   Logout
                 </a>
                 <RouterLink
-                  @click="openLink()"
-                  v-if="!user"
-                  to="/login"
-                  class="block p-4 text-sm font-medium text-gray-900 hover:bg-gray-50 rounded"
+                    @click="openLink()"
+                    v-if="!user"
+                    to="/login"
+                    class="block p-4 text-sm font-medium text-gray-900 hover:bg-gray-50 rounded"
                 >
                   Login
                 </RouterLink>
@@ -137,40 +171,14 @@
     </header>
 
     <main
-      class="scrollable"
-      :class="{ 'w-full': true }"
-      :style="{ height: '100vh', overflow: 'auto', 'padding-bottom': ariadnaOpen ? '0' : '0' }"
+        class="scrollable"
+        :class="{ 'w-full': true }"
+        :style="{ height: '100vh', overflow: 'auto' }"
     >
-      <div v-if="ariadnaOpen" style="width: 100%; height: 100%">
-        <webview
-          src="https://software.eleuterios.org/"
-          style="width: 100%; height: 100%"
-          partition="persist:webview_session"
-        >
-        </webview>
-      </div>
-      <div v-else>
+      <div>
         <RouterView />
       </div>
     </main>
-
-    <div class="floating-menu" v-if="ariadnaOpen" @click="headerOpen = !headerOpen">
-      <svg
-        xmlns="http://www.w3.org/2000/svg"
-        viewBox="0 0 24 24"
-        width="24"
-        height="24"
-        fill="white"
-      >
-        <path
-          d="M3 6h18M3 12h18M3 18h18"
-          stroke="white"
-          stroke-width="2"
-          stroke-linecap="round"
-          stroke-linejoin="round"
-        />
-      </svg>
-    </div>
   </div>
 </template>
 
@@ -181,6 +189,7 @@ import { useUserStore } from './store/user'
 import { useSettingsStore } from './store/settings'
 import OpenFile from './components/OpenFile.vue'
 import SaveAsFile from '@renderer/components/SaveAsFile.vue'
+import SaveFile from '@renderer/components/SaveFile.vue'
 
 // stores
 const user = useUserStore()
@@ -191,21 +200,17 @@ const router = useRouter()
 
 // state (was data())
 const mobileNavOpen = ref(false)
+const archivoOpen = ref(false)
+const archivoOpenMobile = ref(false)
 const headerOpen = ref(true)
-const ariadnaOpen = ref(false)
 
 // methods -> functions
 function switchNav() {
   mobileNavOpen.value = !mobileNavOpen.value
 }
 
-function openAriadna() {
-  ariadnaOpen.value = true
-  headerOpen.value = false
-}
-
 function openLink() {
-  ariadnaOpen.value = false
+  console.log('openLink')
 }
 
 function setUserCookies() {
