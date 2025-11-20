@@ -7,6 +7,9 @@
   * [Habilidades Blandas](/habilidades_blandas/)
   * [Agentes IA](/agentes_ia/)
 
+* Para colaboradores
+    * [Inicia por aquí](./colaboradores_vg/)
+
 * Desarrollo de software
   * [Arquitectura de software](/arquitectura_software/)
 
