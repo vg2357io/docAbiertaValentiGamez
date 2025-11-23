@@ -15,3 +15,5 @@
 * [Texturizado con Atlas de Color y UVs](./texturizado_atlas_color_uvs.md)
 
 * [Pipeline de exportación y validación](./pipeline_exportacion_validacion.md)
+
+* [Crear tareas en Jira](./crear_tareas_jira.md)

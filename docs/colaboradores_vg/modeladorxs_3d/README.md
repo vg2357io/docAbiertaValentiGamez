@@ -18,3 +18,5 @@ Documentación relacionada con procesos de modelación 3D.
 
 * [Pipeline de exportación y validación](./pipeline_exportacion_validacion.md)
 
+* [Crear tareas en Jira](./crear_tareas_jira.md)
+
