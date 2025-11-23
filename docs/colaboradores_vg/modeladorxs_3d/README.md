@@ -1,6 +1,6 @@
-# Procesos técnicos
+# Procesos Modeladorxs 3D
 
-Documentación relacionada con procesos técnicos.
+Documentación relacionada con procesos de modelación 3D.
 
 ---
 
@@ -8,10 +8,13 @@ Documentación relacionada con procesos técnicos.
 
 * [Ir al inicio](/)
 
-* [Configurar acceso exe global](./configurar_acceso_exe_global.md)
+* [Configuración del entorno](./configuracion_entorno.md)
 
-* [Configurar ejecutable bat registro](./configurar_ejecutable_bat_registro.md)
+* [Generación de referencias](./generacion_referencias.md)
 
-* [Instalar Cashkeeper en Blendi](./cashkeeper/blendi.md)
+* [Modelado Low Poly](./modelado_low_poly.md)
 
-* [Integración Cashkeeper en Node + electron](./cashkeeper/node.md)
+* [Texturizado con Atlas de Color y UVs](./texturizado_atlas_color_uvs.md)
+
+* [Pipeline de exportación y validación](./pipeline_exportacion_validacion.md)
+

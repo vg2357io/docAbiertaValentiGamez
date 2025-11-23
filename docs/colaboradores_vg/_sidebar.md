@@ -13,3 +13,6 @@
 * [Repositorios git](./git_bitbucket.md)
 
 * [Tareas jira](./guia_para_tareas.md)
+
+* [Modeladorxs 3D](./modeladorxs_3d/README.md)
+
