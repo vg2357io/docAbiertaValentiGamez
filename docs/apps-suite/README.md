@@ -102,6 +102,8 @@ TODO: Add English whitepaper Index, pages and translations.
 
 ### Logros
 
+Descentralización opcional.
+
 * [Quién es el Mecenas Fundador](./es/whitepaper/mecenas/tiers-utilitarios/quien-es-mecenas-fundador.md)
 * [Horizontalidad automatizada](./es/whitepaper/mecenas/tiers-utilitarios/horizontalidad-automatizada.md)
 * [Mecenas colaborador](./es/whitepaper/mecenas/tiers-utilitarios/mecenas-colaborador.md)
@@ -116,14 +118,15 @@ TODO: Add English whitepaper Index, pages and translations.
 
 ### Motor de crecimiento gamificado
 
-* [Datos Generales](./es/whitepaper/mecenas/tiers-utilitarios/datos-generales.md)
-* [Génesis del Token](./es/whitepaper/mecenas/tiers-utilitarios/genesis-moneda.md)
+Descentralización opcional.
 
-    * [INO de la Comunidad](./es/whitepaper/mecenas/tiers-utilitarios/ino-comunidad.md)
-    * [Airdrops para la Comunidad](./es/whitepaper/mecenas/tiers-utilitarios/airdrops-comunidad.md)
-* [Distribución del Token](./es/whitepaper/mecenas/tiers-utilitarios/distribucion-moneda.md)
-* [Pool de liquidez y market cap inicial](./es/whitepaper/mecenas/tiers-utilitarios/pool-liquidez-market-cap-inicial.md)
-* [Recompras del Token](./es/whitepaper/mecenas/tiers-utilitarios/recompras-moneda.md)
+* [Datos Generales](./es/whitepaper/mecenas/tiers-utilitarios/moneda/datos-generales.md)
+* [Génesis del Token](./es/whitepaper/mecenas/tiers-utilitarios/moneda/genesis-moneda.md)
+    * [INO de la Comunidad](./es/whitepaper/mecenas/tiers-utilitarios/moneda/ino-comunidad.md)
+    * [Airdrops para la Comunidad](./es/whitepaper/mecenas/tiers-utilitarios/moneda/airdrops-comunidad.md)
+* [Distribución del Token](./es/whitepaper/mecenas/tiers-utilitarios/moneda/distribucion-moneda.md)
+* [Pool de liquidez y market cap inicial](./es/whitepaper/mecenas/tiers-utilitarios/moneda/pool-liquidez-market-cap-inicial.md)
+* [Recompras del Token](./es/whitepaper/mecenas/tiers-utilitarios/moneda/recompras-moneda.md)
 
 ## Documentación legal
 
