@@ -53,11 +53,11 @@ Lista de verificación que el modelador debe cumplir antes de mover la tarea a "
 *   **Prioridad:** Asigna la prioridad basada en la necesidad del bloqueo de nivel. Los assets estructurales (suelos, paredes) suelen tener prioridad alta.
 *   **Etiquetas (Labels):** Usa etiquetas como `3D`, `Environment`, `Prop`, `Character` para facilitar el filtrado en el tablero.
 
-## 4. Promp sugerido para notebook LM
+## 4. Promp sugerido para Gemini, ChatGPT o la mayoría deLLM
 
-*   Añade toda lo que hay en la raiz de colaboradores_vg y de la carpeta modeladorxs_3d a excepción de los README y los _sidebar.
+*   Añade toda lo que hay en la raiz de modeladorxs_3d a excepción de los README y los _sidebar.
 *   Si lo crees necesario añade imágenes con licencia como referencia del briefing.
-*   En el chat de LM añade el siguiente prompt para generar el briefing:
+*   En el chat del LLM añade el siguiente prompt para generar el briefing:
 
 ```markdown
 Genera un briefing siguiendo la plantilla genérica para cualquier asset 3D que se encuentra en el archivo base_tarea_jira.md:
@@ -76,4 +76,24 @@ ruta_de_destino_del_asset: <ruta_de_destino_del_asset>
 prefijo_estándar: <prefijo_estándar>
 motor_de_validación: <motor_de_validación>
 JIRA-ID: <JIRA-ID>
+```
+
+Ejemplo de promp para generar el briefing:
+
+```markdown
+Genera un briefing siguiendo el archivo de plantilla genérica para el asset 3D Adorno de Fénix `./base_tarea_jira.md`:
+
+nombre_del_asset: adorno_fenix
+nombre_del_proyecto: HolidayExp
+tipo_de_asset: asset
+motor_o_contexto_de_uso: Godot
+característica_1: El adorno es para ponerlo en la puerta de la casa
+característica_2: El Fénix debe ser básico pero que sepas que es uno a primera vista
+documentación_del_modelador: https://docs.valentigamez.com/#/colaboradores_vg/modeladorxs_3d/README
+paquete_de_estilo_o_kit_base: Kit Holiday
+carpeta_de_referencias_visuales: https://drive.google.com/drive/folders/1XCDKmugUp7MxxiCEAlM7ON1GdBmE13AO?usp=drive_link
+ruta_de_destino_del_asset: Diseño/Assets3D/kit_navidad/adorno_fenix
+prefijo_estándar: prop_holiday
+motor_de_validación: Godot
+JIRA-ID: HOL-2
 ```
