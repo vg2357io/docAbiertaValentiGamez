@@ -52,3 +52,28 @@ Lista de verificación que el modelador debe cumplir antes de mover la tarea a "
 
 *   **Prioridad:** Asigna la prioridad basada en la necesidad del bloqueo de nivel. Los assets estructurales (suelos, paredes) suelen tener prioridad alta.
 *   **Etiquetas (Labels):** Usa etiquetas como `3D`, `Environment`, `Prop`, `Character` para facilitar el filtrado en el tablero.
+
+## 4. Promp sugerido para notebook LM
+
+*   Añade toda lo que hay en la raiz de colaboradores_vg y de la carpeta modeladorxs_3d a excepción de los README y los _sidebar.
+*   Si lo crees necesario añade imágenes con licencia como referencia del briefing.
+*   En el chat de LM añade el siguiente prompt para generar el briefing:
+
+```markdown
+Genera un briefing siguiendo la plantilla genérica para cualquier asset 3D que se encuentra en el archivo base_tarea_jira.md:
+
+nombre_del_asset: <nombre_del_asset>
+nombre_del_proyecto: <nombre_del_proyecto>
+tipo_de_asset: <tipo_de_asset>
+motor_o_contexto_de_uso: <motor_o_contexto_de_uso>
+característica_1: <característica_1>
+característica_2: <característica_2>
+característica_3: <característica_3>
+documentación_del_modelador: <documentación_del_modelador>
+paquete_de_estilo_o_kit_base: <paquete_de_estilo_o_kit_base>
+carpeta_de_referencias_visuales: <carpeta_de_referencias_visuales>
+ruta_de_destino_del_asset: <ruta_de_destino_del_asset>
+prefijo_estándar: <prefijo_estándar>
+motor_de_validación: <motor_de_validación>
+JIRA-ID: <JIRA-ID>
+```

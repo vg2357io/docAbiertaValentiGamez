@@ -21,3 +21,5 @@
 * [Manager Backlog en Jira](./manager_backlog_jira.md)
 
 * [Ejemplo de Tarea en Jira](./ejemplo_tarea_jira.md)
+
+* [Plantilla genérica tare en Jira](./base_tarea_jira.md)
