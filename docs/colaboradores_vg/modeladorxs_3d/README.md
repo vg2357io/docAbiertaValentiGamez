@@ -22,3 +22,4 @@ Documentación relacionada con procesos de modelación 3D.
 
 * [Manager Backlog en Jira](./manager_backlog_jira.md)
 
+* [Ejemplo de Tarea en Jira](./ejemplo_tarea_jira.md)
