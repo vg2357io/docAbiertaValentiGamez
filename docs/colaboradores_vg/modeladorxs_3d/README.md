@@ -20,3 +20,5 @@ Documentación relacionada con procesos de modelación 3D.
 
 * [Crear tareas en Jira](./crear_tareas_jira.md)
 
+* [Manager Backlog en Jira](./manager_backlog_jira.md)
+

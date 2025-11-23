@@ -17,3 +17,5 @@
 * [Pipeline de exportación y validación](./pipeline_exportacion_validacion.md)
 
 * [Crear tareas en Jira](./crear_tareas_jira.md)
+
+* [Manager Backlog en Jira](./manager_backlog_jira.md)
