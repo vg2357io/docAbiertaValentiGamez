@@ -6,4 +6,4 @@
 
 * [Godot Exported Vue3](./godot_exported_vue3.md)
 
-* [Godot Pack Manager](./godot_oac_manager.md)
+* [Godot Pack Manager](./godot_pack_manager.md)
