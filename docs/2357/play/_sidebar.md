@@ -4,6 +4,8 @@
 
 * [Ir al inicio](/)
 
+* [Play](./README.md)
+
 * [Godot Exported Vue3](./godot_exported_vue3.md)
 
 * [Godot Pack Manager](./godot_pack_manager.md)
