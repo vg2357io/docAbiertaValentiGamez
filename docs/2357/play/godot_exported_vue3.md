@@ -1,5 +1,7 @@
 # Opción A — Cargar como `<script>` global (la más fiable)
 
+PENDIENTE DE REVISAR
+
 Usa el `mygame.js` tal y como lo genera Godot y accede a `window.Engine`.
 
 ```vue

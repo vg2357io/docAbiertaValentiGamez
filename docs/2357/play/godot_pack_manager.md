@@ -1,5 +1,7 @@
 # Informe: Sistema de Gestión Dinámica de Packs en Godot Web
 
+PENDIENTE DE REVISAR
+
 ## 1. Objetivo
 Permitir que un proyecto de **Godot Web** cargue y libere **packs (.pck)** bajo demanda mediante un **orquestador en JavaScript**, optimizando la memoria (WASM heap) y el almacenamiento local (IndexedDB/OPFS), con capacidad de **prefetch predictivo** y **descarga progresiva** desde una API externa.
 
