@@ -10,4 +10,6 @@
 
 * [Índice](./README.md)
 
+* [Sobre Névoran](./sobre_nevoran.md)
+
 * [Licencia "Llama del Fénix" v1.1](/nevoran/LICENSE.md)
