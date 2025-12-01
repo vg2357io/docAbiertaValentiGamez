@@ -1,4 +1,4 @@
 [Home](/)
 [Habilidades Blandas](/habilidades_blandas/)
 [Apps Suite](/apps-suite/)
-[CC0](/LICENSE)
+[CC0](/LICENSE.md)

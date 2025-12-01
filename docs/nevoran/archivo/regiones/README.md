@@ -8,6 +8,8 @@ Aunque una parte del mundo aún está por descubrir y cartografiar, la mayoría 
 
 * [Guía ética](/guia_etica.md)
 
+* [Volver al inicio del archivo](/nevoran/README.md)
+
 * [Índice](./README.md)
 
 * [Fyrniel](./fyrniel.md)
@@ -18,4 +20,4 @@ Aunque una parte del mundo aún está por descubrir y cartografiar, la mayoría 
 
 * [Kaerys](./kaerys.md)
 
-* [Licencia "Llama del Fénix" v1.1](../../LICENSE)
+* [Licencia "Llama del Fénix" v1.1](/nevoran/LICENSE.md)

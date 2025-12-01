@@ -26,7 +26,7 @@ El modelador no debe adivinar el estilo.
 ### B. Especificaciones Técnicas ⚙️
 Define las restricciones técnicas para asegurar que el asset sea "Game Ready".
 
-*   **Guía de modeladorxs:** Haz referencia a la [Guía de Modeladorxs](https://docs.valentigamez.com/#/colaboradores_vg/modeladorxs_3d/README).
+*   **Guía de modeladorxs:** Haz referencia a la [Guía de Modeladorxs](https://docs.valentigamez.com/#/colaboradores_vg/modeladorxs_3d/README.md).
 *   **Nomenclatura de Exportación:** Indicar el nombre exacto que debe tener el archivo final.
     *   *Formato:* `tipo_subtipo_variacion` (ej. `wall_stone_corner_01`).
     *   *Referencia:* Ver [Pipeline de Exportación](pipeline_exportacion_validacion.md).

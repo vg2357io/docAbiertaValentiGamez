@@ -1,8 +1,12 @@
+# Regiones - Archivo - Névoran
+
 * [Web Valentí Gàmez](https://valentigamez.com)
 
 * [Ver otros temas](/)
 
 * [Guía ética](/guia_etica.md)
+
+* [Volver al inicio del archivo](/nevoran/README.md)
 
 * [Índice](./README.md)
 
@@ -14,4 +18,4 @@
 
 * [Kaerys](./kaerys.md)
 
-* [Licencia "Llama del Fénix" v1.1](../../LICENSE)
+* [Licencia "Llama del Fénix" v1.1](/nevoran/LICENSE.md)
