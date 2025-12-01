@@ -1,4 +1,4 @@
-# Névoran
+# Certificaciones
 
 * [Web Valentí Gàmez](https://valentigamez.com)
 
@@ -8,8 +8,6 @@
 
 * [Índice](./README.md)
 
-* [Archivo](./archivo/README.md)
-
-* [Kelisay](./kelisay/README.md)
+* [Silex 2.0](./silex_2_0.md)
 
 * [Licencia "Llama del Fénix" v1.1](./LICENSE.md)
