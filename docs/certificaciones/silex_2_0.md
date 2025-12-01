@@ -1,6 +1,6 @@
 # Silex 2.0 por Euge Oller
 
-Descarga el certificado de Valentí Gàmez: [Silex 2.0](./_media/Silex2ValentiGamezRojas-2023-09-23.pdf)
+Descarga el certificado de Valentí Gàmez: [Silex 2.0](https://docs.valentigamez.com/certificaciones/_media/Silex2ValentiGamezRojas-2023-09-23.pdf)
 
 ## **Resumen del curso Silex (visión técnica y estratégica)**
 
