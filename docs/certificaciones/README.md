@@ -11,5 +11,3 @@ Cursos completados con certificado emitido.
 * [Índice](./README.md)
 
 * [Silex 2.0](./silex_2_0.md)
-
-* [Licencia "Llama del Fénix" v1.1](./LICENSE.md)
