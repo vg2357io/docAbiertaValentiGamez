@@ -16,7 +16,7 @@
 
 * [Hada Hueso](./hada_hueso.md)
 
-* [Humano Nomada](./humano_nomada.md)
+* [Humano Nómada](./humano_nomada.md)
 
 * [Mediano Cronista](./mediano_cronista.md)
 

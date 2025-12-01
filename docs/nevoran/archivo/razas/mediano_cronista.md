@@ -2,7 +2,7 @@
 
 ![Mediano Cronista](./_media/mediano-cronista.jpg)
 
-Pequeños en estatura, pero colosales en curiosidad, los **medianos cronistas** son una raza errante que ha hecho de la memoria su hogar. Mientras otras culturas construyen templos o levantan fortalezas, ellos levantan relatos. Vagan por Névoran con el único propósito de **registrar aquello que está a punto de ser olvidado**.
+Pequeños en estatura, pero colosales en curiosidad, los **Medianos Cronistas** son una raza errante que ha hecho de la memoria su hogar. Mientras otras culturas construyen templos o levantan fortalezas, ellos levantan relatos. Vagan por Névoran con el único propósito de **registrar aquello que está a punto de ser olvidado**.
 
 ## **Origen y vocación**
 
@@ -22,6 +22,6 @@ Uno de los hechos más sagrados de su historia es la caída de la **Biblioteca d
 
 ![Mediano Cronista Relación con Névoran](./_media/mediano-cronista-relacion-con-nevoran.jpg)
 
-Suelen ser confundidos con bardos, o incluso hay gente que los relaciona a alguna aventura de los Sil’kai, aunque ellos insisten en que no adornan la verdad: **la transcriben**. Son bienvenidos en tabernas y bibliotecas, aunque a veces considerados molestos por su obsesión con los detalles. Algunos trabajan como escribas en ciudades como Nymerith, mientras otros se infiltran en ruinas, campos de batalla o templos prohibidos solo para dejar constancia de lo que encuentran.
+Suelen ser confundidos con bardos, o incluso hay gente que los relaciona con alguna aventura de los Sil'Kai, aunque ellos insisten en que no adornan la verdad: **la transcriben**. Son bienvenidos en tabernas y bibliotecas, aunque a veces se les considera molestos por su obsesión con los detalles. Algunos trabajan como escribas en ciudades como Nymerith, mientras otros se infiltran en ruinas, campos de batalla o templos prohibidos solo para dejar constancia de lo que encuentran.
 
 Muchos consideran que su mera presencia es un presagio: **si hay un mediano tomando nota, es porque algo importante está por morir**.
