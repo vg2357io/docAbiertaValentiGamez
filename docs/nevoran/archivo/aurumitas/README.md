@@ -1,10 +1,8 @@
-# Archivo de Névoran
+# Aurúmitas
 
-Es un honor darles la bienvenida al universo de Névoran. Este mundo de fantasía nace para ser un compañero especial de otros reinos tan únicos como las personas que los habitan. Queremos que las experiencias que vivan aquí lxs ayuden a conectar de manera auténtica con otras personas que compartan sus intereses y pasiones.
+Al adentraros en Névoran, el plano existencial de nuestro mundo, conoceréis a las inteligentes Aurúmitas. Cada una es diferente, y su esencia es moldeada por un arquetipo que define a cada raza. Si compartís afinidad con una de estas criaturas, podréis firmar un contrato mágico que no solo os otorgará poder, sino que creará un vínculo profundo y duradero.
 
-Nuestra misión es crear historias únicas que se conviertan en una parte de ustedes, llevándose pequeños fragmentos de este universo que realmente les pertenezcan y hagan de Névoran un espacio tan suyo como nuestro.
-
-Todo el contenido de esta sección tiene licencia ["Llama del Fénix" v1.1"](./LICENSE)
+![Aurúmita en su estado puro](./_media/aurumita.png)
 
 * [Web Valentí Gàmez](https://valentigamez.com)
 
@@ -14,4 +12,6 @@ Todo el contenido de esta sección tiene licencia ["Llama del Fénix" v1.1"](./L
 
 * [Índice](./README.md)
 
-* [Licencia "Llama del Fénix" v1.1](../LICENSE)
+* [Pacto Mágico](./pacto_magico.md)
+
+* [Licencia "Llama del Fénix" v1.1](../../LICENSE)

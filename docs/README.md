@@ -112,5 +112,8 @@ La llicència per al seu ús és CC0.
     * [Apps Suite #ariadna y #sindri - Conecta tecnología](./apps-suite/)
     * [#weLore - Gamifica tus clientes](https://welore.io)
 
+* Productos como productor
+    * [Névoran](./nevoran/README.md)
+
 * Ideas sobre el uso de la tecnología:
     * [Guía ética](./guia_etica.md)

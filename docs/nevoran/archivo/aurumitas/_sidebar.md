@@ -6,4 +6,6 @@
 
 * [Índice](./README.md)
 
-* [Licencia "Llama del Fénix" v1.1](../LICENSE)
+* [Pacto Mágico](./pacto_magico.md)
+
+* [Licencia "Llama del Fénix" v1.1](../../LICENSE)
