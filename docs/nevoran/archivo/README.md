@@ -14,4 +14,8 @@ Nuestra misión es crear historias únicas que se conviertan en una parte de ust
 
 * [Índice](./README.md)
 
+* [Aurúmitas](./aurumitas/README.md)
+
+* [Regiones](./regiones/README.md)
+
 * [Licencia "Llama del Fénix" v1.1](/nevoran/LICENSE.md)
