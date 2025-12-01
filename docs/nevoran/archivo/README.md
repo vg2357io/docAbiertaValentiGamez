@@ -18,4 +18,6 @@ Nuestra misión es crear historias únicas que se conviertan en una parte de ust
 
 * [Regiones](./regiones/README.md)
 
+* [Razas](./razas/README.md)
+
 * [Licencia "Llama del Fénix" v1.1](/nevoran/LICENSE.md)
