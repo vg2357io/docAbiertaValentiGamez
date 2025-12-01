@@ -4,6 +4,8 @@
 
 * [Ir al inicio](/)
 
+* [Guía ética](/guia_etica.md)
+
 * [Inicia por aquí](./README.md)
 
 * [Google Workspace](./guia_inicio_colaboradores.md)

@@ -85,6 +85,8 @@ La documentació amb llicència per al seu ús és CC0.
 
 * [Ver otros temas](/)
 
+* [Guía ética](/guia_etica.md)
+
 * [Español whitepaper](./es/README.md)
 
 * [Català whitepaper](./cat/README.md)

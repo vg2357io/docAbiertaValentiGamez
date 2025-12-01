@@ -4,4 +4,6 @@
 
 * [Ir al inicio](/)
 
+* [Guía ética](/guia_etica.md)
+
 * [Play](./play/README.md)

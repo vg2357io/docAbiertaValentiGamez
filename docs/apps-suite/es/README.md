@@ -18,6 +18,8 @@ Documentación con licencia para su uso [CC0 1.0](https://docs.valentigamez.com/
 
 * [Ver otros temas](/)
 
+* [Guía ética](/guia_etica.md)
+
 * [Índice](./README.md)
 
 ## Para cualquier colaborador

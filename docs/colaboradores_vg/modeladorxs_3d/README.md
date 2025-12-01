@@ -8,6 +8,8 @@ Documentación relacionada con procesos de modelación 3D.
 
 * [Ir al inicio](/)
 
+* [Guía ética](/guia_etica.md)
+
 * [Configuración del entorno](./configuracion_entorno.md)
 
 * [Generación de referencias](./generacion_referencias.md)

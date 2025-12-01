@@ -4,6 +4,8 @@
 
 * [Ir a inicio](/)
 
+* [Guía ética](/guia_etica.md)
+
 * [Descargar PDF](https://contenido.valentigamez.com/formacion/habilidades_blandas/EbookHabilidadesBlandas.pdf)
 
 * [Índice](./README.md)

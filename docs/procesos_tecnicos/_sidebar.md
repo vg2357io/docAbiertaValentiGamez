@@ -4,6 +4,8 @@
 
 * [Ir al inicio](/)
 
+* [Guía ética](/guia_etica.md)
+
 * [Índice](./README.md)
 
 * [Configurar acceso exe global](./configurar_acceso_exe_global.md)

@@ -4,6 +4,8 @@
 
 * [Ir al inicio](/)
 
+* [Guía ética](/guia_etica.md)
+
 * [Índice](/ariadna/)
 
 * [Documento de diseño](ariadna/documento_diseno_de_software)

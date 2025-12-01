@@ -4,6 +4,8 @@
 
 * [Ver otros temas](/)
 
+* [Guía ética](/guia_etica.md)
+
 * [Índice](../README.md)
 
 * [English](../../README.md)
@@ -35,13 +37,13 @@ Logros
 
 Motor de crecimiento gamificado
 
-* [Datos Generales](./whitepaper/mecenas/tiers-utilitarios/moneda/datos-generales.md)
-* [Génesis del Token](./whitepaper/mecenas/tiers-utilitarios/moneda/genesis-moneda.md)
-    * [INO de la Comunidad](./whitepaper/mecenas/tiers-utilitarios/moneda/ino-comunidad.md)
-    * [Airdrops para la Comunidad](./whitepaper/mecenas/tiers-utilitarios/moneda/airdrops-comunidad.md)
-* [Distribución del Token](./whitepaper/mecenas/tiers-utilitarios/moneda/distribucion-moneda.md)
-* [Pool de liquidez y market cap inicial](./whitepaper/mecenas/tiers-utilitarios/moneda/pool-liquidez-market-cap-inicial.md)
-* [Recompras del Token](./whitepaper/mecenas/tiers-utilitarios/moneda/recompras-moneda.md)
+* [Datos Generales](./mecenas/tiers-utilitarios/moneda/datos-generales.md)
+* [Génesis del Token](./mecenas/tiers-utilitarios/moneda/genesis-moneda.md)
+    * [INO de la Comunidad](./mecenas/tiers-utilitarios/moneda/ino-comunidad.md)
+    * [Airdrops para la Comunidad](./mecenas/tiers-utilitarios/moneda/airdrops-comunidad.md)
+* [Distribución del Token](./mecenas/tiers-utilitarios/moneda/distribucion-moneda.md)
+* [Pool de liquidez y market cap inicial](./mecenas/tiers-utilitarios/moneda/pool-liquidez-market-cap-inicial.md)
+* [Recompras del Token](./mecenas/tiers-utilitarios/moneda/recompras-moneda.md)
 
 **Documentación legal**
 

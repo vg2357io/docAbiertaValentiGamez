@@ -4,6 +4,8 @@
 
 * [Ir al inicio](/)
 
+* [Guía ética](/guia_etica.md)
+
 * [Índice](./README.md)
 
 * [Configuración del entorno](./configuracion_entorno.md)

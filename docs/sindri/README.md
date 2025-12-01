@@ -14,6 +14,8 @@ const.
 
 * [Ver otros temas](/)
 
+* [Guía ética](/guia_etica.md)
+
 * [Índice](/sindri/)
 
 * [Documento de diseño](sindri/documento_diseno_de_software)

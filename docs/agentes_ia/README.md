@@ -7,3 +7,5 @@ Documentación relacionada con Agentes de Inteligencia Artificial.
 * [Web Valentí Gàmez](https://valentigamez.com)
 
 * [Ir al inicio](/)
+
+* [Guía ética](/guia_etica.md)

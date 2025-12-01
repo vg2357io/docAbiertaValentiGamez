@@ -4,6 +4,8 @@
 
 * [Ir al inicio](/)
 
+* [Guía ética](/guia_etica.md)
+
 * [English](../README.md)
 
 * [Català](../cat/README.md)

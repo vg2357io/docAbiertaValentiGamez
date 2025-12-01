@@ -4,6 +4,8 @@
 
 * [Ir al inicio](/)
 
+* [Guía ética](/guia_etica.md)
+
 * [Play](./README.md)
 
 * [Godot Exported Vue3](./godot_exported_vue3.md)
