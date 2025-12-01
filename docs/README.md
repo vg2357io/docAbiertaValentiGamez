@@ -115,5 +115,8 @@ La llicència per al seu ús és CC0.
 * Productos como productor
     * [Névoran](./nevoran/README.md)
 
+* Certificaciones de Valentí
+    * [Silex 2.0](./certificaciones/silex_2_0.md)
+
 * Ideas sobre el uso de la tecnología:
     * [Guía ética](./guia_etica.md)
