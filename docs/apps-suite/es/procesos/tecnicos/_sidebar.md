@@ -16,4 +16,4 @@
 
 ## Procesos
 
-* [Crear bloque Sindri Preview](/apps-suite/es/procesos/crear_bloque_sindri.md)
+* [Crear bloque Sindri Preview](/apps-suite/es/procesos/tecnicos/crear_bloque_sindri.md)
