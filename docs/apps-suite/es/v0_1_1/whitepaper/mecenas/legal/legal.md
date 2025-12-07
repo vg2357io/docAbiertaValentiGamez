@@ -31,7 +31,7 @@ Este documento describe el propósito, alcance y responsabilidades del rol de co
 
 ### Límites y supuestos
 - El rol no asume representación letrada en juicio ni prestación de servicios externos a terceros; se centra en el marco interno del proyecto y en documentación pública del whitepaper.
-- Cualquier servicio profesional a clientes/partners se regula en contrato independiente con CicloTIC S.L. u organización responsable.
+- Cualquier servicio profesional a clientes/partners se regula en contrato independiente con vg2357io u organización responsable.
 
 ### Indicadores de éxito
 - Tiempo de respuesta a consultas legales internas.
@@ -50,7 +50,7 @@ Este marco describe los documentos, principios y relaciones contractuales que ri
 - Uso ético y anti‑especulación: cumplimiento del documento `../../legal/uso-etico-no-especulacion.md`.
 
 ### Partes y ámbitos de relación
-- Equipo núcleo/organización promotora (p. ej., CicloTIC S.L.).
+- Equipo núcleo/organización promotora (p. ej., vg2357io).
 - Colaborador/a legal (gestor/a jurídico/a) a título individual o corporativo.
 - Terceros: proveedores de infraestructura y conectores (SaaS), clientes/partners bajo contratos independientes.
 
@@ -91,7 +91,7 @@ Este marco describe los documentos, principios y relaciones contractuales que ri
 Este documento resume el marco de protección de datos y privacidad para las actividades internas del proyecto y los materiales públicos del whitepaper, con especial atención a Ariadna (identidad/acceso) y Sindri (contenidos/plantillas). No sustituye a los avisos legales específicos de productos o servicios ofrecidos a terceros, que se publicarán y versionarán cuando apliquen.
 
 ### Roles y responsabilidades
-- Responsable del tratamiento: la organización promotora del proyecto (p. ej., CicloTIC S.L.) respecto de los datos que gestione directamente.
+- Responsable del tratamiento: la organización promotora del proyecto (p. ej., vg2357io) respecto de los datos que gestione directamente.
 - Encargados del tratamiento: proveedores y colaboradores que traten datos por cuenta del responsable bajo un DPA/Anexo de Tratamiento.
 - Colaborador/a legal: apoya en la gobernanza y revisión de cumplimiento, sin acceso a datos personales salvo necesidad y autorización documentada.
 

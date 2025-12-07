@@ -1,9 +1,9 @@
 # Licencia Socio — Básica
 
-La licencia Básica es la puerta de entrada al programa de socios del Whitepaper de Apps Suite (CicloTIC S.L.). Está pensada para usuarios individuales y colaboradores que quieren apoyar el proyecto, disfrutar de ventajas iniciales y crecer con la comunidad.
+La licencia Básica es la puerta de entrada al programa de socios del Whitepaper de Apps Suite (vg2357io). Está pensada para usuarios individuales y colaboradores que quieren apoyar el proyecto, disfrutar de ventajas iniciales y crecer con la comunidad.
 
 ## Beneficios principales
-- Descuentos en servicios de la parte propietaria del proyecto Open Source (CicloTIC S.L.).
+- Descuentos en servicios de la parte propietaria del proyecto Open Source (vg2357io).
     - Descuento base en consultoría/soporte y en paquetes formativos introductorios.
     - Los descuentos concretos se comunicarán en las páginas de tarifas vigentes y pueden variar por campaña.
 - Airdrops del motor de crecimiento `$CAS` conforme a la política de distribución de comunidad descrita en `../mecenas/tiers-utilitarios/moneda/distribucion-moneda.md`.
@@ -32,10 +32,10 @@ Una forma simple y asequible de apoyar Apps Suite, acceder a descuentos iniciale
 
 # Licencia Socio — Pro
 
-La licencia Pro está dirigida a profesionales y equipos pequeños que desean un mayor nivel de servicio y participación dentro del ecosistema Apps Suite (CicloTIC S.L.). Amplía los beneficios de la licencia Básica con mejores descuentos, prioridad y más oportunidades de aportar valor.
+La licencia Pro está dirigida a profesionales y equipos pequeños que desean un mayor nivel de servicio y participación dentro del ecosistema Apps Suite (vg2357io). Amplía los beneficios de la licencia Básica con mejores descuentos, prioridad y más oportunidades de aportar valor.
 
 ## Beneficios principales
-- Descuentos ampliados en servicios de CicloTIC S.L. frente a la licencia Básica.
+- Descuentos ampliados en servicios de vg2357io frente a la licencia Básica.
     - Consultoría, soporte avanzado y paquetes formativos intermedios.
     - Los porcentajes concretos se publicarán en las páginas de tarifas y pueden variar por campaña.
 - Airdrops utilitarios de `$CAS` con prioridad en campañas orientadas a comunidad profesional.
@@ -66,7 +66,7 @@ La opción ideal para profesionales: mejores descuentos, prioridad en soporte y 
 La licencia Enterprise está orientada a organizaciones que desean integrarse estratégicamente con el ecosistema Apps Suite, con acuerdos de servicio, gobierno técnico y adopción a escala. Amplía los beneficios de Pro con soporte dedicado y marcos de colaboración.
 
 ## Beneficios principales
-- Descuentos preferentes en servicios de CicloTIC S.L. para implantaciones, integraciones y soporte de nivel empresarial.
+- Descuentos preferentes en servicios de vg2357io para implantaciones, integraciones y soporte de nivel empresarial.
     - Los porcentajes se comunicarán en hojas de servicio y pueden variar por alcance.
 - Airdrops utilitarios `$CAS` alineados con la asignación de Comunidad y, cuando aplique, con iniciativas de adopción empresarial.
     - Ver `../mecenas/tiers-utilitarios/moneda/distribucion-moneda.md`.
@@ -144,10 +144,10 @@ Ver detalles en `../mecenas/tiers-utilitarios/moneda/distribucion-moneda.md`.
 
 # FAQ de licencias
 
-Preguntas frecuentes sobre las licencias de socio del Whitepaper de Apps Suite (CicloTIC S.L.).
+Preguntas frecuentes sobre las licencias de socio del Whitepaper de Apps Suite (vg2357io).
 
 ## 1) ¿Qué incluyen las licencias?
-- Descuentos en servicios de la parte propietaria del proyecto Open Source (CicloTIC S.L.).
+- Descuentos en servicios de la parte propietaria del proyecto Open Source (vg2357io).
 - Airdrops utilitarios del motor `$CAS` según el marco descrito en `../mecenas/tiers-utilitarios/moneda/distribucion-moneda.md`.
 - Rol específico en los canales de comunidad y acceso a espacios privados cuando aplique.
 - Posibles ventajas de colaboradores externos (no garantizadas ni permanentes).
@@ -159,7 +159,7 @@ Consulta los detalles por licencia:
 - `licencia-socio-enterprise.md`
 
 ## 2) ¿Los descuentos están garantizados y fijos?
-No. Los descuentos dependen de las políticas de CicloTIC S.L. y pueden variar por campaña o servicio. Siempre se publicarán en las páginas de tarifas vigentes. Las licencias no garantizan descuentos perpetuos ni montos concretos.
+No. Los descuentos dependen de las políticas de vg2357io y pueden variar por campaña o servicio. Siempre se publicarán en las páginas de tarifas vigentes. Las licencias no garantizan descuentos perpetuos ni montos concretos.
 
 ## 3) ¿Qué es `$CAS` y por qué recibo airdrops?
 `$CAS` es la moneda utilitaria y motor de crecimiento del ecosistema Apps Suite. Sus objetivos y parámetros técnicos están en `../mecenas/tiers-utilitarios/moneda/datos-generales.md`. Las licencias pueden ser elegibles a airdrops por participación y hitos, dentro de la asignación de Comunidad y Embajadores definida en `../mecenas/tiers-utilitarios/moneda/distribucion-moneda.md`.
@@ -174,7 +174,7 @@ Sigue los pasos de `verificacion-descentralizada.md`. Si gestionas tu propia cue
 - Enterprise: enfoque para organizaciones, con soporte dedicado, acuerdos de servicio y colaboración técnica.
 
 ## 6) ¿Puedo revender o transferir mi licencia?
-En general, la licencia es personal/organizativa y podrá ponerse en reventa por parte del propietario en un mercado secundario descentralizado no controlado por CicloTIC S.L., esta opción estará disponible a partir del 2027. Cualquier transferencia debe ser autorizada según las políticas vigentes. Los airdrops o logros asignados on-chain son verificables y, en su caso, transferibles conforme al calendario de centralización/descentralización indicado en `../mecenas/tiers-utilitarios/moneda/distribucion-moneda.md`.
+En general, la licencia es personal/organizativa y podrá ponerse en reventa por parte del propietario en un mercado secundario descentralizado no controlado por vg2357io, esta opción estará disponible a partir del 2027. Cualquier transferencia debe ser autorizada según las políticas vigentes. Los airdrops o logros asignados on-chain son verificables y, en su caso, transferibles conforme al calendario de centralización/descentralización indicado en `../mecenas/tiers-utilitarios/moneda/distribucion-moneda.md`.
 
 ## 7) ¿Hay reembolsos?
 Salvo que se indique lo contrario en la política comercial vigente o en el canal de adquisición, las licencias no son reembolsables. Las utilidades comprometidas son exclusivamente las listadas en cada página de licencia.

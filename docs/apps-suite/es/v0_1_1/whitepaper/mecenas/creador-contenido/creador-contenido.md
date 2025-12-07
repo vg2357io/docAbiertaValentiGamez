@@ -279,7 +279,7 @@ Guía operativa de activaciones para creadores pequeños y medianos (≤ 50.000 
 Aplica a creadores pequeños y medianos (≤ 50.000 UUM). Para perfiles con mayor alcance, estas condiciones se definen en un acuerdo específico.
 
 ### Propiedad intelectual
-- La autoría de tus contenidos originales es tuya. Apps Suite/CicloTIC S.L. no adquiere la propiedad de tus obras por el mero hecho de colaborar.
+- La autoría de tus contenidos originales es tuya. Apps Suite/vg2357io no adquiere la propiedad de tus obras por el mero hecho de colaborar.
 - El contenido co‑creado con el equipo (p. ej., guiones, plantillas, docs en repos públicos) conservará su autoría atribuida y se publicará bajo la licencia del repositorio cuando aplique.
 - Ver `../legal/propiedad-intelectual-licencias.md` y `../../legal/respeto-profesionales-licencias.md`.
 
