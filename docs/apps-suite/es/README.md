@@ -57,19 +57,6 @@ Descentralización opcional.
 * [Colaborador manager](./whitepaper/mecenas/tiers-utilitarios/colaborador-manager.md)
 * [Colaborador técnico](./whitepaper/mecenas/tiers-utilitarios/colaborador-tecnico.md)
 * [Colaborador moderador](./whitepaper/mecenas/tiers-utilitarios/colaborador-moderador.md)
-* [Licencia de Socios](./whitepaper/mecenas/tiers-utilitarios/licencia-socios.md)
-
-### Motor de crecimiento gamificado
-
-Descentralización opcional.
-
-* [Datos Generales](./whitepaper/mecenas/tiers-utilitarios/moneda/datos-generales.md)
-* [Génesis del Token](./whitepaper/mecenas/tiers-utilitarios/moneda/genesis-moneda.md)
-    * [INO de la Comunidad](./whitepaper/mecenas/tiers-utilitarios/moneda/ino-comunidad.md)
-    * [Airdrops para la Comunidad](./whitepaper/mecenas/tiers-utilitarios/moneda/airdrops-comunidad.md)
-* [Distribución del Token](./whitepaper/mecenas/tiers-utilitarios/moneda/distribucion-moneda.md)
-* [Pool de liquidez y market cap inicial](./whitepaper/mecenas/tiers-utilitarios/moneda/pool-liquidez-market-cap-inicial.md)
-* [Recompras del Token](./whitepaper/mecenas/tiers-utilitarios/moneda/recompras-moneda.md)
 
 ## Documentación legal
 
@@ -79,14 +66,6 @@ Requerido leer para colaborar.
 * [Uso ético de no especulación](./whitepaper/legal/uso-etico-no-especulacion.md)
 * [Respeto a profesionales y sus licencias](./whitepaper/legal/respeto-profesionales-licencias.md)
 * [Uso ético para entrenamiento automatizado o IA](./whitepaper/legal/uso-etico-entrenamiento-automatizado-ia.md)
-
-## Gamificación del proyecto
-
-* [Herramienta Open Source #weLore](./whitepaper/gamificacion/herramienta-open-source.md)
-* [Custodia propiedad digital](./whitepaper/gamificacion/custodia-propiedad-digital.md)
-* [Protocolos de seguridad](./whitepaper/gamificacion/protocolos-seguridad.md)
-* [Descentralización](./whitepaper/gamificacion/descentralizacion.md)
-* [Congelación temporal](./whitepaper/gamificacion/congelacion-temporal.md)
 
 ## Para colaboradores embajador
 
@@ -160,16 +139,6 @@ CTO como mecenas fundador
 * [Herramientas y protocolos](./whitepaper/mecenas/moderador/herramientas-protocolos.md)
 * [KPIs e incentivos](./whitepaper/mecenas/moderador/kpis-incentivos.md)
 * [Onboarding y checklist](./whitepaper/mecenas/moderador/onboarding-checklist.md)
-
-## Licencias de Socio
-
-Descentralización opcional.
-
-* [Licencia Socio — Básica](./whitepaper/licencias-socio/licencia-socio-basica.md)
-* [Licencia Socio — Pro](./whitepaper/licencias-socio/licencia-socio-pro.md)
-* [Licencia Socio — Empresa](./whitepaper/licencias-socio/licencia-socio-empresa.md)
-* [Verificación descentralizada](./whitepaper/licencias-socio/verificacion-descentralizada.md)
-* [FAQ de licencias](./whitepaper/licencias-socio/faq-licencias.md)
 
 ---
 

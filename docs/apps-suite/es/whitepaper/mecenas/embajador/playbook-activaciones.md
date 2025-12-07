@@ -46,7 +46,7 @@ Guía práctica para planificar, ejecutar y medir activaciones de embajadores en
 ## 4) Materiales y repos
 - Presentaciones oficiales y plantillas en repos públicos.
 - Guías rápidas y tutoriales breves adaptados a tu segmento.
-- Registro de evidencias en #weLore; para incentivos utilitarios, ver `../../licencias-socio/verificacion-descentralizada.md`.
+- Registro de evidencias en #weLore.
 
 ## 5) Checklist de ejecución
 - Confirmar agenda/logística; prueba técnica del lugar/plataforma.
@@ -62,7 +62,6 @@ Guía práctica para planificar, ejecutar y medir activaciones de embajadores en
 ## 7) Antipatrones a evitar
 - Sobre‑prometer (features fuera del MVP o timings no realistas).
 - Enfoque “venta dura”: prioriza descubrimiento y encaje.
-- Mensajes sensibles: evita menciones a precio o especulación de `$CAS` (ver `../../legal/uso-etico-no-especulacion.md`).
 
 ## 8) Ejemplos de mensajes (adaptar)
 - Educación: “Con Ariadna unificamos login y control de acceso; con Sindri publicas web/PDF desde un Markdown fuente. Menos fricción, más control.”

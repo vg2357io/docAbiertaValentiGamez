@@ -1,6 +1,6 @@
 # KPIs e incentivos
 
-Este documento define cómo medimos el impacto del rol de Embajador/a y cómo operan los incentivos utilitarios. Todos los logros deben ser verificables. Ver `../../licencias-socio/verificacion-descentralizada.md`.
+Este documento define cómo medimos el impacto del rol de Embajador/a y cómo operan los incentivos utilitarios. Todos los logros deben ser verificables.
 
 ## KPIs (mínimos y de calidad)
 - Activaciones realizadas: número de eventos/charlas/talleres con evidencia pública (enlace a agenda, fotos o resumen en #weLore).
@@ -16,16 +16,6 @@ Sugerencias de metas trimestrales (orientativas):
 ## Evidencias requeridas
 - Entrada en #weLore o repos con resumen, fecha, lugar/organizador y resultados.
 - Materiales utilizados (deck, demo) o enlaces.
-- Cuando aplique, referencia on‑chain en Hedera para hitos que reciban incentivo utilitario. Ver `../../licencias-socio/verificacion-descentralizada.md`.
-
-## Incentivos utilitarios `$CAS`
-- Naturaleza: token de utilidad orientado a recompensar contribuciones verificables. No es instrumento financiero.
-- Asignación: sujeta a elegibilidad y a la política publicada en `../../mecenas/tiers-utilitarios/moneda/distribucion-moneda.md`.
-- Criterios de cálculo: combinación de cantidad/calidad/alcance del impacto y prioridad estratégica del segmento.
-- Vesting: podrá aplicarse calendario de vesting para alinear incentivos de largo plazo.
-- Límite: tope por persona/periodo para evitar acumulación adversa.
-- Verificación: toda asignación relevante tendrá evidencia en Hedera o registros públicos; verificación descrita en `../../licencias-socio/verificacion-descentralizada.md`.
-- Custodia: puedes usar custodia de Apps Suite o tu propia cuenta Hedera (ver documento de verificación).
 
 ## Reglas éticas y elegibilidad
 - Cumplimiento estricto de `../../legal/uso-etico-no-especulacion.md` y `../../legal/uso-etico-no-inversion-equity.md`.

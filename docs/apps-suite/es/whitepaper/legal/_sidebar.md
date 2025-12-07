@@ -35,17 +35,6 @@ Logros
 * [Colaborador manager](../mecenas/tiers-utilitarios/colaborador-manager.md)
 * [Colaborador técnico](../mecenas/tiers-utilitarios/colaborador-tecnico.md)
 * [Colaborador moderador](../mecenas/tiers-utilitarios/colaborador-moderador.md)
-* [Licencia de Socios](../mecenas/tiers-utilitarios/licencia-socios.md)
-
-Motor de crecimiento gamificado
-
-* [Datos Generales](../mecenas/tiers-utilitarios/moneda/datos-generales.md)
-* [Génesis del Token](../mecenas/tiers-utilitarios/moneda/genesis-moneda.md)
-    * [INO de la Comunidad](../mecenas/tiers-utilitarios/moneda/ino-comunidad.md)
-    * [Airdrops para la Comunidad](../mecenas/tiers-utilitarios/moneda/airdrops-comunidad.md)
-* [Distribución del Token](../mecenas/tiers-utilitarios/moneda/distribucion-moneda.md)
-* [Pool de liquidez y market cap inicial](../mecenas/tiers-utilitarios/moneda/pool-liquidez-market-cap-inicial.md)
-* [Recompras del Token](../mecenas/tiers-utilitarios/moneda/recompras-moneda.md)
 
 **Documentación legal**
 
@@ -53,14 +42,6 @@ Motor de crecimiento gamificado
 * [Uso ético de no especulación](../legal/uso-etico-no-especulacion.md)
 * [Respeto a profesionales y sus licencias](../legal/respeto-profesionales-licencias.md)
 * [Uso ético para entrenamiento automatizado o IA](../legal/uso-etico-entrenamiento-automatizado-ia.md)
-
-**Gamificación del proyecto**
-
-* [Herramienta Open Source #weLore](../gamificacion/herramienta-open-source.md)
-* [Custodia propiedad digital](../gamificacion/custodia-propiedad-digital.md)
-* [Protocolos de seguridad](../gamificacion/protocolos-seguridad.md)
-* [Descentralización](../gamificacion/descentralizacion.md)
-* [Congelación temporal](../gamificacion/congelacion-temporal.md)
 
 **Para colaboradores embajador**
 
@@ -132,14 +113,6 @@ Motor de crecimiento gamificado
 * [Herramientas y protocolos](../mecenas/moderador/herramientas-protocolos.md)
 * [KPIs e incentivos](../mecenas/moderador/kpis-incentivos.md)
 * [Onboarding y checklist](../mecenas/moderador/onboarding-checklist.md)
-
-**Licencias de Socio**
-
-* [Licencia Socio — Básica](../licencias-socio/licencia-socio-basica.md)
-* [Licencia Socio — Pro](../licencias-socio/licencia-socio-pro.md)
-* [Licencia Socio — Empresa](../licencias-socio/licencia-socio-empresa.md)
-* [Verificación descentralizada](../licencias-socio/verificacion-descentralizada.md)
-* [FAQ de licencias](../licencias-socio/faq-licencias.md)
 
 ---
 

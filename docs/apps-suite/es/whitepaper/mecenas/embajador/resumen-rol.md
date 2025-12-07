@@ -14,9 +14,6 @@ El rol de Embajador de Apps Suite impulsa la adopción responsable del ecosistem
 - No es un cargo de representación legal o vocería oficial; la comunicación siempre se apoya en materiales aprobados.
 - No conlleva promesas financieras ni expectativas de revalorización de activos.
 
-## Relación con licencias y utilidades
-- Los embajadores pueden ser elegibles para la licencia `Socio — Embajador` (cuando se publique) y para incentivos utilitarios `$CAS` por logros verificables. Ver `../../licencias-socio/verificacion-descentralizada.md` y `../../legal/uso-etico-no-especulacion.md`.
-
 ## Entregables típicos
 - Activaciones en su segmento: charlas, talleres, meetups, mentorización de pilotos.
 - Conexión con partners potenciales: presentación, encaje y seguimiento inicial.

@@ -116,19 +116,6 @@ Descentralización opcional.
 * [Colaborador manager](./es/whitepaper/mecenas/tiers-utilitarios/colaborador-manager.md)
 * [Colaborador técnico](./es/whitepaper/mecenas/tiers-utilitarios/colaborador-tecnico.md)
 * [Colaborador moderador](./es/whitepaper/mecenas/tiers-utilitarios/colaborador-moderador.md)
-* [Licencia de Socios](./es/whitepaper/mecenas/tiers-utilitarios/licencia-socios.md)
-
-### Motor de crecimiento gamificado
-
-Descentralización opcional.
-
-* [Datos Generales](./es/whitepaper/mecenas/tiers-utilitarios/moneda/datos-generales.md)
-* [Génesis del Token](./es/whitepaper/mecenas/tiers-utilitarios/moneda/genesis-moneda.md)
-    * [INO de la Comunidad](./es/whitepaper/mecenas/tiers-utilitarios/moneda/ino-comunidad.md)
-    * [Airdrops para la Comunidad](./es/whitepaper/mecenas/tiers-utilitarios/moneda/airdrops-comunidad.md)
-* [Distribución del Token](./es/whitepaper/mecenas/tiers-utilitarios/moneda/distribucion-moneda.md)
-* [Pool de liquidez y market cap inicial](./es/whitepaper/mecenas/tiers-utilitarios/moneda/pool-liquidez-market-cap-inicial.md)
-* [Recompras del Token](./es/whitepaper/mecenas/tiers-utilitarios/moneda/recompras-moneda.md)
 
 ## Documentación legal
 
@@ -138,14 +125,6 @@ Requerido leer para colaborar.
 * [Uso ético de no especulación](./es/whitepaper/legal/uso-etico-no-especulacion.md)
 * [Respeto a profesionales y sus licencias](./es/whitepaper/legal/respeto-profesionales-licencias.md)
 * [Uso ético para entrenamiento automatizado o IA](./es/whitepaper/legal/uso-etico-entrenamiento-automatizado-ia.md)
-
-## Gamificación del proyecto
-
-* [Herramienta Open Source #weLore](./es/whitepaper/gamificacion/herramienta-open-source.md)
-* [Custodia propiedad digital](./es/whitepaper/gamificacion/custodia-propiedad-digital.md)
-* [Protocolos de seguridad](./es/whitepaper/gamificacion/protocolos-seguridad.md)
-* [Descentralización](./es/whitepaper/gamificacion/descentralizacion.md)
-* [Congelación temporal](./es/whitepaper/gamificacion/congelacion-temporal.md)
 
 ## Para colaboradores embajador
 
@@ -217,14 +196,6 @@ Requerido leer para colaborar.
 * [Herramientas y protocolos](./es/whitepaper/mecenas/moderador/herramientas-protocolos.md)
 * [KPIs e incentivos](./es/whitepaper/mecenas/moderador/kpis-incentivos.md)
 * [Onboarding y checklist](./es/whitepaper/mecenas/moderador/onboarding-checklist.md)
-
-## Licencias de Socio
-
-* [Licencia Socio — Básica](./es/whitepaper/licencias-socio/licencia-socio-basica.md)
-* [Licencia Socio — Pro](./es/whitepaper/licencias-socio/licencia-socio-pro.md)
-* [Licencia Socio — Empresa](./es/whitepaper/licencias-socio/licencia-socio-empresa.md)
-* [Verificación descentralizada](./es/whitepaper/licencias-socio/verificacion-descentralizada.md)
-* [FAQ de licencias](./es/whitepaper/licencias-socio/faq-licencias.md)
 
 ---
 

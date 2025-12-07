@@ -7,7 +7,7 @@ Este documento define qué hace y qué no hace un Embajador/a de Apps Suite, con
 - Educación y sensibilización: charlas intro a `Ariadna` (identidad, acceso) y `Sindri` (Markdown extendido para sitios/docs/apps). Ver `../../descripcion-producto.md`.
 - Activación de pilotos/PoC: identificar un caso mínimo viable, preparar demo y coordinar seguimiento.
 - Curation de materiales: seleccionar y compartir recursos oficiales (presentaciones, one‑pagers, repos, guías).
-- Generación de evidencias: publicar resúmenes, fotos, enlaces y, cuando aplique, evidencias on‑chain. Ver `../../licencias-socio/verificacion-descentralizada.md`.
+- Generación de evidencias: publicar resúmenes, fotos y enlaces.
 - Feedback a producto: problemas, fricciones, métricas y propuestas surgidas del terreno.
 - Custodia de la marca: seguir `Guías de comunicación y marca` y políticas de `Uso ético`.
 
