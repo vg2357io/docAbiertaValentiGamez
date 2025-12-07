@@ -22,7 +22,7 @@
 
 * Productos en propiedad
   * [Blendi](https://blendi.es)
-  * [Apps Suite - Conecta tecnología](/apps-suite/)
+  * [EleuteriOS - Conecta tecnología](/eleuterios/)
   * [#weLore - Gamifica tus clientes](https://welore.io)
 
 * Productos como productor

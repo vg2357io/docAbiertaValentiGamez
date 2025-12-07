@@ -109,7 +109,7 @@ La llicència per al seu ús és CC0.
 
 * Productos en propiedad
     * [Blendi](https://blendi.es)
-    * [Apps Suite #ariadna y #sindri - Conecta tecnología](./apps-suite/)
+    * [EleuteriOS #ariadna y #sindri - Conecta tecnología](./eleuterios/)
     * [#weLore - Gamifica tus clientes](https://welore.io)
 
 * Productos como productor

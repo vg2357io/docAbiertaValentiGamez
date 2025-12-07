@@ -1,4 +1,4 @@
 [Home](/)
 [Habilidades Blandas](/habilidades_blandas/)
-[Apps Suite](/apps-suite/)
+[EleuteriOS](/eleuterios/)
 [CC0](/LICENSE.md)

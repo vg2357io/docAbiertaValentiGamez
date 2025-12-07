@@ -1,4 +1,4 @@
 [Home](/)
 [Habilidades Blandas](/habilidades_blandas/)
 [EleuteriOS](/eleuterios/)
-[Llama del Fénix v1.1](/nevoran/LICENSE.md)
+[Licencia](/nevoran/LICENSE.md)
