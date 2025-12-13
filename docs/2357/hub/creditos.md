@@ -2,44 +2,33 @@
 
 Los **qubits** es una herramienta multifuncional diseñada para acelerar el ecosistema, potenciar la difusión, reconocer la implicación y fomentar la gobernanza.
 
-El ecosistema vg2357io se compone de:
-
-*   **EleuteriOS:** Ariadna y Sindri como proyectos Open Source + Parte propietaria que ofrece servidores virtuales administrados.
-*   **weLore:** Sistema de fidelización y coleccionismo digital como proyecto Open Source + Parte propietaria con comisión por ventas.
-*   **vg2357io:** Publicaciones de rol narrativo.
-
 ## Utilidades
 
-*   **Economía Interna EleuteriOS:** Qubits para canje de productos y servicios.
-*   **Ecosistema propio EleuteriOS:** desde 373 qubits/mes
-*   **Diseño Sindri personalizado:** 12,323 qubits
-*   **Mentoría:** 257 qubits/sesión
-*   **Auditoría técnica:** 5,233 qubits
 *   **Economía Interna vg2357io:** Qubits para canje de productos y servicios.
-*   **Pack coleccionables básicos:** desde 73 qubits/quincenal
-*   **Pack coleccionables premium:** desde 257 qubits/quincenal
-*   **Coleccionable para Gnomos:** 23 qubits/mes
-*   **Coleccionable para Dragones:** 53 qubits/mes
-*   **El Protector del Fénix 1era edición:** 757 qubits
-*   **El Círculo de las Seis Voces 1era edición:** 757 qubits
-*   **Compilación Lovecraft 1era edición:** 757 qubits
-*   **Névoran Juego de Cartas 1era edición:** 757 qubits
-*   **Set de dados de 5 dados 2357 de 6 caras:** 373 qubits
-*   **Edición coleccionista con 5 láminas y caja especial:** 5,233 qubits
-*   **Gobernanza:** Cada qubit es un punto en las votaciones.
-*   **Comunitarias:** todos pueden participar.
-*   **Coleccionables:** requieren del coleccionable.
+    *   **Pack coleccionables básicos:** desde 73 qubits/quincenal
+    *   **Pack coleccionables premium:** desde 257 qubits/quincenal
+    *   **Coleccionable para Gnomos:** 23 qubits/mes
+    *   **Coleccionable para Dragones:** 53 qubits/mes
+    *   **El Protector del Fénix 1era edición:** 757 qubits
+    *   **El Círculo de las Seis Voces 1era edición:** 757 qubits
+    *   **Compilación Lovecraft 1era edición:** 757 qubits
+    *   **Névoran Juego de Cartas 1era edición:** 757 qubits
+    *   **Set de dados de 5 dados 2357 de 6 caras:** 373 qubits
+    *   **Edición coleccionista con 5 láminas y caja especial:** 5,233 qubits
+    *   **Gobernanza:** Cada qubit es un punto en las votaciones.
+    *   **Comunitarias:** todos pueden participar.
+    *   **Coleccionables:** requieren del coleccionable.
 *   **Colaboradores:** Posibles descuentos en servicios que ofrezcan los miembros del ecosistema.
 
 ## Características
 
 Suministro total: 25 millones.
 
-Centralizados en https://vg.2357.io con weLore.
+Centralizados en https://hub.2357.io con weLore.
 
 ## Distribución mes a mes durante 5 años
 
-Cada cupón otorga 13 qubits.
+Cada cupón otorga 13 qubits. Los mecenas multiplican el cupon x3, x5 o x7.
 Cada ticket otorga 1,000 qubits, una persona o proyecto solo puede recibir uno al mes por contribución.
 Los qubits obtenidos con licencias Fénix, Dragón o Gnomo no tienen límite y no se acumulan para el límite mensual o anual.
 
