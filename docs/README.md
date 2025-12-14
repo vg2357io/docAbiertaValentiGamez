@@ -92,6 +92,7 @@ La llicència per al seu ús és CC0.
 * [2357 - Web pública Valentí Gàmez](https://2357.io)
     * [Información](./2357/)
     * [Play](./2357/play/)
+    * [Hub](./2357/hub/)
 
 * Formación
     * [Habilidades Blandas](./habilidades_blandas/)
