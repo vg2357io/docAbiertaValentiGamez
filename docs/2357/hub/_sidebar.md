@@ -12,4 +12,4 @@
 
 * [Hub](./README.md)
 
-* [Créditos](./creditos.md)
+* [qubits](./qubits.md)
