@@ -1,4 +1,4 @@
-# Play - 2357
+# Hub - 2357
 
 * [Web Valentí Gàmez](https://valentigamez.com)
 
