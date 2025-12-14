@@ -13,3 +13,5 @@
 * [Hub](./README.md)
 
 * [qubits](./qubits.md)
+
+* [Manifiesto de interacción](./manifiesto_de_interaccion.md)
