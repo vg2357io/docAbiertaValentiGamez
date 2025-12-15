@@ -14,6 +14,7 @@
 * Para colaboradores
     * [Inicia por aquí](./colaboradores_vg/)
     * [Modeladorxs 3D](./colaboradores_vg/modeladorxs_3d/README.md)
+    * [Guías procesos narrativos](./colaboradores_vg/guias_procesos_narrativos/README.md)
 
 * Desarrollo de software
   * [Arquitectura de software](/arquitectura_software/)

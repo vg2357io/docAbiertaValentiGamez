@@ -66,3 +66,5 @@ En el entorno profesional actual, construir una **marca personal sólida** y una
 * [Tareas jira](./guia_para_tareas.md)
 
 * [Modeladorxs 3D](./modeladorxs_3d/README.md)
+
+* [Guías procesos narrativos](./guias_procesos_narrativos/README.md)
