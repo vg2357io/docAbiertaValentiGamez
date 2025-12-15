@@ -2,6 +2,10 @@
 
 Documentación relacionada con procesos para crear fichas de personajes, criaturas, ubicaciones, eventos, etc.
 
+Documentación relacionada con el apartado técnico:
+
+[Ecosistema autónomo](/2357/ae/README.md)
+
 ---
 
 * [Web Valentí Gàmez](https://valentigamez.com)
@@ -17,10 +21,6 @@ Documentación relacionada con procesos para crear fichas de personajes, criatur
 * [Mecánica personaje](./mecanica_personajes.md)
 
 * [Mecánica personaje - Guía rápida de asignación mecánica](./mecanica_personajes_pasos.md)
-
-* [Base de datos para personaje](./scheme_bbdd_personajes.md)
-
-* [Base de datos para personaje - Datos iniciales](./scheme_bbdd_personajes_seeds.md)
 
 * [Ficha criatura o raza](./ficha_criatura_o_raza.md)
 
