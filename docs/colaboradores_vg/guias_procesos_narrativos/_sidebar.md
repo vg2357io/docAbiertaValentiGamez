@@ -17,3 +17,7 @@
 * [Ficha ubicación](./ficha_ubicacion.md)
 
 * [Ficha evento](./ficha_evento.md)
+
+* [Clasificación personaje](./clasificacion_personajes.md)
+
+* [Mecánica personaje](./mecanica_personajes.md)
