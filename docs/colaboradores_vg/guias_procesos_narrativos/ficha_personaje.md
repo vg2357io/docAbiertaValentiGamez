@@ -123,11 +123,19 @@ Estas estadísticas **existen en todas las categorías**, aunque su escala varí
 
 ### Representación visual
 
+Usar plantilla de publicación.
+
 * **Imagen retrato**
   Uso: fichas, diálogos, HUD, token en tableros de juego, documentos.
 
 * **Imagen portada**
   Uso: narrativa, escenas, capítulos, cartas, dossiers.
+
+* **Imagen vertical frontal (Carta tipo tarot)**
+  Uso: imagen y características de un vistazo.
+
+* **Imagen vertical trasera (Carta tipo tarot)**
+  Uso: imagen panorámica y resumen de la ficha.
 
 
 ### Tiempo
@@ -162,9 +170,12 @@ Otros ejemplos posibles:
 Aquí se construye el alma del personaje. Ninguno es decorativo.
 
 * **Descripción corta**
-  1–3 líneas. Identidad rápida.
+  1 frase. Identidad rápida.
 
 * **Descripción**
+  2 párrafos.
+
+* **Descripción larga**
   Apariencia física, presencia, lenguaje corporal.
 
 * **Personalidad**
