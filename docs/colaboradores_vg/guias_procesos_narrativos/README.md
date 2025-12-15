@@ -10,9 +10,9 @@ Documentación relacionada con procesos para crear fichas de personajes, criatur
 
 * [Guía ética](/guia_etica.md)
 
-* [Ficha personaje](./ficha_personasje.md)
+* [Ficha personaje](./ficha_personaje.md)
 
-* [Ficha criatura o raza](./ficha_criatura_raza.md)
+* [Ficha criatura o raza](./ficha_criatura_o_raza.md)
 
 * [Ficha ubicación](./ficha_ubicacion.md)
 
