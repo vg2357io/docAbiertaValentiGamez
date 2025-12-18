@@ -37,7 +37,7 @@ The scope of this whitepaper is to provide all the key elements needed to have a
 
 Ariadna and Sindri are aimed at students, brands, companies, and content creators. An open-source version is available for personal use. The same version may be used commercially under the MIT license by companies with a individual technical service holding higher non-university professional qualifications; a single person providing occasional technical interventions should suffice. For SME digitalization companies, the goal is to enable them to build their own suite using these two products.
 
-Documentation licensed for use is released under CC0.
+Documentation licensed for use is released under [Llama del Fénix v1.1](https://docs.valentigamez.com/#/eleuterios/LICENSE.md).
 
 * [To whitepaper](#index)
 
@@ -53,7 +53,7 @@ El ámbito de este whitepaper es ofrecer todas las claves para tener un MVP en e
 
 Ariadna y Sindri se dirigen a estudiantes, marcas, empresas y creadores de contenido. Una versión open source para uso personal. La misma puede ser usada comercialmente con licencia MIT por empresas que tengan un servicio técnico con una graduación profesional superior no universitaria, una persona con intervenciones puntuales debe ser suficiente. Para empresas de digitalización de pymes se busca que puedan implementar su propia suite mediante estos dos productos.
 
-Documentación con licencia para su uso [CC0 1.0](https://docs.valentigamez.com/#/LICENSE.md).
+Documentación con licencia para su uso [Llama del Fénix v1.1](https://docs.valentigamez.com/#/eleuterios/LICENSE.md).
 
 [Descarga aquí la presentación de EleuteriOS en español](https://docs.valentigamez.com/eleuterios/_media/Presentacion-AppsSuite.pdf)
 
@@ -73,7 +73,7 @@ L’àmbit d’aquest *whitepaper* és oferir totes les claus per tenir un MVP a
 
 Ariadna i Sindri van dirigits a estudiants, marques, empreses i creadors de contingut. Hi haurà una versió *open source* per a ús personal. Aquesta mateixa podrà ser utilitzada comercialment amb llicència MIT per empreses que disposin d’un servei tècnic amb una titulació professional superior no universitària; una sola persona amb intervencions puntuals hauria de ser suficient. Per a empreses dedicades a la digitalització de pimes, l’objectiu és que puguin implementar la seva pròpia suite mitjançant aquests dos productes.
 
-La documentació amb llicència per al seu ús és CC0.
+La documentació amb llicència per al seu ús és [Llama del Fénix v1.1](https://docs.valentigamez.com/#/eleuterios/LICENSE.md).
 
 * [Anar al whitepaper](./cat/README.md)
 
