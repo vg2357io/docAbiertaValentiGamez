@@ -57,7 +57,7 @@ Documentación con licencia para su uso [Llama del Fénix v1.1](https://docs.val
 
 [Descarga aquí la presentación de EleuteriOS en español](https://docs.valentigamez.com/eleuterios/_media/Presentacion-AppsSuite.pdf)
 
-[Descarga aquí el borrador del WhitePaper en español](https://docs.valentigamez.com/eleuterios/_media/whitepaper_es.pdf)
+[Descarga aquí el borrador v0.1.0 del WhitePaper en español](https://docs.valentigamez.com/eleuterios/_media/whitepaper_es.pdf)
 
 * [Ir al whitepaper](./es/README.md)
 
