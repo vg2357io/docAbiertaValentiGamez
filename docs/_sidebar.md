@@ -5,16 +5,18 @@
 * [2357 - Web pública Valentí Gàmez](https://2357.io)
   * [Información](/2357/)
   * [Play](/2357/play/)
+  * [Rol - Play](/2357/rol/README.md)
   * [Hub](/2357/hub/)
+  * [Ecosistema autónomo](/2357/ae/README.md)
 
 * Formación
   * [Habilidades Blandas](/habilidades_blandas/)
   * [Agentes IA](/agentes_ia/)
 
 * Para colaboradores
-    * [Inicia por aquí](./colaboradores_vg/)
-    * [Modeladorxs 3D](./colaboradores_vg/modeladorxs_3d/README.md)
-    * [Guías procesos narrativos](./colaboradores_vg/guias_procesos_narrativos/README.md)
+    * [Inicia por aquí](/colaboradores_vg/)
+    * [Modeladorxs 3D](/colaboradores_vg/modeladorxs_3d/README.md)
+    * [Guías procesos narrativos](/colaboradores_vg/guias_procesos_narrativos/README.md)
 
 * Desarrollo de software
   * [Arquitectura de software](/arquitectura_software/)
@@ -28,7 +30,7 @@
   * [#weLore - Gamifica tus clientes](https://welore.io)
 
 * Productos como productor
-  * [Névoran](./nevoran/README.md)
+  * [Névoran](/nevoran/README.md)
 
 * Ideas sobre el uso de la tecnología:
-  * [Guía ética](./guia_etica.md)
+  * [Guía ética](/guia_etica.md)
