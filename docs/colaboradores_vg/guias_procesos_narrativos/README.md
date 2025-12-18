@@ -2,9 +2,13 @@
 
 Documentación relacionada con procesos para crear fichas de personajes, criaturas, ubicaciones, eventos, etc.
 
-Documentación relacionada con el apartado técnico:
+Documentación relacionada con el apartado técnico de ecosistemas autónomos:
 
 [Ecosistema autónomo](/2357/ae/README.md)
+
+Documentación relacionada con el apartado técnico de juegos de rol:
+
+[Juegos de rol - Doc técnica](/2357/rol/README.md)
 
 ---
 

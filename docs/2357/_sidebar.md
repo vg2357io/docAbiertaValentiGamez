@@ -10,6 +10,8 @@
 
 * [Play](./play/README.md)
 
+* [Rol - Play](./rol/README.md)
+
 * [Hub](./hub/README.md)
 
 * [Ecosistema autónomo - Doc técnica](./ae/README.md)

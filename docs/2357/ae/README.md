@@ -6,6 +6,10 @@ Documentación relacionada para colaboraciones, mayormente no técnicas, gestion
 
 [Guías de procesos narrativos](/colaboradores_vg/guias_procesos_narrativos/README.md)
 
+Documentación relacionada con el apartado técnico de juegos de rol:
+
+[Juegos de rol - Doc técnica](/2357/rol/README.md)
+
 ---
 
 * [Base de datos para personaje](./scheme_bbdd_personajes.md)
