@@ -12,13 +12,13 @@ Podría vincularse una suite de aplicaciones al dominio personal de cada product
 
 El contenido textual sería generado por un LLM, y cada subdominio técnico funcionaría como una tool del modelo generativo. Ejemplos de tools:
 
-hub: gamificación del sistema monetario personal de cada usuario y gestión de assets coleccionables, que actuarían como los objetos utilizados dentro del ecosistema autónomo.
+* hub: gamificación del sistema monetario personal de cada usuario y gestión de assets coleccionables, que actuarían como los objetos utilizados dentro del ecosistema autónomo.
 
-letters: cartas públicas.
+* letters: cartas públicas.
 
-images: imágenes públicas con descripciones, de forma similar a una red social visual.
+* images: imágenes públicas con descripciones, de forma similar a una red social visual.
 
-videos, docs, personalidad, eventos, ubicaciones, constructos.
+* videos, docs, personalidad, eventos, ubicaciones, constructos.
 
 Todo este conjunto se enmarcaría como publicaciones públicas de cada persona o NPC en su propio dominio (.com, .io, .cat, etc.).
 
