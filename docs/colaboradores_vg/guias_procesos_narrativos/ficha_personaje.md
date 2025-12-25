@@ -52,7 +52,7 @@ Estos campos definen *qué es* el personaje dentro del universo.
     * Animal: nombre común
     * Elemental: elemento
 
-* **Definición categoríca**
+* **Definición categórica**
   Donde se clasifican dentro de su mismo tipo. Si es un "No muerto" se le añade uno de estos sufijos: "esqueleto", "zombi", "liche", etc. Si es un clon, ya se replique o no, que tenga consciencia independiente incluso en colmena se añade uno de estos prefijos: "replica", "clon", "ia", etc
   Ejemplos:
 

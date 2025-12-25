@@ -18,7 +18,7 @@
 
 * [Mecánica personaje - Guía rápida de asignación mecánica](./mecanica_personajes_pasos.md)
 
-* [Ficha criatura o raza](./ficha_criatura_o_raza.md)
+* [Ficha definición categórica](./ficha_definicion_categorica.md)
 
 * [Ficha ubicación](./ficha_ubicacion.md)
 
