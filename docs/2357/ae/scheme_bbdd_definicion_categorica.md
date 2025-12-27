@@ -1,5 +1,7 @@
 # SCHEMA BBDD para definición categórica (ficha de linaje / tipo / entidad colectiva)
 
+* v0.0.1: 2025-12-27 19:00:00
+
 * **Identificador de dominio**: cd_
 * **Dominios relacionados**: personajes -> chr_, referencias -> ref_, eventos -> evt_, media_,
 * **Tabla principal**: cd_categorical_definitions

@@ -1,5 +1,7 @@
 # Datos iniciales para la base de datos de personajes
 
+* v0.0.1: 2025-12-27 19:00:00
+
 ```yaml
 seeds:
   chr_action_results:

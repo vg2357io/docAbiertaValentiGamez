@@ -1,5 +1,7 @@
 # SCHEMA BBDD para ubicaciones (ficha de "dónde" + "estado temporal" del lugar)
 
+* v0.0.1: 2025-12-27 19:00:00
+
 * **Identificador de dominio**: evt_
 * **Dominios relacionados**: personajes -> chr_, definiciones categóricas -> cd_, eventos -> evt_ referencias -> ref_, media_,
 * **Tabla principal**: loc_
