@@ -1,4 +1,4 @@
-# Rol - Play - 2357
+# Tribu - 2357
 
 * [Web Valentí Gàmez](https://valentigamez.com)
 
