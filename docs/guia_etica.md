@@ -14,6 +14,8 @@
 
 ## 2. Ética en IA y Automatización
 
+* [Firma IA](./2357/tribe/firma-ia.md)
+
 **Alcance:** Uso responsable de datos y contenidos en procesos de entrenamiento y generación automatizada.
 
 **Principios:**
