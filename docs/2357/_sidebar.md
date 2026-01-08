@@ -8,6 +8,8 @@
 
 * [Guía ética](/guia_etica.md)
 
+* [Tribu](./tribe/README.md)
+
 * [Play](./play/README.md)
 
 * [Rol - Play](./rol/README.md)

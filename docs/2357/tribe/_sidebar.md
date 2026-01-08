@@ -10,6 +10,6 @@
 
 * [Volver a 2357](../README.md)
 
-* [Mandamientos tribu](./README.md)
+* [Tribu](./README.md)
 
 * [Firma IA](./firma-ia.md)
