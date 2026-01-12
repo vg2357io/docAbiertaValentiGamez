@@ -2,7 +2,7 @@
 
 Documentación relacionada con la creación de ecosistemas autónomos.
 
-Documentación relacionada para colaboraciones, mayormente no técnicas, gestionadas por Valentí Gàmez:
+Documentación relacionada para colaboraciones, mayormente no técnicas, gestionadas por vg2357io:
 
 [Guías de procesos narrativos](/colaboradores_vg/guias_procesos_narrativos/README.md)
 
