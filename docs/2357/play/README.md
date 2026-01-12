@@ -14,8 +14,8 @@ En la visión del Fénix, un creador no debe ser una isla. **2357 Play** permite
 ### #weLore: El Lenguaje Común
 Para que los mundos hablen entre sí, deben compartir un idioma. **#weLore** es ese estándar. No es solo una especificación técnica; es el pacto que permite que un objeto forjado en un reino tenga peso y valor en otro.
 
-### Suite Apps: Las Herramientas del Artífice
-Los creadores tienen a su disposición las **Suite Apps**, módulos prefabricados y estandarizados que se integran en sus propias plataformas. Estas herramientas permiten a la comunidad:
+### #EleuteriOS: Las Herramientas del Artífice
+Los creadores tienen a su disposición las **#EleuteriOS**, módulos prefabricados y estandarizados que se integran en sus propias plataformas. Estas herramientas permiten a la comunidad:
 
 - **Iniciar sesión de forma segura**: Una llave maestra para todas las puertas.
 - **Inventario Persistente**: Tus monedas, tus puntos, tus ítems... te pertenecen a ti, no al juego. Viajan contigo a través del ecosistema de cada creador.
