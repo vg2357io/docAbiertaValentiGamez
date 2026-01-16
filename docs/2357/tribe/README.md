@@ -1,4 +1,4 @@
-# Mandamientos tribu 2357
+# Qué me digo con mis números fundamentales 2357
 
 * Dejarás de publicar en redes sociales.
 * Conocerás a tus compañeros de gremio.
