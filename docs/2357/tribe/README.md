@@ -29,7 +29,7 @@
 * Encontrarás dos momentos al día para remarcar el valor de tu núcleo familiar.
 * Leerás una vez al día por recreo.
 * Te dormirás a las 11:00 pm y tu última acción será reflexionar sobre tu día y los tres valores de los mandamientos.
-* LOS VALORES DE LOS MANDAMIENTOS SON CONSTANCIA, DISCIPLINA Y SALUD.
+* MIS VALORES SON CONSTANCIA, DISCIPLINA Y SALUD.
 * Define tus propios valores al 2, 3, 5 y 7.
 * Busca en cualquier momento, haciendo cualquier cosa, los números fundamentales en tu vida y regocíjate en ellos.
 
