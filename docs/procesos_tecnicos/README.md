@@ -8,7 +8,7 @@ Documentación relacionada con procesos técnicos.
 
 * [Ir al inicio](/)
 
-* [Guía ética](/guia_etica.md)
+
 
 * [Configurar acceso exe global](./configurar_acceso_exe_global.md)
 

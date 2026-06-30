@@ -6,7 +6,7 @@ Todo el contenido de esta sección tiene licencia ["Llama del Fénix" v1.1"](./L
 
 * [Ver otros temas](/)
 
-* [Guía ética](/guia_etica.md)
+
 
 * [Índice](./README.md)
 

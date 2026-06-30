@@ -6,7 +6,7 @@ Cursos completados con certificado emitido.
 
 * [Ver otros temas](/)
 
-* [Guía ética](/guia_etica.md)
+
 
 * [Índice](./README.md)
 

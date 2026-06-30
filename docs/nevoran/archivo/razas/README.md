@@ -6,7 +6,7 @@ En revisión.
 
 * [Ver otros temas](/)
 
-* [Guía ética](/guia_etica.md)
+
 
 * [Volver al inicio del archivo](/nevoran/README.md)
 

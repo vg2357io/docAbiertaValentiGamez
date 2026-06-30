@@ -6,4 +6,3 @@
 
 * [Ir al inicio](/)
 
-* [Guía ética](/guia_etica.md)

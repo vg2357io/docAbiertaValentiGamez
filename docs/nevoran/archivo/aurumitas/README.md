@@ -8,7 +8,7 @@ Al adentraros en Névoran, el plano existencial de nuestro mundo, conoceréis a 
 
 * [Ver otros temas](/)
 
-* [Guía ética](/guia_etica.md)
+
 
 * [Volver al inicio del archivo](/nevoran/README.md)
 

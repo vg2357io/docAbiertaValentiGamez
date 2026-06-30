@@ -6,7 +6,7 @@ Aunque una parte del mundo aún está por descubrir y cartografiar, la mayoría 
 
 * [Ver otros temas](/)
 
-* [Guía ética](/guia_etica.md)
+
 
 * [Volver al inicio del archivo](/nevoran/README.md)
 

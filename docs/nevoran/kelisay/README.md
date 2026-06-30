@@ -8,7 +8,7 @@ Nuestra misión es crear historias únicas que se conviertan en una parte de ust
 
 * [Ver otros temas](/)
 
-* [Guía ética](/guia_etica.md)
+
 
 * [Volver al inicio del archivo](/nevoran/README.md)
 

@@ -8,4 +8,4 @@ Documentación relacionada con la arquitectura de software.
 
 * [Ir al inicio](/)
 
-* [Guía ética](/guia_etica.md)
+

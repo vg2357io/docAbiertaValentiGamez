@@ -30,4 +30,3 @@ El modelo sería descentralizado, similar a Mastodon, donde únicamente te afect
 
 * [Ir al inicio](/)
 
-* [Guía ética](/guia_etica.md)

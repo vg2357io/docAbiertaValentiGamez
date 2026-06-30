@@ -85,7 +85,7 @@ La documentació amb llicència per al seu ús és [Llama del Fénix v1.1](https
 
 * [Ver otros temas](/)
 
-* [Guía ética](/guia_etica.md)
+
 
 * [Licencia](/eleuterios/LICENSE.md)
 

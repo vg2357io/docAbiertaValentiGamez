@@ -6,7 +6,7 @@
 
 * [Ver otros temas](/)
 
-* [Guía ética](/guia_etica.md)
+
 
 * [Licencia](/eleuterios/LICENSE.md)
 

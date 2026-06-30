@@ -14,7 +14,7 @@ Se destaca el uso estratégico de la IA como herramienta de apoyo (secretario di
 
 * [Ver otros temas](/)
 
-* [Guía ética](/guia_etica.md)
+
 
 * [Descargar PDF](https://contenido.valentigamez.com/formacion/habilidades_blandas/EbookHabilidadesBlandas.pdf)
 

@@ -18,7 +18,7 @@ Documentación con licencia para su uso [Llama del Fénix v1.1](https://docs.val
 
 * [Ver otros temas](/)
 
-* [Guía ética](/guia_etica.md)
+
 
 * [Licencia](/eleuterios/LICENSE.md)
 

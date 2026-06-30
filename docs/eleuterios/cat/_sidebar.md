@@ -6,7 +6,7 @@
 
 * [Anar al inici](/)
 
-* [Guía ética](/guia_etica.md)
+
 
 * [Licencia](/eleuterios/LICENSE.md)
 

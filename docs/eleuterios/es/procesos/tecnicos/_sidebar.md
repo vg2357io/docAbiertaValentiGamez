@@ -6,7 +6,7 @@
 
 * [Ir al inicio](/)
 
-* [Guía ética](/guia_etica.md)
+
 
 * [Whitepaper English](/eleuterios/README.md)
 
